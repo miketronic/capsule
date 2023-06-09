@@ -495,23 +495,14 @@
   (junction (at 133.35 33.02) (diameter 0) (color 0 0 0 0)
     (uuid 0760fba7-46b8-46d4-ad13-2e6145d519de)
   )
-  (junction (at 87.63 41.91) (diameter 0) (color 0 0 0 0)
-    (uuid 1392986a-4f98-4c19-afc6-82c9a56545e9)
-  )
   (junction (at 74.93 36.83) (diameter 0) (color 0 0 0 0)
     (uuid 171836aa-8788-4134-a851-8f27c43e5af0)
   )
   (junction (at 90.17 19.05) (diameter 0) (color 0 0 0 0)
     (uuid 198fb282-7774-4301-b199-bc747065b271)
   )
-  (junction (at 133.35 41.91) (diameter 0) (color 0 0 0 0)
-    (uuid 1c46095b-7dbe-4671-9efd-0570debab60e)
-  )
   (junction (at 135.89 19.05) (diameter 0) (color 0 0 0 0)
     (uuid 23970342-a5f8-4675-9054-88d1416e3da4)
-  )
-  (junction (at 120.65 44.45) (diameter 0) (color 0 0 0 0)
-    (uuid 2440be68-d0a4-40a8-a14e-e0fa1f94f5c7)
   )
   (junction (at 120.65 36.83) (diameter 0) (color 0 0 0 0)
     (uuid 25a9fabc-e293-43d7-8d9a-1b30f25dd4fe)
@@ -525,20 +516,11 @@
   (junction (at 135.89 27.94) (diameter 0) (color 0 0 0 0)
     (uuid 385c9c06-080c-4a30-a64c-36df6be42db7)
   )
-  (junction (at 95.25 41.91) (diameter 0) (color 0 0 0 0)
-    (uuid 410d23be-2980-44ab-84f9-4ddd1ec76724)
-  )
-  (junction (at 118.11 41.91) (diameter 0) (color 0 0 0 0)
-    (uuid 41a7291d-15e7-42d6-a9b1-e187d9aca636)
-  )
   (junction (at 95.25 33.02) (diameter 0) (color 0 0 0 0)
     (uuid 468690da-ccc3-43e1-a9cf-feacf8d1d201)
   )
   (junction (at 74.93 27.94) (diameter 0) (color 0 0 0 0)
     (uuid 49df6f7b-bf27-4d9c-be98-442ae1754b1c)
-  )
-  (junction (at 90.17 44.45) (diameter 0) (color 0 0 0 0)
-    (uuid 52ea96f5-9200-4e87-bbd3-94adc3c75bde)
   )
   (junction (at 90.17 36.83) (diameter 0) (color 0 0 0 0)
     (uuid 5530571e-76c9-4fb3-9aaa-e6b28a75c361)
@@ -551,9 +533,6 @@
   )
   (junction (at 87.63 33.02) (diameter 0) (color 0 0 0 0)
     (uuid 7e9d954e-018f-4f68-95d5-8d3f8f4a2782)
-  )
-  (junction (at 125.73 41.91) (diameter 0) (color 0 0 0 0)
-    (uuid 8b7d8d1c-0081-4116-909c-197d1fa6914b)
   )
   (junction (at 148.59 33.02) (diameter 0) (color 0 0 0 0)
     (uuid 9b6832fb-1251-49d7-a6e9-a909cbb67f10)
@@ -572,9 +551,6 @@
   )
   (junction (at 72.39 33.02) (diameter 0) (color 0 0 0 0)
     (uuid b4fb11c1-1b01-44f1-b699-053efff4bd60)
-  )
-  (junction (at 102.87 41.91) (diameter 0) (color 0 0 0 0)
-    (uuid ccceaf76-13ee-4d81-b7e8-dbe3268b1270)
   )
   (junction (at 74.93 19.05) (diameter 0) (color 0 0 0 0)
     (uuid d31307d1-791e-4f74-8b9e-88d6b8df40ab)
@@ -602,10 +578,6 @@
     (stroke (width 0) (type default))
     (uuid 035c91c6-7e89-4a7a-af23-7ded9ccb2cff)
   )
-  (wire (pts (xy 113.03 44.45) (xy 120.65 44.45))
-    (stroke (width 0) (type default))
-    (uuid 041719a9-195f-4f0a-aadc-daf48762e80d)
-  )
   (wire (pts (xy 135.89 36.83) (xy 143.51 36.83))
     (stroke (width 0) (type default))
     (uuid 059c84e4-41d7-4e90-b84f-6863f9da7f4b)
@@ -626,10 +598,6 @@
     (stroke (width 0) (type default))
     (uuid 2b15ef21-8351-4f91-b2ef-9297157177c9)
   )
-  (wire (pts (xy 87.63 41.91) (xy 87.63 49.53))
-    (stroke (width 0) (type default))
-    (uuid 306b7258-e8a8-4285-81a8-fcd63a50fb09)
-  )
   (wire (pts (xy 82.55 27.94) (xy 90.17 27.94))
     (stroke (width 0) (type default))
     (uuid 3fee61a1-f83f-444c-9948-e6ea17286334)
@@ -642,17 +610,9 @@
     (stroke (width 0) (type default))
     (uuid 5578bbe9-f9b9-4da7-b02f-bf46c07478ff)
   )
-  (wire (pts (xy 82.55 44.45) (xy 90.17 44.45))
-    (stroke (width 0) (type default))
-    (uuid 572fe881-8f14-45e8-b81d-3466cdd769ac)
-  )
   (wire (pts (xy 113.03 27.94) (xy 120.65 27.94))
     (stroke (width 0) (type default))
     (uuid 5d127db3-b3e9-4600-adb8-6bbe3fb02ac4)
-  )
-  (wire (pts (xy 118.11 41.91) (xy 118.11 49.53))
-    (stroke (width 0) (type default))
-    (uuid 6082cc85-e3f9-4eac-9008-e3a7c8632585)
   )
   (wire (pts (xy 128.27 19.05) (xy 135.89 19.05))
     (stroke (width 0) (type default))
@@ -669,10 +629,6 @@
   (wire (pts (xy 148.59 24.13) (xy 148.59 33.02))
     (stroke (width 0) (type default))
     (uuid 702d7b31-9273-43b2-8531-1c70d68cca40)
-  )
-  (wire (pts (xy 133.35 41.91) (xy 133.35 49.53))
-    (stroke (width 0) (type default))
-    (uuid 70b81912-56b9-4792-a568-114859231292)
   )
   (wire (pts (xy 120.65 27.94) (xy 128.27 27.94))
     (stroke (width 0) (type default))
@@ -722,10 +678,6 @@
     (stroke (width 0) (type default))
     (uuid 9b898c05-29e8-4738-bd39-3a806ca95d36)
   )
-  (wire (pts (xy 95.25 41.91) (xy 95.25 49.53))
-    (stroke (width 0) (type default))
-    (uuid a20d583f-c27f-4661-bf5c-94f5b456167e)
-  )
   (wire (pts (xy 95.25 33.02) (xy 95.25 41.91))
     (stroke (width 0) (type default))
     (uuid a457e028-7d4f-41d3-b271-1f6bd15af2ed)
@@ -741,10 +693,6 @@
   (wire (pts (xy 87.63 24.13) (xy 87.63 33.02))
     (stroke (width 0) (type default))
     (uuid bb084351-2e65-4f92-a70e-6f3232e9cb22)
-  )
-  (wire (pts (xy 90.17 44.45) (xy 97.79 44.45))
-    (stroke (width 0) (type default))
-    (uuid bf9e64e2-cada-41c9-8cab-0b48827b3b32)
   )
   (wire (pts (xy 133.35 24.13) (xy 133.35 33.02))
     (stroke (width 0) (type default))
@@ -798,31 +746,15 @@
     (stroke (width 0) (type default))
     (uuid f5aed4bf-c2d7-4831-90f8-e1991ad518e1)
   )
-  (wire (pts (xy 120.65 44.45) (xy 128.27 44.45))
-    (stroke (width 0) (type default))
-    (uuid f5ed629b-20be-40fc-a8a1-866faefa6354)
-  )
   (wire (pts (xy 113.03 36.83) (xy 120.65 36.83))
     (stroke (width 0) (type default))
     (uuid f60a7c91-6e93-4c85-a92a-fda49acc3c9d)
-  )
-  (wire (pts (xy 125.73 41.91) (xy 125.73 49.53))
-    (stroke (width 0) (type default))
-    (uuid f723d20b-11e9-4535-b523-4c23686b47c1)
-  )
-  (wire (pts (xy 102.87 41.91) (xy 102.87 49.53))
-    (stroke (width 0) (type default))
-    (uuid f88cbb8e-e308-4ac2-894a-b57a9cd440c8)
   )
   (wire (pts (xy 74.93 36.83) (xy 82.55 36.83))
     (stroke (width 0) (type default))
     (uuid ffabb22c-00fe-43a2-8ff4-fd3335c9173f)
   )
 
-  (label "row3" (at 82.55 44.45 180) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify right bottom))
-    (uuid 03c21049-0e68-4345-bf21-642de01ab2fb)
-  )
   (label "VCC" (at 22.86 57.15 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 0c6f7071-fd16-417e-a3dc-a6a0a24a5420)
@@ -963,10 +895,6 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid bda858cb-4983-4a30-b08b-5d5bae3b0bb7)
   )
-  (label "row7" (at 113.03 44.45 180) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify right bottom))
-    (uuid c5f88926-15a5-4e2a-a2ef-757707db7987)
-  )
   (label "row7" (at 49.53 48.26 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid c9c1f713-6342-485b-b1f2-a41bbb860900)
@@ -1034,7 +962,7 @@
     (pin "1" (uuid ad62c7ed-5b58-4292-a06e-3d32524d4e71))
     (pin "2" (uuid 90f4d507-146d-42b3-841e-cd06cb24617e))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "D13") (unit 1)
         )
@@ -1060,7 +988,7 @@
     (pin "1" (uuid 679f77bf-2c87-41f0-a89d-339b3d8c3301))
     (pin "2" (uuid ea238c32-7943-4c11-a257-620e39dd0196))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "SW7") (unit 1)
         )
@@ -1086,7 +1014,7 @@
     (pin "1" (uuid 52f87289-e3ee-4701-a1b3-341bf4178b25))
     (pin "2" (uuid f79c1aa2-9df7-4f2d-8117-290d422aa364))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "D9") (unit 1)
         )
@@ -1134,7 +1062,7 @@
     (pin "8" (uuid 5a526050-db12-4018-8346-bba4fc5a211a))
     (pin "9" (uuid 28621d94-cccc-45e0-a90a-601f4e7a170f))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "U1") (unit 1)
         )
@@ -1160,7 +1088,7 @@
     (pin "1" (uuid 141da4da-5fbf-48c1-a1c4-4e3d202a2028))
     (pin "2" (uuid fa2abfc1-fbb0-4cf4-8393-fb1b78212b25))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "SW11") (unit 1)
         )
@@ -1171,7 +1099,7 @@
   (symbol (lib_id "hazel:SW") (at 123.19 33.02 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0b3f67df-45b7-4d74-97c6-584d5a7cb9b5)
-    (property "Reference" "SW29" (at 123.19 33.02 0)
+    (property "Reference" "SW26" (at 123.19 33.02 0)
       (effects (font (size 0.64 0.64)))
     )
     (property "Value" "SW" (at 123.19 31.75 0)
@@ -1186,9 +1114,9 @@
     (pin "1" (uuid 84a2da55-0e75-4576-8d6d-177b60d3e4b9))
     (pin "2" (uuid aaee32af-0b2d-4f63-8d56-ee458db2555f))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "SW29") (unit 1)
+          (reference "SW26") (unit 1)
         )
       )
     )
@@ -1212,7 +1140,7 @@
     (pin "1" (uuid 35a88647-e99e-4d19-b7ec-af84745f7dd5))
     (pin "2" (uuid aab1f9a5-79aa-4944-9d61-392ac802404e))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "SW5") (unit 1)
         )
@@ -1236,35 +1164,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "H3") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "hazel:SW") (at 100.33 49.53 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 0fca27fa-0741-4c0f-ab77-1fa2b859f4d7)
-    (property "Reference" "SW18" (at 100.33 49.53 0)
-      (effects (font (size 0.64 0.64)))
-    )
-    (property "Value" "SW" (at 100.33 48.26 0)
-      (effects (font (size 0.75 0.75)) hide)
-    )
-    (property "Footprint" "0-jasonhazel-footprints:jh-choc" (at 100.33 49.53 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 100.33 49.53 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 8c39aa51-2d62-4def-87af-2c93d2151861))
-    (pin "2" (uuid 212c45fc-bd9b-47ae-b3f5-4505fd929e96))
-    (instances
-      (project "ortho_wings"
-        (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "SW18") (unit 1)
         )
       )
     )
@@ -1286,7 +1188,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "H10") (unit 1)
         )
@@ -1312,7 +1214,7 @@
     (pin "1" (uuid 650a858b-0555-487a-9ec0-e8fdc5445827))
     (pin "2" (uuid 9434beda-3f75-4175-9624-995fca90902b))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "SW1") (unit 1)
         )
@@ -1323,7 +1225,7 @@
   (symbol (lib_id "hazel:SW") (at 138.43 24.13 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 19b4a12a-1ea0-44af-9ba1-95653cfaa763)
-    (property "Reference" "SW24" (at 138.43 24.13 0)
+    (property "Reference" "SW21" (at 138.43 24.13 0)
       (effects (font (size 0.64 0.64)))
     )
     (property "Value" "SW" (at 138.43 22.86 0)
@@ -1338,9 +1240,9 @@
     (pin "1" (uuid c7f47ca1-18b0-4172-8dc6-94adb9369f71))
     (pin "2" (uuid b2f0b19a-8a83-4bc9-961b-e80f03086500))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "SW24") (unit 1)
+          (reference "SW21") (unit 1)
         )
       )
     )
@@ -1364,7 +1266,7 @@
     (pin "1" (uuid e1a907b0-0608-4eda-9b07-a45d89918008))
     (pin "2" (uuid b5aa643c-4c9a-43f5-98e3-74c74c4c4c98))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "D4") (unit 1)
         )
@@ -1390,7 +1292,7 @@
     (pin "1" (uuid 3a084a8f-f875-4f41-9e4a-7f83d91670b5))
     (pin "2" (uuid eca7b136-8ebc-4a77-a914-6f1b8533dded))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "BT1") (unit 1)
         )
@@ -1414,7 +1316,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "H12") (unit 1)
         )
@@ -1439,7 +1341,7 @@
     )
     (pin "1" (uuid 77fc5747-19c8-45e2-b5c0-cca1b4b6cfef))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "J2") (unit 1)
         )
@@ -1463,7 +1365,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "H7") (unit 1)
         )
@@ -1489,7 +1391,7 @@
     (pin "1" (uuid eda3f986-4848-4424-b3bd-c59edb611e88))
     (pin "2" (uuid 7cdcab01-70e6-4172-a125-adb15399df22))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "D15") (unit 1)
         )
@@ -1500,7 +1402,7 @@
   (symbol (lib_id "hazel:SW") (at 130.81 33.02 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 30324d81-0b5d-4fe1-b22c-c849b8bbb7b8)
-    (property "Reference" "SW26" (at 130.81 33.02 0)
+    (property "Reference" "SW23" (at 130.81 33.02 0)
       (effects (font (size 0.64 0.64)))
     )
     (property "Value" "SW" (at 130.81 31.75 0)
@@ -1515,9 +1417,9 @@
     (pin "1" (uuid 02c95975-5b38-4b33-946f-656f4f825271))
     (pin "2" (uuid 4d412eab-b7f3-423e-9fda-0de93741a86a))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "SW26") (unit 1)
+          (reference "SW23") (unit 1)
         )
       )
     )
@@ -1541,7 +1443,7 @@
     (pin "1" (uuid 7ae274a6-d846-4ba1-b76f-b8e3b970d024))
     (pin "2" (uuid 9310f19f-fa21-4692-9db9-812273b01367))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "SW12") (unit 1)
         )
@@ -1565,7 +1467,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "H6") (unit 1)
         )
@@ -1576,7 +1478,7 @@
   (symbol (lib_id "hazel:D") (at 128.27 39.37 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3f56ded0-d7fc-4e47-b412-9d9acab10136)
-    (property "Reference" "D25" (at 129.54 39.37 0)
+    (property "Reference" "D22" (at 129.54 39.37 0)
       (effects (font (size 0.64 0.64)) (justify left))
     )
     (property "Value" "D" (at 130.81 38.1 90)
@@ -1591,9 +1493,9 @@
     (pin "1" (uuid 9655b2cc-06a2-41a2-a83a-d8110dcb411c))
     (pin "2" (uuid 0b429c02-e1fc-4834-967c-843b12229924))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "D25") (unit 1)
+          (reference "D22") (unit 1)
         )
       )
     )
@@ -1605,7 +1507,7 @@
     (property "Reference" "J1" (at 22.86 71.12 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "OLED-128x64" (at 17.78 73.66 0)
+    (property "Value" "OLED-128x128" (at 17.78 73.66 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "0-jasonhazel-footprints:OLED-128x64" (at 24.13 73.66 0)
@@ -1619,7 +1521,7 @@
     (pin "3" (uuid c2e41e1d-7ff3-4652-905d-35788acd696a))
     (pin "4" (uuid e7c686a9-71af-42d9-82c8-b6d3ec53e639))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "J1") (unit 1)
         )
@@ -1630,7 +1532,7 @@
   (symbol (lib_id "hazel:D") (at 128.27 30.48 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 41bfcd30-72bd-4314-9076-0f0a3c573f71)
-    (property "Reference" "D26" (at 129.54 30.48 0)
+    (property "Reference" "D23" (at 129.54 30.48 0)
       (effects (font (size 0.64 0.64)) (justify left))
     )
     (property "Value" "D" (at 130.81 29.21 90)
@@ -1645,9 +1547,9 @@
     (pin "1" (uuid 4cf46265-d5d2-4065-8781-8eef4ed828f4))
     (pin "2" (uuid c9f4f1a8-ffa3-49d5-8796-2bfc2ac2170f))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "D26") (unit 1)
+          (reference "D23") (unit 1)
         )
       )
     )
@@ -1656,7 +1558,7 @@
   (symbol (lib_id "hazel:SW") (at 123.19 41.91 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 41e22597-bdd7-4632-874a-f13969e11539)
-    (property "Reference" "SW28" (at 123.19 41.91 0)
+    (property "Reference" "SW25" (at 123.19 41.91 0)
       (effects (font (size 0.64 0.64)))
     )
     (property "Value" "SW" (at 123.19 40.64 0)
@@ -1671,9 +1573,9 @@
     (pin "1" (uuid e31cfd84-3905-4604-9bde-6de13c6b44f8))
     (pin "2" (uuid d84bc471-ac0e-485e-afa5-b9ab782028ad))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "SW28") (unit 1)
+          (reference "SW25") (unit 1)
         )
       )
     )
@@ -1697,7 +1599,7 @@
     (pin "1" (uuid 8cd06e34-d7be-42fc-8420-f81c23382006))
     (pin "2" (uuid 408940fe-d245-4837-904a-0a44b4c4d2bd))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "SW4") (unit 1)
         )
@@ -1723,35 +1625,9 @@
     (pin "1" (uuid 9375ac70-66c5-4888-8341-61f424861fc1))
     (pin "2" (uuid 604a4dae-37d1-4252-803d-ec3b1222c528))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "D8") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "hazel:D") (at 82.55 46.99 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 45c0e7b8-4584-440f-aa98-40cb3e495be9)
-    (property "Reference" "D16" (at 83.82 46.99 0)
-      (effects (font (size 0.64 0.64)) (justify left))
-    )
-    (property "Value" "D" (at 85.09 45.72 90)
-      (effects (font (size 0.63 0.63)) (justify left) hide)
-    )
-    (property "Footprint" "0-jasonhazel-footprints:D_SOD-123_via" (at 82.55 46.99 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 82.55 46.99 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 9ac9f6b9-c6ae-4007-9f70-1504a7c6bd38))
-    (pin "2" (uuid 21942c72-11c6-420f-b8b8-ffc54f4eabdb))
-    (instances
-      (project "ortho_wings"
-        (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "D16") (unit 1)
         )
       )
     )
@@ -1773,7 +1649,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "H1") (unit 1)
         )
@@ -1784,7 +1660,7 @@
   (symbol (lib_id "hazel:SW") (at 138.43 41.91 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4a75f581-7e09-467c-8c17-a88d2bc84b5a)
-    (property "Reference" "SW22" (at 138.43 41.91 0)
+    (property "Reference" "SW19" (at 138.43 41.91 0)
       (effects (font (size 0.64 0.64)))
     )
     (property "Value" "SW" (at 138.43 40.64 0)
@@ -1799,9 +1675,9 @@
     (pin "1" (uuid f925678c-1c6f-444b-b5c4-dd2693bb783a))
     (pin "2" (uuid a4a091c3-5aec-4e7d-bacb-d1bbd5fddc8c))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "SW22") (unit 1)
+          (reference "SW19") (unit 1)
         )
       )
     )
@@ -1810,7 +1686,7 @@
   (symbol (lib_id "hazel:D") (at 120.65 21.59 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4db2cf05-08f4-45b0-ae4d-18df6a11e0a6)
-    (property "Reference" "D30" (at 121.92 21.59 0)
+    (property "Reference" "D27" (at 121.92 21.59 0)
       (effects (font (size 0.64 0.64)) (justify left))
     )
     (property "Value" "D" (at 123.19 20.32 90)
@@ -1825,9 +1701,9 @@
     (pin "1" (uuid 0935285c-d3fa-4043-9937-335894d27a39))
     (pin "2" (uuid d6c4db4d-5128-4034-992e-b246baf64400))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "D30") (unit 1)
+          (reference "D27") (unit 1)
         )
       )
     )
@@ -1836,7 +1712,7 @@
   (symbol (lib_id "hazel:SW") (at 123.19 24.13 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4f201053-c421-4e89-977c-3268a031414b)
-    (property "Reference" "SW30" (at 123.19 24.13 0)
+    (property "Reference" "SW27" (at 123.19 24.13 0)
       (effects (font (size 0.64 0.64)))
     )
     (property "Value" "SW" (at 123.19 22.86 0)
@@ -1851,9 +1727,9 @@
     (pin "1" (uuid d7e1c3c9-043e-47ba-915b-1969c31b9a78))
     (pin "2" (uuid 3ed85139-8581-4686-9b1e-9113afae6e3c))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "SW30") (unit 1)
+          (reference "SW27") (unit 1)
         )
       )
     )
@@ -1875,7 +1751,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "H2") (unit 1)
         )
@@ -1901,35 +1777,9 @@
     (pin "1" (uuid 864f9145-3a38-4a98-b755-973c7080be29))
     (pin "2" (uuid 01a815eb-7015-4691-8307-3a55d6403002))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "D14") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "hazel:D") (at 120.65 46.99 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 54767981-3ade-46ab-b09c-8fbd08a46aba)
-    (property "Reference" "D35" (at 121.92 46.99 0)
-      (effects (font (size 0.64 0.64)) (justify left))
-    )
-    (property "Value" "D" (at 123.19 45.72 90)
-      (effects (font (size 0.63 0.63)) (justify left) hide)
-    )
-    (property "Footprint" "0-jasonhazel-footprints:D_SOD-123_via" (at 120.65 46.99 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 120.65 46.99 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 9b867b58-914e-4ba2-8813-1b333886a5b6))
-    (pin "2" (uuid 60de8d2a-a9f5-4286-a780-4e26edca69fd))
-    (instances
-      (project "ortho_wings"
-        (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "D35") (unit 1)
         )
       )
     )
@@ -1938,7 +1788,7 @@
   (symbol (lib_id "hazel:SW") (at 130.81 41.91 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 549234ea-e9df-4dc0-87b2-69d6f31af265)
-    (property "Reference" "SW25" (at 130.81 41.91 0)
+    (property "Reference" "SW22" (at 130.81 41.91 0)
       (effects (font (size 0.64 0.64)))
     )
     (property "Value" "SW" (at 130.81 40.64 0)
@@ -1953,9 +1803,9 @@
     (pin "1" (uuid 3455b724-ab22-4dea-9984-122cddbd28fe))
     (pin "2" (uuid 0668575f-3368-4873-b784-9b70d896dfd5))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "SW25") (unit 1)
+          (reference "SW22") (unit 1)
         )
       )
     )
@@ -1979,7 +1829,7 @@
     (pin "1" (uuid 69e4ea9a-c440-4d35-aace-9e6c95f70289))
     (pin "2" (uuid d1556b78-4a0d-402d-a170-cc66139b4fb5))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "D5") (unit 1)
         )
@@ -2005,35 +1855,9 @@
     (pin "1" (uuid 9485c162-e8c3-4b73-a14a-b7f2dc418812))
     (pin "2" (uuid 3b3eb96c-223e-4886-b168-50e7fe1a4cfa))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "SW8") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "hazel:SW") (at 115.57 49.53 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 65edd4f6-5428-4654-bca5-bbd039c6e63a)
-    (property "Reference" "SW36" (at 115.57 49.53 0)
-      (effects (font (size 0.64 0.64)))
-    )
-    (property "Value" "SW" (at 115.57 48.26 0)
-      (effects (font (size 0.75 0.75)) hide)
-    )
-    (property "Footprint" "0-jasonhazel-footprints:jh-choc" (at 115.57 49.53 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 115.57 49.53 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 6a2af905-f239-4dd3-98e9-1ff573c546d8))
-    (pin "2" (uuid bc4fbab8-bade-4c10-ae1d-841bb0c383ae))
-    (instances
-      (project "ortho_wings"
-        (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "SW36") (unit 1)
         )
       )
     )
@@ -2042,7 +1866,7 @@
   (symbol (lib_id "hazel:SW") (at 115.57 24.13 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6be81b0d-67fa-4d1a-80b7-69d51da1177c)
-    (property "Reference" "SW33" (at 115.57 24.13 0)
+    (property "Reference" "SW30" (at 115.57 24.13 0)
       (effects (font (size 0.64 0.64)))
     )
     (property "Value" "SW" (at 115.57 22.86 0)
@@ -2057,9 +1881,9 @@
     (pin "1" (uuid 9fa9df5a-7f9d-4641-80e6-70ef8a0ed8b9))
     (pin "2" (uuid 6f0f9693-7be0-4453-b5d9-35f3a9b70602))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "SW33") (unit 1)
+          (reference "SW30") (unit 1)
         )
       )
     )
@@ -2081,7 +1905,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "H8") (unit 1)
         )
@@ -2092,7 +1916,7 @@
   (symbol (lib_id "hazel:SW") (at 146.05 41.91 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6eab7146-0765-4cef-9c26-aa2c3e8ac802)
-    (property "Reference" "SW19" (at 146.05 41.91 0)
+    (property "Reference" "SW16" (at 146.05 41.91 0)
       (effects (font (size 0.64 0.64)))
     )
     (property "Value" "SW" (at 146.05 40.64 0)
@@ -2107,9 +1931,9 @@
     (pin "1" (uuid 77f915a6-8f68-43e8-9cf2-79d2b3d29d03))
     (pin "2" (uuid cca38027-7a9c-43a3-926e-c343a45328ee))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "SW19") (unit 1)
+          (reference "SW16") (unit 1)
         )
       )
     )
@@ -2118,7 +1942,7 @@
   (symbol (lib_id "hazel:SW") (at 146.05 24.13 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 77365cf3-2fc2-4a7d-8602-e69b6a47fb66)
-    (property "Reference" "SW21" (at 146.05 24.13 0)
+    (property "Reference" "SW18" (at 146.05 24.13 0)
       (effects (font (size 0.64 0.64)))
     )
     (property "Value" "SW" (at 146.05 22.86 0)
@@ -2133,9 +1957,9 @@
     (pin "1" (uuid 3b1e76a7-47b7-43fc-a0b0-b86990f2b02f))
     (pin "2" (uuid aa473231-a604-4e12-b235-889b61786bc7))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "SW21") (unit 1)
+          (reference "SW18") (unit 1)
         )
       )
     )
@@ -2159,7 +1983,7 @@
     (pin "1" (uuid ffa8644c-e92c-4f96-9e60-f79201bdc7a8))
     (pin "2" (uuid bbc82d0f-9d5f-458f-bdd6-413f2d3f3bf4))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "SW15") (unit 1)
         )
@@ -2185,35 +2009,9 @@
     (pin "1" (uuid 643fd557-66bd-4a43-a03d-6f808fa7ca18))
     (pin "2" (uuid 3db79427-29de-4ca9-a699-19c15ee6d537))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "D7") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "hazel:D") (at 113.03 46.99 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid 7c20b490-488b-4109-996d-f9118402ab07)
-    (property "Reference" "D36" (at 114.3 46.99 0)
-      (effects (font (size 0.64 0.64)) (justify left))
-    )
-    (property "Value" "D" (at 115.57 45.72 90)
-      (effects (font (size 0.63 0.63)) (justify left) hide)
-    )
-    (property "Footprint" "0-jasonhazel-footprints:D_SOD-123_via" (at 113.03 46.99 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 113.03 46.99 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 6e1fa120-91c3-4278-9437-81fb4b05df35))
-    (pin "2" (uuid 446902d8-447d-413c-a773-9c8e8b073ce2))
-    (instances
-      (project "ortho_wings"
-        (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "D36") (unit 1)
         )
       )
     )
@@ -2237,7 +2035,7 @@
     (pin "1" (uuid 70b7d6d5-19a3-4128-80d3-75e749bd59c8))
     (pin "2" (uuid 678944f5-4c1e-40e9-8f04-bef5bbc0f840))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "D2") (unit 1)
         )
@@ -2248,7 +2046,7 @@
   (symbol (lib_id "hazel:D") (at 135.89 21.59 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 82f04e41-d147-40d7-afe8-c7975ffb9804)
-    (property "Reference" "D24" (at 137.16 21.59 0)
+    (property "Reference" "D21" (at 137.16 21.59 0)
       (effects (font (size 0.64 0.64)) (justify left))
     )
     (property "Value" "D" (at 138.43 20.32 90)
@@ -2263,9 +2061,9 @@
     (pin "1" (uuid 310cd281-24c0-45f0-a200-fa1da3b20f2f))
     (pin "2" (uuid 3fba61cd-ad90-479b-99b3-362b0ec8bf52))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "D24") (unit 1)
+          (reference "D21") (unit 1)
         )
       )
     )
@@ -2289,7 +2087,7 @@
     (pin "1" (uuid 988e70e2-5153-49af-8be8-b828d655abd2))
     (pin "2" (uuid 2393c50d-9fc7-4e9b-a9c9-1f22a0387519))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "D1") (unit 1)
         )
@@ -2300,7 +2098,7 @@
   (symbol (lib_id "hazel:SW") (at 130.81 24.13 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 87c22bb5-a62f-43d5-8d52-ec4729b44368)
-    (property "Reference" "SW27" (at 130.81 24.13 0)
+    (property "Reference" "SW24" (at 130.81 24.13 0)
       (effects (font (size 0.64 0.64)))
     )
     (property "Value" "SW" (at 130.81 22.86 0)
@@ -2315,9 +2113,9 @@
     (pin "1" (uuid 59d980a7-274c-4b98-a99d-617f95259d07))
     (pin "2" (uuid dec54e36-f01b-4db1-b208-da4368d0ca79))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "SW27") (unit 1)
+          (reference "SW24") (unit 1)
         )
       )
     )
@@ -2326,7 +2124,7 @@
   (symbol (lib_id "hazel:SW") (at 146.05 33.02 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 89a06acb-12c2-4408-8b97-44cc96ef7fb6)
-    (property "Reference" "SW20" (at 146.05 33.02 0)
+    (property "Reference" "SW17" (at 146.05 33.02 0)
       (effects (font (size 0.64 0.64)))
     )
     (property "Value" "SW" (at 146.05 31.75 0)
@@ -2341,9 +2139,9 @@
     (pin "1" (uuid 3cc1a3c0-1a6d-40c7-bb55-699d93b21104))
     (pin "2" (uuid 1efd5481-bbe5-433a-9109-6fe3a2169bc1))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "SW20") (unit 1)
+          (reference "SW17") (unit 1)
         )
       )
     )
@@ -2365,7 +2163,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "H5") (unit 1)
         )
@@ -2391,7 +2189,7 @@
     (pin "1" (uuid 0eb3f7ae-fcf7-4841-b482-374a4b80441f))
     (pin "2" (uuid 30540deb-1dda-47af-a150-07e404419899))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "D12") (unit 1)
         )
@@ -2417,7 +2215,7 @@
     (pin "1" (uuid 025b1fe2-c1d8-48ea-b100-cc649dd599c1))
     (pin "2" (uuid 1ce0578a-534a-40da-9ade-829e0f137b72))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "SW14") (unit 1)
         )
@@ -2443,7 +2241,7 @@
     (pin "1" (uuid edb45073-1fcb-43b1-b325-accf15f0cd68))
     (pin "2" (uuid a516f187-8cb7-4818-87f1-621c42c4accf))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "D11") (unit 1)
         )
@@ -2454,7 +2252,7 @@
   (symbol (lib_id "hazel:D") (at 143.51 30.48 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a0c4dba0-62f7-44cc-b0d0-aa7cd7a8c1b4)
-    (property "Reference" "D20" (at 144.78 30.48 0)
+    (property "Reference" "D17" (at 144.78 30.48 0)
       (effects (font (size 0.64 0.64)) (justify left))
     )
     (property "Value" "D" (at 146.05 29.21 90)
@@ -2469,9 +2267,9 @@
     (pin "1" (uuid 7e0cd016-7211-43b5-8ae2-c3d34c6d28e5))
     (pin "2" (uuid b804823e-866e-418b-8665-22179866e584))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "D20") (unit 1)
+          (reference "D17") (unit 1)
         )
       )
     )
@@ -2480,7 +2278,7 @@
   (symbol (lib_id "hazel:D") (at 113.03 39.37 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a2a8f8c6-7e44-4a74-b806-fe1aba47bcd1)
-    (property "Reference" "D31" (at 114.3 39.37 0)
+    (property "Reference" "D28" (at 114.3 39.37 0)
       (effects (font (size 0.64 0.64)) (justify left))
     )
     (property "Value" "D" (at 115.57 38.1 90)
@@ -2495,9 +2293,9 @@
     (pin "1" (uuid 3d655aa2-0f41-46e7-930f-c48a7e124189))
     (pin "2" (uuid 3579b492-5e1b-4dbe-b995-026bcaf290ee))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "D31") (unit 1)
+          (reference "D28") (unit 1)
         )
       )
     )
@@ -2521,7 +2319,7 @@
     (pin "1" (uuid a9e3bfa6-c033-4d87-9da7-7c0b4d42e19c))
     (pin "2" (uuid 1cf14e0c-620d-4b6f-8744-ed9cd4cb48ae))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "SW2") (unit 1)
         )
@@ -2547,7 +2345,7 @@
     (pin "1" (uuid 3502a72f-8e08-453b-a7ef-db3c76d8f9a4))
     (pin "2" (uuid 40f954de-69c2-487e-96b2-0a6382e69a5a))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "SW10") (unit 1)
         )
@@ -2558,7 +2356,7 @@
   (symbol (lib_id "hazel:SW") (at 138.43 33.02 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid aea799e5-a74d-49ab-87fc-8e9845b3ab06)
-    (property "Reference" "SW23" (at 138.43 33.02 0)
+    (property "Reference" "SW20" (at 138.43 33.02 0)
       (effects (font (size 0.64 0.64)))
     )
     (property "Value" "SW" (at 138.43 31.75 0)
@@ -2573,35 +2371,9 @@
     (pin "1" (uuid 5442fe92-a8e8-42e4-95ff-bec64f5b19c7))
     (pin "2" (uuid 64a5a718-1837-44be-962e-0472247b0f09))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "SW23") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "hazel:SW") (at 130.81 49.53 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid b0c86538-3496-42de-8f55-e62dfd1c5a38)
-    (property "Reference" "SW34" (at 130.81 49.53 0)
-      (effects (font (size 0.64 0.64)))
-    )
-    (property "Value" "SW" (at 130.81 48.26 0)
-      (effects (font (size 0.75 0.75)) hide)
-    )
-    (property "Footprint" "0-jasonhazel-footprints:jh-choc" (at 130.81 49.53 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 130.81 49.53 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 31402a1a-4841-4c69-9402-752fc0bba970))
-    (pin "2" (uuid aab7b1fc-cdc2-4a67-9065-af3ae72f7aa8))
-    (instances
-      (project "ortho_wings"
-        (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "SW34") (unit 1)
+          (reference "SW20") (unit 1)
         )
       )
     )
@@ -2610,7 +2382,7 @@
   (symbol (lib_id "hazel:D") (at 120.65 30.48 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b3d81d07-b67d-400a-95c7-3ead257ee03c)
-    (property "Reference" "D29" (at 121.92 30.48 0)
+    (property "Reference" "D26" (at 121.92 30.48 0)
       (effects (font (size 0.64 0.64)) (justify left))
     )
     (property "Value" "D" (at 123.19 29.21 90)
@@ -2625,9 +2397,9 @@
     (pin "1" (uuid f9a9e577-f9e5-4994-a4de-52d9fa253049))
     (pin "2" (uuid 79100bbf-b960-4e4a-b2eb-eafb7d06cf83))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "D29") (unit 1)
+          (reference "D26") (unit 1)
         )
       )
     )
@@ -2651,7 +2423,7 @@
     (pin "1" (uuid f3a2997c-69f1-43be-9da3-532ab784535b))
     (pin "2" (uuid 851110c5-d782-4eed-ac02-e18f376f2431))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "SW6") (unit 1)
         )
@@ -2675,61 +2447,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "H4") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "hazel:SW") (at 85.09 49.53 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid c05940ce-7e9d-4a21-b561-3f9d5d7c863d)
-    (property "Reference" "SW16" (at 85.09 49.53 0)
-      (effects (font (size 0.64 0.64)))
-    )
-    (property "Value" "SW" (at 85.09 48.26 0)
-      (effects (font (size 0.75 0.75)) hide)
-    )
-    (property "Footprint" "0-jasonhazel-footprints:jh-choc" (at 85.09 49.53 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 85.09 49.53 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid dc5827d0-42cf-4f14-92e9-7258361f4a08))
-    (pin "2" (uuid cf9f68a0-9e38-41e8-bac8-263a4beab8c3))
-    (instances
-      (project "ortho_wings"
-        (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "SW16") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "hazel:D") (at 128.27 46.99 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid c145e7d2-fa14-41c7-a828-b3f201e45863)
-    (property "Reference" "D34" (at 129.54 46.99 0)
-      (effects (font (size 0.64 0.64)) (justify left))
-    )
-    (property "Value" "D" (at 130.81 45.72 90)
-      (effects (font (size 0.63 0.63)) (justify left) hide)
-    )
-    (property "Footprint" "0-jasonhazel-footprints:D_SOD-123_via" (at 128.27 46.99 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 128.27 46.99 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 7ced259f-e41f-4301-882d-a936a5d282e3))
-    (pin "2" (uuid c4a860a4-d110-447a-8747-4525fd071f58))
-    (instances
-      (project "ortho_wings"
-        (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "D34") (unit 1)
         )
       )
     )
@@ -2753,7 +2473,7 @@
     (pin "1" (uuid 0376c8cb-fce3-44ba-aee7-7b818c21a50f))
     (pin "2" (uuid 35234feb-db4b-4c5c-9348-a9ecf4e1d018))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "RESET1") (unit 1)
         )
@@ -2779,7 +2499,7 @@
     (pin "1" (uuid 62008627-19dc-4ec8-ba21-5b5d17a10684))
     (pin "2" (uuid b1acebde-99f5-45a4-9d87-16e858ab2cb0))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "D3") (unit 1)
         )
@@ -2805,7 +2525,7 @@
     (pin "1" (uuid 99d93b6d-5899-4526-9169-ba47d864582e))
     (pin "2" (uuid 10112ef0-302a-4d55-aa42-ff621438eb5c))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "D10") (unit 1)
         )
@@ -2816,7 +2536,7 @@
   (symbol (lib_id "hazel:D") (at 113.03 30.48 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c7daeb76-25e4-46df-a673-c119b3f393bc)
-    (property "Reference" "D32" (at 114.3 30.48 0)
+    (property "Reference" "D29" (at 114.3 30.48 0)
       (effects (font (size 0.64 0.64)) (justify left))
     )
     (property "Value" "D" (at 115.57 29.21 90)
@@ -2831,9 +2551,9 @@
     (pin "1" (uuid 659ced95-ef06-4062-9e10-aa6fbd132c78))
     (pin "2" (uuid dff06e3b-f342-41c6-8778-aaace2a55c87))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "D32") (unit 1)
+          (reference "D29") (unit 1)
         )
       )
     )
@@ -2857,7 +2577,7 @@
     (pin "1" (uuid 79d58891-43fc-4957-887d-70269eb54713))
     (pin "2" (uuid ff7d57ca-a1ff-4acb-b34d-3ce6ed01fa50))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "SW3") (unit 1)
         )
@@ -2868,7 +2588,7 @@
   (symbol (lib_id "hazel:D") (at 113.03 21.59 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cb083586-35dc-4096-8508-4588d551bf72)
-    (property "Reference" "D33" (at 114.3 21.59 0)
+    (property "Reference" "D30" (at 114.3 21.59 0)
       (effects (font (size 0.64 0.64)) (justify left))
     )
     (property "Value" "D" (at 115.57 20.32 90)
@@ -2883,9 +2603,9 @@
     (pin "1" (uuid c0df896d-e90c-482d-957f-20f06af705a1))
     (pin "2" (uuid cb1aeedd-dfe0-4bb6-ad47-cfb6315925cf))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "D33") (unit 1)
+          (reference "D30") (unit 1)
         )
       )
     )
@@ -2894,7 +2614,7 @@
   (symbol (lib_id "hazel:D") (at 143.51 21.59 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cb62939a-760c-4eb9-83b0-3b4bf99bc8fa)
-    (property "Reference" "D21" (at 144.78 21.59 0)
+    (property "Reference" "D18" (at 144.78 21.59 0)
       (effects (font (size 0.64 0.64)) (justify left))
     )
     (property "Value" "D" (at 146.05 20.32 90)
@@ -2909,35 +2629,9 @@
     (pin "1" (uuid 355bef3a-a2d4-46a6-91a2-d95d4c3aefef))
     (pin "2" (uuid e70448a5-8d36-4965-a0b7-6ca2819c0b51))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "D21") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "hazel:SW") (at 123.19 49.53 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid d189c029-2514-4338-bd3d-5a6ef9bce726)
-    (property "Reference" "SW35" (at 123.19 49.53 0)
-      (effects (font (size 0.64 0.64)))
-    )
-    (property "Value" "SW" (at 123.19 48.26 0)
-      (effects (font (size 0.75 0.75)) hide)
-    )
-    (property "Footprint" "0-jasonhazel-footprints:jh-choc" (at 123.19 49.53 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 123.19 49.53 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 612b980d-21d1-4f71-929a-5abe90858a16))
-    (pin "2" (uuid 9536735a-f333-4958-bd97-0b3e098993be))
-    (instances
-      (project "ortho_wings"
-        (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "SW35") (unit 1)
+          (reference "D18") (unit 1)
         )
       )
     )
@@ -2961,7 +2655,7 @@
     (pin "1" (uuid 486fd12f-f389-4f61-ac91-1bfe4531ed56))
     (pin "2" (uuid 7c7a7a71-1316-4d1f-9334-59853430225a))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "D6") (unit 1)
         )
@@ -2972,7 +2666,7 @@
   (symbol (lib_id "hazel:D") (at 135.89 39.37 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d866e252-e15c-48bf-a29c-88e1ad667f41)
-    (property "Reference" "D22" (at 137.16 39.37 0)
+    (property "Reference" "D19" (at 137.16 39.37 0)
       (effects (font (size 0.64 0.64)) (justify left))
     )
     (property "Value" "D" (at 138.43 38.1 90)
@@ -2987,9 +2681,9 @@
     (pin "1" (uuid 1e010a3d-8021-426d-a990-225e7ea29a23))
     (pin "2" (uuid 27bc503f-3f65-4c1c-8ff9-f81dd9eac9f1))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "D22") (unit 1)
+          (reference "D19") (unit 1)
         )
       )
     )
@@ -2998,7 +2692,7 @@
   (symbol (lib_id "hazel:SW") (at 115.57 41.91 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid dca2c4a5-f16e-4cec-ab9a-ed86d3570438)
-    (property "Reference" "SW31" (at 115.57 41.91 0)
+    (property "Reference" "SW28" (at 115.57 41.91 0)
       (effects (font (size 0.64 0.64)))
     )
     (property "Value" "SW" (at 115.57 40.64 0)
@@ -3013,9 +2707,9 @@
     (pin "1" (uuid 68a4e585-eb1d-4703-bd46-f0f5541e355d))
     (pin "2" (uuid 4a8f5c2a-3ceb-496d-b6cf-033c76c29ea9))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "SW31") (unit 1)
+          (reference "SW28") (unit 1)
         )
       )
     )
@@ -3024,7 +2718,7 @@
   (symbol (lib_id "hazel:D") (at 143.51 39.37 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid dcde6a33-8097-4f3e-8541-8115cdba969c)
-    (property "Reference" "D19" (at 144.78 39.37 0)
+    (property "Reference" "D16" (at 144.78 39.37 0)
       (effects (font (size 0.64 0.64)) (justify left))
     )
     (property "Value" "D" (at 146.05 38.1 90)
@@ -3039,9 +2733,9 @@
     (pin "1" (uuid 10609286-1511-4441-bc1b-a2276f821912))
     (pin "2" (uuid 7b88ff02-995e-445d-b80a-c4169b884900))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "D19") (unit 1)
+          (reference "D16") (unit 1)
         )
       )
     )
@@ -3065,7 +2759,7 @@
     (pin "1" (uuid d59c4be0-d024-4d24-aa1b-90e088085ae5))
     (pin "2" (uuid b06917c1-012f-442a-aebe-3a439c12d4f5))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "SW13") (unit 1)
         )
@@ -3076,7 +2770,7 @@
   (symbol (lib_id "hazel:D") (at 135.89 30.48 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e115361d-358c-4d24-b628-c1f6ba1ad4c1)
-    (property "Reference" "D23" (at 137.16 30.48 0)
+    (property "Reference" "D20" (at 137.16 30.48 0)
       (effects (font (size 0.64 0.64)) (justify left))
     )
     (property "Value" "D" (at 138.43 29.21 90)
@@ -3091,61 +2785,9 @@
     (pin "1" (uuid 6a16f23c-dcf5-4300-b90d-2637e1a06c9b))
     (pin "2" (uuid ab94ceaf-d17e-4125-b10c-8923a2c7737b))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "D23") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "hazel:SW") (at 92.71 49.53 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid e5c3af98-e269-465d-9c28-c5a0eadc7c92)
-    (property "Reference" "SW17" (at 92.71 49.53 0)
-      (effects (font (size 0.64 0.64)))
-    )
-    (property "Value" "SW" (at 92.71 48.26 0)
-      (effects (font (size 0.75 0.75)) hide)
-    )
-    (property "Footprint" "0-jasonhazel-footprints:jh-choc" (at 92.71 49.53 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 92.71 49.53 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 80c30144-6b21-4227-85e3-3e30b29f2952))
-    (pin "2" (uuid 29b400b7-f7dd-4ce1-b910-089931a857dd))
-    (instances
-      (project "ortho_wings"
-        (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "SW17") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "hazel:D") (at 97.79 46.99 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid ebd6c153-8b37-4717-a239-ecc2013ff5e6)
-    (property "Reference" "D18" (at 99.06 46.99 0)
-      (effects (font (size 0.64 0.64)) (justify left))
-    )
-    (property "Value" "D" (at 100.33 45.72 90)
-      (effects (font (size 0.63 0.63)) (justify left) hide)
-    )
-    (property "Footprint" "0-jasonhazel-footprints:D_SOD-123_via" (at 97.79 46.99 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 97.79 46.99 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 6098f4e7-c30a-4c67-98d3-e35572ba3f8d))
-    (pin "2" (uuid 7ba159b1-8fdc-4e48-8132-7be9823510c2))
-    (instances
-      (project "ortho_wings"
-        (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "D18") (unit 1)
+          (reference "D20") (unit 1)
         )
       )
     )
@@ -3154,7 +2796,7 @@
   (symbol (lib_id "hazel:D") (at 120.65 39.37 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ee182c2a-2dee-4e53-bd91-99a021d400c9)
-    (property "Reference" "D28" (at 121.92 39.37 0)
+    (property "Reference" "D25" (at 121.92 39.37 0)
       (effects (font (size 0.64 0.64)) (justify left))
     )
     (property "Value" "D" (at 123.19 38.1 90)
@@ -3169,9 +2811,9 @@
     (pin "1" (uuid 7597c6ac-c6a0-4faf-9970-bd0743910851))
     (pin "2" (uuid 05adab8a-87c6-4f17-98da-142672e00ead))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "D28") (unit 1)
+          (reference "D25") (unit 1)
         )
       )
     )
@@ -3193,7 +2835,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "H11") (unit 1)
         )
@@ -3219,7 +2861,7 @@
     (pin "1" (uuid 91b5d6aa-f26f-4b5f-ad60-7af22095201e))
     (pin "2" (uuid b93ec6fd-a76b-4a3d-93b6-def6f2a25506))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "SW9") (unit 1)
         )
@@ -3230,7 +2872,7 @@
   (symbol (lib_id "hazel:D") (at 128.27 21.59 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f4c84f76-5d3f-47ac-b0fc-bb30cab3c77d)
-    (property "Reference" "D27" (at 129.54 21.59 0)
+    (property "Reference" "D24" (at 129.54 21.59 0)
       (effects (font (size 0.64 0.64)) (justify left))
     )
     (property "Value" "D" (at 130.81 20.32 90)
@@ -3245,9 +2887,9 @@
     (pin "1" (uuid ba3ed537-e129-4315-8603-b401292a7242))
     (pin "2" (uuid 0cfbcbfc-6f71-4ee6-a981-e847de655871))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "D27") (unit 1)
+          (reference "D24") (unit 1)
         )
       )
     )
@@ -3269,7 +2911,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "H9") (unit 1)
         )
@@ -3280,7 +2922,7 @@
   (symbol (lib_id "hazel:SW") (at 115.57 33.02 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f812d95c-6b5d-4f52-a942-d4abff52c510)
-    (property "Reference" "SW32" (at 115.57 33.02 0)
+    (property "Reference" "SW29" (at 115.57 33.02 0)
       (effects (font (size 0.64 0.64)))
     )
     (property "Value" "SW" (at 115.57 31.75 0)
@@ -3295,35 +2937,9 @@
     (pin "1" (uuid b0cb556f-670b-4a9d-83ca-c40704469d65))
     (pin "2" (uuid dc08e8f7-b8b6-414a-8e26-636c8717fc0d))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "SW32") (unit 1)
-        )
-      )
-    )
-  )
-
-  (symbol (lib_id "hazel:D") (at 90.17 46.99 90) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
-    (uuid fbbe5ab1-12d5-411f-a55e-89c60eedf053)
-    (property "Reference" "D17" (at 91.44 46.99 0)
-      (effects (font (size 0.64 0.64)) (justify left))
-    )
-    (property "Value" "D" (at 92.71 45.72 90)
-      (effects (font (size 0.63 0.63)) (justify left) hide)
-    )
-    (property "Footprint" "0-jasonhazel-footprints:D_SOD-123_via" (at 90.17 46.99 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (at 90.17 46.99 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 8ca731f4-c53f-44c1-ae8c-af45e58c64e9))
-    (pin "2" (uuid 4694bf3b-7063-4e15-ab9e-df7e0a60ff92))
-    (instances
-      (project "ortho_wings"
-        (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
-          (reference "D17") (unit 1)
+          (reference "SW29") (unit 1)
         )
       )
     )
@@ -3348,7 +2964,7 @@
     (pin "2" (uuid 06b16f80-8b89-4281-ac57-a383fac4861e))
     (pin "3" (uuid 6668243f-7f9c-448a-a8d2-afb7a87e5bda))
     (instances
-      (project "ortho_wings"
+      (project "Capsule"
         (path "/31ee86e8-2846-4d2f-8bbd-b1d272a4eb8b"
           (reference "PWR1") (unit 1)
         )
