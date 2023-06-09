@@ -1031,7 +1031,7 @@
     (property "Value" "ProMicro" (at 31.75 16.51 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "0-jasonhazel-footprints:ArduinoProMicro" (at 58.42 97.79 90)
+    (property "Footprint" "Keebio-Parts:ArduinoProMicro" (at 58.42 97.79 90)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 58.42 97.79 90)
