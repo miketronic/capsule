@@ -8,4 +8,7 @@
   (lib (name "misc")(type "KiCad")(uri "${KIPRJMOD}/kleeb/misc.kicad_sym")(options "")(descr ""))
   (lib (name "sensor")(type "KiCad")(uri "${KIPRJMOD}/kleeb/sensor.kicad_sym")(options "")(descr ""))
   (lib (name "switch")(type "KiCad")(uri "${KIPRJMOD}/kleeb/switch.kicad_sym")(options "")(descr ""))
+  (lib (name "Diode_AKL")(type "KiCad")(uri "${KIPRJMOD}/Alternate-KiCad-Library-main/symbols/Diode_AKL.kicad_sym")(options "")(descr ""))
+  (lib (name "Diode_Bridge_AKL")(type "KiCad")(uri "${KIPRJMOD}/Alternate-KiCad-Library-main/symbols/Diode_Bridge_AKL.kicad_sym")(options "")(descr ""))
+  (lib (name "Diode_Schottky_AKL")(type "KiCad")(uri "${KIPRJMOD}/Alternate-KiCad-Library-main/symbols/Diode_Schottky_AKL.kicad_sym")(options "")(descr ""))
 )

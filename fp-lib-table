@@ -9,4 +9,6 @@
   (lib (name "Keebio-Parts")(type "KiCad")(uri "${KIPRJMOD}/Keebio-Parts.pretty")(options "")(descr ""))
   (lib (name "kleeb")(type "KiCad")(uri "${KIPRJMOD}/kleeb")(options "")(descr ""))
   (lib (name "miketronic_fplib")(type "KiCad")(uri "${KIPRJMOD}/miketronic_fplib.pretty")(options "")(descr ""))
+  (lib (name "Alternate-KiCad-Library-main")(type "KiCad")(uri "${KIPRJMOD}/Alternate-KiCad-Library-main")(options "")(descr ""))
+  (lib (name "ATMEGA")(type "KiCad")(uri "C:/Users/mikeb/Dropbox/[vault]/Keyboards/DESIGN/ATMEGA")(options "")(descr ""))
 )

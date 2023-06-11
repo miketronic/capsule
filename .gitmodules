@@ -10,3 +10,6 @@
 [submodule "Keebio-Parts.pretty"]
 	path = Keebio-Parts.pretty
 	url = https://github.com/keebio/Keebio-Parts.pretty
+[submodule "marbastlib"]
+	path = marbastlib
+	url = https://github.com/ebastler/marbastlib
