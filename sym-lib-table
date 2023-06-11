@@ -11,4 +11,8 @@
   (lib (name "Diode_AKL")(type "KiCad")(uri "${KIPRJMOD}/Alternate-KiCad-Library-main/symbols/Diode_AKL.kicad_sym")(options "")(descr ""))
   (lib (name "Diode_Bridge_AKL")(type "KiCad")(uri "${KIPRJMOD}/Alternate-KiCad-Library-main/symbols/Diode_Bridge_AKL.kicad_sym")(options "")(descr ""))
   (lib (name "Diode_Schottky_AKL")(type "KiCad")(uri "${KIPRJMOD}/Alternate-KiCad-Library-main/symbols/Diode_Schottky_AKL.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-choc")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/symbols/marbastlib-choc.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/symbols/marbastlib-mx.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-promicroish")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/symbols/marbastlib-promicroish.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/symbols/marbastlib-various.kicad_sym")(options "")(descr ""))
 )

@@ -1,4 +1,4 @@
-22152227457765379
+22845583715182849
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -51421,6 +51421,1259 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+Crystal_AKL
+Crystal_AT310_D3.0mm_L10.0mm_Horizontal
+Crystal THT AT310 10.0mm-10.5mm length 3.0mm diameter http://www.cinetech.com.tw/upload/2011/04/20110401165201.pdf, Alternate KiCad Library
+['AT310']
+0
+2
+2
+Crystal_AKL
+Crystal_AT310_D3.0mm_L10.0mm_Horizontal_1EP_style1
+Crystal THT AT310 10.0mm-10.5mm length 3.0mm diameter http://www.cinetech.com.tw/upload/2011/04/20110401165201.pdf, Alternate KiCad Library
+['AT310']
+0
+3
+3
+Crystal_AKL
+Crystal_AT310_D3.0mm_L10.0mm_Horizontal_1EP_style2
+Crystal THT AT310 10.0mm-10.5mm length 3.0mm diameter http://www.cinetech.com.tw/upload/2011/04/20110401165201.pdf, Alternate KiCad Library
+['AT310']
+0
+5
+3
+Crystal_AKL
+Crystal_AT310_D3.0mm_L10.0mm_Vertical
+Crystal THT AT310 10.0mm-10.5mm length 3.0mm diameter http://www.cinetech.com.tw/upload/2011/04/20110401165201.pdf, Alternate KiCad Library
+['AT310']
+0
+2
+2
+Crystal_AKL
+Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal
+Crystal THT C26-LF 6.5mm length 2.06mm diameter, Alternate KiCad Library
+['C26-LF']
+0
+2
+2
+Crystal_AKL
+Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal_1EP_style1
+Crystal THT C26-LF 6.5mm length 2.06mm diameter, Alternate KiCad Library
+['C26-LF']
+0
+3
+3
+Crystal_AKL
+Crystal_C26-LF_D2.1mm_L6.5mm_Horizontal_1EP_style2
+Crystal THT C26-LF 6.5mm length 2.06mm diameter, Alternate KiCad Library
+['C26-LF']
+0
+5
+3
+Crystal_AKL
+Crystal_C26-LF_D2.1mm_L6.5mm_Vertical
+Crystal THT C26-LF 6.5mm length 2.06mm diameter, Alternate KiCad Library
+['C26-LF']
+0
+2
+2
+Crystal_AKL
+Crystal_C38-LF_D3.0mm_L8.0mm_Horizontal
+Crystal THT C38-LF 8.0mm length 3.0mm diameter, Alternate KiCad Library
+['C38-LF']
+0
+2
+2
+Crystal_AKL
+Crystal_C38-LF_D3.0mm_L8.0mm_Horizontal_1EP_style1
+Crystal THT C38-LF 8.0mm length 3.0mm diameter, Alternate KiCad Library
+['C38-LF']
+0
+3
+3
+Crystal_AKL
+Crystal_C38-LF_D3.0mm_L8.0mm_Horizontal_1EP_style2
+Crystal THT C38-LF 8.0mm length 3.0mm diameter, Alternate KiCad Library
+['C38-LF']
+0
+5
+3
+Crystal_AKL
+Crystal_C38-LF_D3.0mm_L8.0mm_Vertical
+Crystal THT C38-LF 8.0mm length 3.0mm diameter, Alternate KiCad Library
+['C38-LF']
+0
+2
+2
+Crystal_AKL
+Crystal_DS10_D1.0mm_L4.3mm_Horizontal
+Crystal THT DS10 4.3mm length 1.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf, Alternate KiCad Library
+['DS10']
+0
+2
+2
+Crystal_AKL
+Crystal_DS10_D1.0mm_L4.3mm_Horizontal_1EP_style1
+Crystal THT DS10 4.3mm length 1.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf, Alternate KiCad Library
+['DS10']
+0
+3
+3
+Crystal_AKL
+Crystal_DS10_D1.0mm_L4.3mm_Horizontal_1EP_style2
+Crystal THT DS10 4.3mm length 1.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf, Alternate KiCad Library
+['DS10']
+0
+5
+3
+Crystal_AKL
+Crystal_DS10_D1.0mm_L4.3mm_Vertical
+Crystal THT DS10 4.3mm length 1.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf, Alternate KiCad Library
+['DS10']
+0
+2
+2
+Crystal_AKL
+Crystal_DS15_D1.5mm_L5.0mm_Horizontal
+Crystal THT DS15 5.0mm length 1.5mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf, Alternate KiCad Library
+['DS15']
+0
+2
+2
+Crystal_AKL
+Crystal_DS15_D1.5mm_L5.0mm_Horizontal_1EP_style1
+Crystal THT DS15 5.0mm length 1.5mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf, Alternate KiCad Library
+['DS15']
+0
+3
+3
+Crystal_AKL
+Crystal_DS15_D1.5mm_L5.0mm_Horizontal_1EP_style2
+Crystal THT DS15 5.0mm length 1.5mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf, Alternate KiCad Library
+['DS15']
+0
+5
+3
+Crystal_AKL
+Crystal_DS15_D1.5mm_L5.0mm_Vertical
+Crystal THT DS15 5.0mm length 1.5mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf, Alternate KiCad Library
+['DS15']
+0
+2
+2
+Crystal_AKL
+Crystal_DS26_D2.0mm_L6.0mm_Horizontal
+Crystal THT DS26 6.0mm length 2.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf, Alternate KiCad Library
+['DS26']
+0
+2
+2
+Crystal_AKL
+Crystal_DS26_D2.0mm_L6.0mm_Horizontal_1EP_style1
+Crystal THT DS26 6.0mm length 2.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf, Alternate KiCad Library
+['DS26']
+0
+3
+3
+Crystal_AKL
+Crystal_DS26_D2.0mm_L6.0mm_Horizontal_1EP_style2
+Crystal THT DS26 6.0mm length 2.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf, Alternate KiCad Library
+['DS26']
+0
+5
+3
+Crystal_AKL
+Crystal_DS26_D2.0mm_L6.0mm_Vertical
+Crystal THT DS26 6.0mm length 2.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf, Alternate KiCad Library
+['DS26']
+0
+2
+2
+Crystal_AKL
+Crystal_HC18-U_Horizontal
+Crystal THT HC-18/U http://5hertz.com/pdfs/04404_D.pdf, Alternate KiCad Library
+THT crystal
+0
+2
+2
+Crystal_AKL
+Crystal_HC18-U_Horizontal_1EP_style1
+Crystal THT HC-18/U http://5hertz.com/pdfs/04404_D.pdf, Alternate KiCad Library
+THT crystal
+0
+3
+3
+Crystal_AKL
+Crystal_HC18-U_Horizontal_1EP_style2
+Crystal THT HC-18/U http://5hertz.com/pdfs/04404_D.pdf, Alternate KiCad Library
+THT crystal
+0
+5
+3
+Crystal_AKL
+Crystal_HC18-U_Vertical
+Crystal THT HC-18/U, http://5hertz.com/pdfs/04404_D.pdf, Alternate KiCad Library
+THT crystalHC-18/U
+0
+2
+2
+Crystal_AKL
+Crystal_HC33-U_Horizontal
+Crystal THT HC-33/U http://pdi.bentech-taiwan.com/PDI/GEN20SPEV20HC3320U.pdf, Alternate KiCad Library
+THT crystal
+0
+2
+2
+Crystal_AKL
+Crystal_HC33-U_Horizontal_1EP_style1
+Crystal THT HC-33/U http://pdi.bentech-taiwan.com/PDI/GEN20SPEV20HC3320U.pdf, Alternate KiCad Library
+THT crystal
+0
+3
+3
+Crystal_AKL
+Crystal_HC33-U_Horizontal_1EP_style2
+Crystal THT HC-33/U http://pdi.bentech-taiwan.com/PDI/GEN20SPEV20HC3320U.pdf, Alternate KiCad Library
+THT crystal
+0
+5
+3
+Crystal_AKL
+Crystal_HC33-U_Vertical
+Crystal THT HC-33/U, http://pdi.bentech-taiwan.com/PDI/GEN20SPEV20HC3320U.pdf, Alternate KiCad Library
+THT crystalHC-33/U
+0
+2
+2
+Crystal_AKL
+Crystal_HC35-U
+Crystal, Quarz, HC35/U, http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/TO71xx.pdf, Alternate KiCad Library
+Crystal Quarz HC35/U
+0
+3
+3
+Crystal_AKL
+Crystal_HC49-4H_Vertical
+Crystal THT HC-49-4H http://5hertz.com/pdfs/04404_D.pdf, Alternate KiCad Library
+THT crystalHC-49-4H
+0
+2
+2
+Crystal_AKL
+Crystal_HC49-U-3Pin_Vertical
+Crystal THT HC-49/U, 3pin-version, http://www.raltron.com/products/pdfspecs/crystal_hc_49_45_51.pdf, Alternate KiCad Library
+THT crystalHC-49/U
+0
+3
+3
+Crystal_AKL
+Crystal_HC49-U_Horizontal
+Crystal THT HC-49/U http://5hertz.com/pdfs/04404_D.pdf, Alternate KiCad Library
+THT crystal
+0
+2
+2
+Crystal_AKL
+Crystal_HC49-U_Horizontal_1EP_style1
+Crystal THT HC-49/U http://5hertz.com/pdfs/04404_D.pdf, Alternate KiCad Library
+THT crystal
+0
+3
+3
+Crystal_AKL
+Crystal_HC49-U_Horizontal_1EP_style2
+Crystal THT HC-49/U http://5hertz.com/pdfs/04404_D.pdf, Alternate KiCad Library
+THT crystal
+0
+5
+3
+Crystal_AKL
+Crystal_HC49-U_Vertical
+Crystal THT HC-49/U http://5hertz.com/pdfs/04404_D.pdf, Alternate KiCad Library
+THT crystalHC-49/U
+0
+2
+2
+Crystal_AKL
+Crystal_HC50_Horizontal
+Crystal THT HC-50 http://www.crovencrystals.com/croven_pdf/HC-50_Crystal_Holder_Rev_00.pdf, Alternate KiCad Library
+THT crystal
+0
+2
+2
+Crystal_AKL
+Crystal_HC50_Horizontal_1EP_style1
+Crystal THT HC-50 http://www.crovencrystals.com/croven_pdf/HC-50_Crystal_Holder_Rev_00.pdf, Alternate KiCad Library
+THT crystal
+0
+3
+3
+Crystal_AKL
+Crystal_HC50_Horizontal_1EP_style2
+Crystal THT HC-50 http://www.crovencrystals.com/croven_pdf/HC-50_Crystal_Holder_Rev_00.pdf, Alternate KiCad Library
+THT crystal
+0
+5
+3
+Crystal_AKL
+Crystal_HC50_Vertical
+Crystal THT HC-50, http://www.crovencrystals.com/croven_pdf/HC-50_Crystal_Holder_Rev_00.pdf, Alternate KiCad Library
+THT crystalHC-50
+0
+2
+2
+Crystal_AKL
+Crystal_HC51-U_Vertical
+Crystal THT HC-51/U, http://www.crovencrystals.com/croven_pdf/HC-51_Crystal_Holder_Rev_00.pdf, Alternate KiCad Library
+THT crystalHC-51/U
+0
+2
+2
+Crystal_AKL
+Crystal_HC51_Horizontal
+Crystal THT HC-51 http://www.crovencrystals.com/croven_pdf/HC-51_Crystal_Holder_Rev_00.pdf, Alternate KiCad Library
+THT crystal
+0
+2
+2
+Crystal_AKL
+Crystal_HC51_Horizontal_1EP_style1
+Crystal THT HC-51 http://www.crovencrystals.com/croven_pdf/HC-51_Crystal_Holder_Rev_00.pdf, Alternate KiCad Library
+THT crystal
+0
+3
+3
+Crystal_AKL
+Crystal_HC51_Horizontal_1EP_style2
+Crystal THT HC-51 http://www.crovencrystals.com/croven_pdf/HC-51_Crystal_Holder_Rev_00.pdf, Alternate KiCad Library
+THT crystal
+0
+5
+3
+Crystal_AKL
+Crystal_HC52-6mm_Horizontal
+Crystal THT HC-51/6mm http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf, Alternate KiCad Library
+THT crystal
+0
+2
+2
+Crystal_AKL
+Crystal_HC52-6mm_Horizontal_1EP_style1
+Crystal THT HC-51/6mm http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf, Alternate KiCad Library
+THT crystal
+0
+3
+3
+Crystal_AKL
+Crystal_HC52-6mm_Horizontal_1EP_style2
+Crystal THT HC-51/6mm http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf, Alternate KiCad Library
+THT crystal
+0
+5
+3
+Crystal_AKL
+Crystal_HC52-6mm_Vertical
+Crystal THT HC-52/6mm, http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf, Alternate KiCad Library
+THT crystalHC-49/U
+0
+2
+2
+Crystal_AKL
+Crystal_HC52-8mm_Horizontal
+Crystal THT HC-51/8mm http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf, Alternate KiCad Library
+THT crystal
+0
+2
+2
+Crystal_AKL
+Crystal_HC52-8mm_Horizontal_1EP_style1
+Crystal THT HC-51/8mm http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf, Alternate KiCad Library
+THT crystal
+0
+3
+3
+Crystal_AKL
+Crystal_HC52-8mm_Horizontal_1EP_style2
+Crystal THT HC-51/8mm http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf, Alternate KiCad Library
+THT crystal
+0
+5
+3
+Crystal_AKL
+Crystal_HC52-8mm_Vertical
+Crystal THT HC-52/8mm, http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf, Alternate KiCad Library
+THT crystalHC-49/U
+0
+2
+2
+Crystal_AKL
+Crystal_HC52-U-3Pin_Vertical
+Crystal THT HC-52/U, http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf, Alternate KiCad Library
+THT crystalHC-52/U
+0
+3
+3
+Crystal_AKL
+Crystal_HC52-U_Horizontal
+Crystal THT HC-51/U http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf, Alternate KiCad Library
+THT crystal
+0
+2
+2
+Crystal_AKL
+Crystal_HC52-U_Horizontal_1EP_style1
+Crystal THT HC-51/U http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf, Alternate KiCad Library
+THT crystal
+0
+3
+3
+Crystal_AKL
+Crystal_HC52-U_Horizontal_1EP_style2
+Crystal THT HC-51/U http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf, Alternate KiCad Library
+THT crystal
+0
+5
+3
+Crystal_AKL
+Crystal_HC52-U_Vertical
+Crystal THT HC-52/U, http://www.kvg-gmbh.de/assets/uploads/files/product_pdfs/XS71xx.pdf, Alternate KiCad Library
+THT crystal HC-52/U
+0
+2
+2
+Crystal_AKL
+Crystal_Round_D1.0mm_Vertical
+Crystal THT DS10 1.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf, Alternate KiCad Library
+['DS10']
+0
+2
+2
+Crystal_AKL
+Crystal_Round_D1.5mm_Vertical
+Crystal THT DS15 5.0mm length 1.5mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf, Alternate KiCad Library
+['DS15']
+0
+2
+2
+Crystal_AKL
+Crystal_Round_D2.0mm_Vertical
+Crystal THT DS26 6.0mm length 2.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/DS-Series.pdf, Alternate KiCad Library
+['DS26']
+0
+2
+2
+Crystal_AKL
+Crystal_Round_D3.0mm_Vertical
+Crystal THT C38-LF 8.0mm length 3.0mm diameter, Alternate KiCad Library
+['C38-LF']
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_0603-2Pin_6.0x3.5mm
+SMD Crystal SERIES SMD0603/2 http://www.petermann-technik.de/fileadmin/petermann/pdf/SMD0603-2.pdf, 6.0x3.5mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_0603-2Pin_6.0x3.5mm_HandSoldering
+SMD Crystal SERIES SMD0603/2 http://www.petermann-technik.de/fileadmin/petermann/pdf/SMD0603-2.pdf, hand-soldering, 6.0x3.5mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_0603-4Pin_6.0x3.5mm
+SMD Crystal SERIES SMD0603/4 http://www.petermann-technik.de/fileadmin/petermann/pdf/SMD0603-4.pdf, 6.0x3.5mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_0603-4Pin_6.0x3.5mm_HandSoldering
+SMD Crystal SERIES SMD0603/4 http://www.petermann-technik.de/fileadmin/petermann/pdf/SMD0603-4.pdf, hand-soldering, 6.0x3.5mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_2012-2Pin_2.0x1.2mm
+SMD Crystal 2012/2 http://txccrystal.com/images/pdf/9ht11.pdf, 2.0x1.2mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_2012-2Pin_2.0x1.2mm_HandSoldering
+SMD Crystal 2012/2 http://txccrystal.com/images/pdf/9ht11.pdf, hand-soldering, 2.0x1.2mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_2016-4Pin_2.0x1.6mm
+SMD Crystal SERIES SMD2016/4 http://www.q-crystal.com/upload/5/2015552223166229.pdf, 2.0x1.6mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_2520-4Pin_2.5x2.0mm
+SMD Crystal SERIES SMD2520/4 http://www.newxtal.com/UploadFiles/Images/2012-11-12-09-29-09-776.pdf, 2.5x2.0mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_3215-2Pin_3.2x1.5mm
+SMD Crystal FC-135 https://support.epson.biz/td/api/doc_check.php?dl=brief_FC-135R_en.pdf, Alternate KiCad Library
+SMD SMT Crystal
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_3225-4Pin_3.2x2.5mm
+SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering
+SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, hand-soldering, 3.2x2.5mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_5032-2Pin_5.0x3.2mm
+SMD Crystal SERIES SMD2520/2 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, 5.0x3.2mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering
+SMD Crystal SERIES SMD2520/2 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, hand-soldering, 5.0x3.2mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_5032-4Pin_5.0x3.2mm
+SMD Crystal SERIES SMD2520/4 http://www.icbase.com/File/PDF/HKC/HKC00061008.pdf, 5.0x3.2mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_7050-2Pin_7.0x5.0mm
+SMD Crystal SERIES SMD7050/4 https://www.foxonline.com/pdfs/FQ7050.pdf, 7.0x5.0mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_7050-2Pin_7.0x5.0mm_HandSoldering
+SMD Crystal SERIES SMD7050/4 https://www.foxonline.com/pdfs/FQ7050.pdf, hand-soldering, 7.0x5.0mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_7050-4Pin_7.0x5.0mm
+SMD Crystal SERIES SMD7050/4 https://www.foxonline.com/pdfs/FQ7050.pdf, 7.0x5.0mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_Abracon_ABM3-2Pin_5.0x3.2mm
+Abracon Miniature Ceramic Smd Crystal ABM3 http://www.abracon.com/Resonators/abm3.pdf, 5.0x3.2mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_Abracon_ABM3-2Pin_5.0x3.2mm_HandSoldering
+Abracon Miniature Ceramic Smd Crystal ABM3 http://www.abracon.com/Resonators/abm3.pdf, hand-soldering, 5.0x3.2mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_Abracon_ABM3B-4Pin_5.0x3.2mm
+Abracon Miniature Ceramic Smd Crystal ABM3B http://www.abracon.com/Resonators/abm3b.pdf, 5.0x3.2mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_Abracon_ABM3C-4Pin_5.0x3.2mm
+Abracon Miniature Ceramic Smd Crystal ABM3C http://www.abracon.com/Resonators/abm3c.pdf, 5.0x3.2mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_Abracon_ABM7-2Pin_6.0x3.5mm
+SMD Crystal Abracon ABM7, https://abracon.com/Resonators/abm7.pdf, Alternate KiCad Library
+SMD SMT crystal
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_Abracon_ABM8G-4Pin_3.2x2.5mm
+Abracon Miniature Ceramic Smd Crystal ABM8G http://www.abracon.com/Resonators/ABM8G.pdf, 3.2x2.5mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_Abracon_ABM10-4Pin_2.5x2.0mm
+Abracon Miniature Ceramic Smd Crystal ABM10 http://www.abracon.com/Resonators/ABM10.pdf, Alternate KiCad Library
+SMD SMT crystal Abracon ABM10
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_Abracon_ABS25-4Pin_8.0x3.8mm
+Abracon Miniature Ceramic SMD Crystal ABS25 https://abracon.com/Resonators/abs25.pdf, 8.0x3.8mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_ECS_CSM3X-2Pin_7.6x4.1mm
+http://www.ecsxtal.com/store/pdf/CSM-3X.pdf, Alternate KiCad Library
+Crystal CSM-3X
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_EuroQuartz_EQ161-2Pin_3.2x1.5mm
+SMD Crystal EuroQuartz EQ161 series http://cdn-reichelt.de/documents/datenblatt/B400/PG32768C.pdf, 3.2x1.5mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_EuroQuartz_EQ161-2Pin_3.2x1.5mm_HandSoldering
+SMD Crystal EuroQuartz EQ161 series http://cdn-reichelt.de/documents/datenblatt/B400/PG32768C.pdf, hand-soldering, 3.2x1.5mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_EuroQuartz_MJ-4Pin_5.0x3.2mm
+SMD Crystal EuroQuartz MJ series http://cdn-reichelt.de/documents/datenblatt/B400/MJ.pdf, 5.0x3.2mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_EuroQuartz_MJ-4Pin_5.0x3.2mm_HandSoldering
+SMD Crystal EuroQuartz MJ series http://cdn-reichelt.de/documents/datenblatt/B400/MJ.pdf, hand-soldering, 5.0x3.2mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_EuroQuartz_MQ-4Pin_7.0x5.0mm
+SMD Crystal EuroQuartz MQ series http://cdn-reichelt.de/documents/datenblatt/B400/MQ.pdf, 7.0x5.0mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_EuroQuartz_MQ-4Pin_7.0x5.0mm_HandSoldering
+SMD Crystal EuroQuartz MQ series http://cdn-reichelt.de/documents/datenblatt/B400/MQ.pdf, hand-soldering, 7.0x5.0mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_EuroQuartz_MQ2-2Pin_7.0x5.0mm
+SMD Crystal EuroQuartz MQ2 series http://cdn-reichelt.de/documents/datenblatt/B400/MQ.pdf, 7.0x5.0mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_EuroQuartz_MQ2-2Pin_7.0x5.0mm_HandSoldering
+SMD Crystal EuroQuartz MQ2 series http://cdn-reichelt.de/documents/datenblatt/B400/MQ.pdf, hand-soldering, 7.0x5.0mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_EuroQuartz_MT-4Pin_3.2x2.5mm
+SMD Crystal EuroQuartz MT series http://cdn-reichelt.de/documents/datenblatt/B400/MT.pdf, 3.2x2.5mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_EuroQuartz_MT-4Pin_3.2x2.5mm_HandSoldering
+SMD Crystal EuroQuartz MT series http://cdn-reichelt.de/documents/datenblatt/B400/MT.pdf, hand-soldering, 3.2x2.5mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_EuroQuartz_X22-4Pin_2.5x2.0mm
+SMD Crystal EuroQuartz X22 series http://cdn-reichelt.de/documents/datenblatt/B400/DS_X22.pdf, 2.5x2.0mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_EuroQuartz_X22-4Pin_2.5x2.0mm_HandSoldering
+SMD Crystal EuroQuartz X22 series http://cdn-reichelt.de/documents/datenblatt/B400/DS_X22.pdf, hand-soldering, 2.5x2.0mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_FOX_FE-2Pin_7.5x5.0mm
+crystal Ceramic Resin Sealed SMD http://www.foxonline.com/pdfs/fe.pdf, 7.5x5.0mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_FOX_FE-2Pin_7.5x5.0mm_HandSoldering
+crystal Ceramic Resin Sealed SMD http://www.foxonline.com/pdfs/fe.pdf, hand-soldering, 7.5x5.0mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_FOX_FQ7050-2Pin_7.0x5.0mm
+FOX SMD Crystal SERIES SMD7050/4 https://www.foxonline.com/pdfs/FQ7050.pdf, 7.0x5.0mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_FOX_FQ7050-2Pin_7.0x5.0mm_HandSoldering
+FOX SMD Crystal SERIES SMD7050/4 https://www.foxonline.com/pdfs/FQ7050.pdf, hand-soldering, 7.0x5.0mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_FOX_FQ7050-4Pin_7.0x5.0mm
+FOX SMD Crystal SERIES SMD7050/4 https://www.foxonline.com/pdfs/FQ7050.pdf, 7.0x5.0mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_FrontierElectronics_FM206
+SMD Watch Crystal FrontierElectronics FM206 6.0mm length 1.9mm diameter http://www.chinafronter.com/wp-content/uploads/2013/12/FM206.pdf, Alternate KiCad Library
+['FM206']
+0
+3
+3
+Crystal_AKL
+Crystal_SMD_G8-2Pin_3.2x1.5mm
+SMD Crystal G8, 3.2x1.5mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_G8-2Pin_3.2x1.5mm_HandSoldering
+SMD Crystal G8, hand-soldering, 3.2x1.5mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_HC49-SD
+SMD Crystal HC-49-SD http://cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf, 11.4x4.7mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_HC49-SD_HandSoldering
+SMD Crystal HC-49-SD http://cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf, hand-soldering, 11.4x4.7mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_MicroCrystal_CC1V-T1A-2Pin_8.0x3.7mm
+SMD Crystal MicroCrystal CC1V-T1A series https://www.microcrystal.com/fileadmin/Media/Products/32kHz/Datasheet/CC1V-T1A.pdf, 8.0x3.7mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_MicroCrystal_CC1V-T1A-2Pin_8.0x3.7mm_HandSoldering
+SMD Crystal MicroCrystal CC1V-T1A series https://www.microcrystal.com/fileadmin/Media/Products/32kHz/Datasheet/CC1V-T1A.pdf, hand-soldering, 8.0x3.7mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_MicroCrystal_CC4V-T1A-2Pin_5.0x1.9mm
+SMD Crystal MicroCrystal CC4V-T1A series http://cdn-reichelt.de/documents/datenblatt/B400/CC4V-T1A.pdf, 5.0x1.9mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_MicroCrystal_CC4V-T1A-2Pin_5.0x1.9mm_HandSoldering
+SMD Crystal MicroCrystal CC4V-T1A series http://cdn-reichelt.de/documents/datenblatt/B400/CC4V-T1A.pdf, hand-soldering, 5.0x1.9mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_MicroCrystal_CC5V-T1A-2Pin_4.1x1.5mm
+SMD Crystal MicroCrystal CC5V-T1A series http://cdn-reichelt.de/documents/datenblatt/B400/CC5V-T1A.pdf, 4.1x1.5mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_MicroCrystal_CC5V-T1A-2Pin_4.1x1.5mm_HandSoldering
+SMD Crystal MicroCrystal CC5V-T1A series http://cdn-reichelt.de/documents/datenblatt/B400/CC5V-T1A.pdf, hand-soldering, 4.1x1.5mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm
+SMD Crystal MicroCrystal CC7V-T1A/CM7V-T1A series https://www.microcrystal.com/fileadmin/Media/Products/32kHz/Datasheet/CC7V-T1A.pdf, 3.2x1.5mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_MicroCrystal_CC7V-T1A-2Pin_3.2x1.5mm_HandSoldering
+SMD Crystal MicroCrystal CC7V-T1A/CM7V-T1A series http://www.microcrystal.com/images/_Product-Documentation/01_TF_ceramic_Packages/01_Datasheet/CC1V-T1A.pdf, hand-soldering, 3.2x1.5mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_MicroCrystal_CC8V-T1A-2Pin_2.0x1.2mm
+SMD Crystal MicroCrystal CC8V-T1A/CM8V-T1A series https://www.microcrystal.com/fileadmin/Media/Products/32kHz/Datasheet/CC8V-T1A.pdf, 2.0x1.2mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_MicroCrystal_CC8V-T1A-2Pin_2.0x1.2mm_HandSoldering
+SMD Crystal MicroCrystal CC8V-T1A/CM8V-T1A series http://www.microcrystal.com/images/_Product-Documentation/01_TF_ceramic_Packages/01_Datasheet/CC8V-T1A.pdf, hand-soldering, 2.0x1.2mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_MicroCrystal_CM9V-T1A-2Pin_1.6x1.0mm
+SMD Crystal MicroCrystal CM9V-T1A series https://www.microcrystal.com/fileadmin/Media/Products/32kHz/Datasheet/CM9V-T1A.pdf, 1.6x1.0mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_MicroCrystal_CM9V-T1A-2Pin_1.6x1.0mm_HandSoldering
+SMD Crystal MicroCrystal CM9V-T1A series http://www.microcrystal.com/images/_Product-Documentation/01_TF_ceramic_Packages/01_Datasheet/CM9V-T1A.pdf, hand-soldering, 1.6x1.0mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_MicroCrystal_MS1V-T1K
+SMD Watch Crystal MicroCrystal MS1V-T1K 6.1mm length 2.0mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/MS1V-T1K.pdf, Alternate KiCad Library
+['MS1V-T1K']
+0
+3
+3
+Crystal_AKL
+Crystal_SMD_MicroCrystal_MS3V-T1R
+SMD Watch Crystal MicroCrystal MS3V-T1R 5.2mm length 1.4mm diameter http://www.microcrystal.com/images/_Product-Documentation/03_TF_metal_Packages/01_Datasheet/MS3V-T1R.pdf, Alternate KiCad Library
+['MS3V-T1R']
+0
+3
+3
+Crystal_AKL
+Crystal_SMD_Qantek_QC5CB-2Pin_5x3.2mm
+SMD Crystal Qantek QC5CB, https://www.qantek.com/tl_files/products/crystals/QC5CB.pdf, Alternate KiCad Library
+SMD SMT crystal
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_SeikoEpson_FA238-4Pin_3.2x2.5mm
+crystal Epson Toyocom FA-238 https://support.epson.biz/td/api/doc_check.php?dl=brief_fa-238v_en.pdf, 3.2x2.5mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_SeikoEpson_FA238-4Pin_3.2x2.5mm_HandSoldering
+crystal Epson Toyocom FA-238 series https://support.epson.biz/td/api/doc_check.php?dl=brief_fa-238v_en.pdf, hand-soldering, 3.2x2.5mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_SeikoEpson_FA238V-4Pin_3.2x2.5mm
+crystal Epson Toyocom FA-238 series https://support.epson.biz/td/api/doc_check.php?dl=brief_fa-238v_en.pdf, 3.2x2.5mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_SeikoEpson_FA238V-4Pin_3.2x2.5mm_HandSoldering
+crystal Epson Toyocom FA-238 series http://www.mouser.com/ds/2/137/1721499-465440.pdf, hand-soldering, 3.2x2.5mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_SeikoEpson_MA406-4Pin_11.7x4.0mm
+SMD Crystal Seiko Epson MC-506 http://media.digikey.com/pdf/Data%20Sheets/Epson%20PDFs/MA-505,506.pdf, 11.7x4.0mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_SeikoEpson_MA406-4Pin_11.7x4.0mm_HandSoldering
+SMD Crystal Seiko Epson MC-506 http://media.digikey.com/pdf/Data%20Sheets/Epson%20PDFs/MA-505,506.pdf, hand-soldering, 11.7x4.0mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm
+SMD Crystal Seiko Epson MC-505 http://media.digikey.com/pdf/Data%20Sheets/Epson%20PDFs/MA-505,506.pdf, 12.7x5.1mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm_HandSoldering
+SMD Crystal Seiko Epson MC-505 http://media.digikey.com/pdf/Data%20Sheets/Epson%20PDFs/MA-505,506.pdf, hand-soldering, 12.7x5.1mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_SeikoEpson_MA506-4Pin_12.7x5.1mm
+SMD Crystal Seiko Epson MC-506 http://media.digikey.com/pdf/Data%20Sheets/Epson%20PDFs/MA-505,506.pdf, 12.7x5.1mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_SeikoEpson_MA506-4Pin_12.7x5.1mm_HandSoldering
+SMD Crystal Seiko Epson MC-506 http://media.digikey.com/pdf/Data%20Sheets/Epson%20PDFs/MA-505,506.pdf, hand-soldering, 12.7x5.1mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_SeikoEpson_MC146-4Pin_6.7x1.5mm
+SMD Crystal Seiko Epson MC-146 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-156_en.pdf, 6.7x1.5mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_SeikoEpson_MC146-4Pin_6.7x1.5mm_HandSoldering
+SMD Crystal Seiko Epson MC-146 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-156_en.pdf, hand-soldering, 6.7x1.5mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_SeikoEpson_MC156-4Pin_7.1x2.5mm
+SMD Crystal Seiko Epson MC-156 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-156_en.pdf, 7.1x2.5mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_SeikoEpson_MC156-4Pin_7.1x2.5mm_HandSoldering
+SMD Crystal Seiko Epson MC-156 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-156_en.pdf, hand-soldering, 7.1x2.5mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_SeikoEpson_MC306-4Pin_8.0x3.2mm
+SMD Crystal Seiko Epson MC-306 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-306_en.pdf, 8.0x3.2mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_SeikoEpson_MC306-4Pin_8.0x3.2mm_HandSoldering
+SMD Crystal Seiko Epson MC-306 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-306_en.pdf, hand-soldering, 8.0x3.2mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_SeikoEpson_MC405-2Pin_9.6x4.1mm
+SMD Crystal Seiko Epson MC-405 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-306_en.pdf, 9.6x4.1mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_SeikoEpson_MC405-2Pin_9.6x4.1mm_HandSoldering
+SMD Crystal Seiko Epson MC-405 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-306_en.pdf, hand-soldering, 9.6x4.1mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_SeikoEpson_MC406-4Pin_9.6x4.1mm
+SMD Crystal Seiko Epson MC-406 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-306_en.pdf, 9.6x4.1mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_SeikoEpson_MC406-4Pin_9.6x4.1mm_HandSoldering
+SMD Crystal Seiko Epson MC-406 https://support.epson.biz/td/api/doc_check.php?dl=brief_MC-306_en.pdf, hand-soldering, 9.6x4.1mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_SeikoEpson_TSX3225-4Pin_3.2x2.5mm
+crystal Epson Toyocom TSX-3225 series https://support.epson.biz/td/api/doc_check.php?dl=brief_fa-238v_en.pdf, 3.2x2.5mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_SeikoEpson_TSX3225-4Pin_3.2x2.5mm_HandSoldering
+crystal Epson Toyocom TSX-3225 series https://support.epson.biz/td/api/doc_check.php?dl=brief_fa-238v_en.pdf, hand-soldering, 3.2x2.5mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_TXC_7A-2Pin_5x3.2mm
+SMD Crystal TXC 7A http://txccrystal.com/images/pdf/7a.pdf, Alternate KiCad Library
+SMD SMT crystal
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_TXC_7M-4Pin_3.2x2.5mm
+SMD Crystal TXC 7M http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_TXC_7M-4Pin_3.2x2.5mm_HandSoldering
+SMD Crystal TXC 7M http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, hand-soldering, 3.2x2.5mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+4
+4
+Crystal_AKL
+Crystal_SMD_TXC_9HT11-2Pin_2.0x1.2mm
+SMD Crystal TXC 9HT11 http://txccrystal.com/images/pdf/9ht11.pdf, 2.0x1.2mm^2 package, Alternate KiCad Library
+SMD SMT crystal
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_TXC_9HT11-2Pin_2.0x1.2mm_HandSoldering
+SMD Crystal TXC 9HT11 http://txccrystal.com/images/pdf/9ht11.pdf, hand-soldering, 2.0x1.2mm^2 package, Alternate KiCad Library
+SMD SMT crystal hand-soldering
+0
+2
+2
+Crystal_AKL
+Crystal_SMD_TXC_AX_8045-2Pin_8.0x4.5mm
+http://www.txccrystal.com/images/pdf/ax-automotive.pdf, Alternate KiCad Library
+SMD SMT crystal
+0
+2
+2
+Crystal_AKL
+Resonator-2Pin_W6.0mm_H3.0mm
+Ceramic Resomator/Filter 6.0x3.0mm^2, length*width=6.0x3.0mm^2 package, package length=6.0mm, package width=3.0mm, 2 pins, Alternate KiCad Library
+THT ceramic resonator filter
+0
+2
+2
+Crystal_AKL
+Resonator-2Pin_W7.0mm_H2.5mm
+Ceramic Resomator/Filter 7.0x2.5mm^2, length*width=7.0x2.5mm^2 package, package length=7.0mm, package width=2.5mm, 2 pins, Alternate KiCad Library
+THT ceramic resonator filter
+0
+2
+2
+Crystal_AKL
+Resonator-2Pin_W8.0mm_H3.5mm
+Ceramic Resomator/Filter 8.0x3.5mm^2, length*width=8.0x3.5mm^2 package, package length=8.0mm, package width=3.5mm, 2 pins, Alternate KiCad Library
+THT ceramic resonator filter
+0
+2
+2
+Crystal_AKL
+Resonator-2Pin_W10.0mm_H5.0mm
+Ceramic Resomator/Filter 10.0x5.0 RedFrequency MG/MT/MX series, http://www.red-frequency.com/download/datenblatt/redfrequency-datenblatt-ir-zta.pdf, length*width=10.0x5.0mm^2 package, package length=10.0mm, package width=5.0mm, 2 pins, Alternate KiCad Library
+THT ceramic resonator filter
+0
+2
+2
+Crystal_AKL
+Resonator-3Pin_W6.0mm_H3.0mm
+Ceramic Resomator/Filter 6.0x3.0mm^2, length*width=6.0x3.0mm^2 package, package length=6.0mm, package width=3.0mm, 3 pins, Alternate KiCad Library
+THT ceramic resonator filter
+0
+3
+3
+Crystal_AKL
+Resonator-3Pin_W7.0mm_H2.5mm
+Ceramic Resomator/Filter 7.0x2.5mm^2, length*width=7.0x2.5mm^2 package, package length=7.0mm, package width=2.5mm, 3 pins, Alternate KiCad Library
+THT ceramic resonator filter
+0
+3
+3
+Crystal_AKL
+Resonator-3Pin_W8.0mm_H3.5mm
+Ceramic Resomator/Filter 8.0x3.5mm^2, length*width=8.0x3.5mm^2 package, package length=8.0mm, package width=3.5mm, 3 pins, Alternate KiCad Library
+THT ceramic resonator filter
+0
+3
+3
+Crystal_AKL
+Resonator-3Pin_W10.0mm_H5.0mm
+Ceramic Resomator/Filter 10.0x5.0mm^2 RedFrequency MG/MT/MX series, http://www.red-frequency.com/download/datenblatt/redfrequency-datenblatt-ir-zta.pdf, length*width=10.0x5.0mm^2 package, package length=10.0mm, package width=5.0mm, 3 pins, Alternate KiCad Library
+THT ceramic resonator filter
+0
+3
+3
+Crystal_AKL
+Resonator_SMD-3Pin_7.2x3.0mm
+SMD Resomator/Filter 7.2x3.0mm, Murata CSTCC8M00G53-R0; 8MHz resonator, SMD, Farnell (Element 14) #1170435, http://www.farnell.com/datasheets/19296.pdf?_ga=1.247244932.122297557.1475167906, 7.2x3.0mm^2 package, Alternate KiCad Library
+SMD SMT ceramic resonator filter filter
+0
+3
+3
+Crystal_AKL
+Resonator_SMD-3Pin_7.2x3.0mm_HandSoldering
+SMD Resomator/Filter 7.2x3.0mm, Murata CSTCC8M00G53-R0; 8MHz resonator, SMD, Farnell (Element 14) #1170435, http://www.farnell.com/datasheets/19296.pdf?_ga=1.247244932.122297557.1475167906, hand-soldering, 7.2x3.0mm^2 package, Alternate KiCad Library
+SMD SMT ceramic resonator filter filter hand-soldering
+0
+3
+3
+Crystal_AKL
+Resonator_SMD_muRata_CDSCB-2Pin_4.5x2.0mm
+SMD Resomator/Filter Murata CDSCB, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, 4.5x2.0mm^2 package, Alternate KiCad Library
+SMD SMT ceramic resonator filter filter
+0
+2
+2
+Crystal_AKL
+Resonator_SMD_muRata_CDSCB-2Pin_4.5x2.0mm_HandSoldering
+SMD Resomator/Filter Murata CDSCB, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, hand-soldering, 4.5x2.0mm^2 package, Alternate KiCad Library
+SMD SMT ceramic resonator filter filter hand-soldering
+0
+2
+2
+Crystal_AKL
+Resonator_SMD_muRata_CSTxExxV-3Pin_3.0x1.1mm
+SMD Resomator/Filter Murata CSTCE, https://www.murata.com/en-eu/products/productdata/8801162264606/SPEC-CSTNE16M0VH3C000R0.pdf, Alternate KiCad Library
+SMD SMT ceramic resonator filter
+0
+3
+3
+Crystal_AKL
+Resonator_SMD_muRata_CSTxExxV-3Pin_3.0x1.1mm_HandSoldering
+SMD Resomator/Filter Murata CSTCE, https://www.murata.com/en-eu/products/productdata/8801162264606/SPEC-CSTNE16M0VH3C000R0.pdf, Alternate KiCad Library
+SMD SMT ceramic resonator filter
+0
+3
+3
+Crystal_AKL
+Resonator_SMD_muRata_SFECV-3Pin_6.9x2.9mm
+SMD Resomator/Filter Murata SFECV, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, 6.9x2.9mm^2 package, Alternate KiCad Library
+SMD SMT ceramic resonator filter filter
+0
+3
+3
+Crystal_AKL
+Resonator_SMD_muRata_SFECV-3Pin_6.9x2.9mm_HandSoldering
+SMD Resomator/Filter Murata SFECV, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, hand-soldering, 6.9x2.9mm^2 package, Alternate KiCad Library
+SMD SMT ceramic resonator filter filter hand-soldering
+0
+3
+3
+Crystal_AKL
+Resonator_SMD_muRata_SFSKA-3Pin_7.9x3.8mm
+SMD Resomator/Filter Murata SFSKA, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, 7.9x3.8mm^2 package, Alternate KiCad Library
+SMD SMT ceramic resonator filter filter
+0
+3
+3
+Crystal_AKL
+Resonator_SMD_muRata_SFSKA-3Pin_7.9x3.8mm_HandSoldering
+SMD Resomator/Filter Murata SFSKA, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, hand-soldering, 7.9x3.8mm^2 package, Alternate KiCad Library
+SMD SMT ceramic resonator filter filter hand-soldering
+0
+3
+3
+Crystal_AKL
+Resonator_SMD_muRata_TPSKA-3Pin_7.9x3.8mm
+SMD Resomator/Filter Murata TPSKA, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, 7.9x3.8mm^2 package, Alternate KiCad Library
+SMD SMT ceramic resonator filter filter
+0
+3
+3
+Crystal_AKL
+Resonator_SMD_muRata_TPSKA-3Pin_7.9x3.8mm_HandSoldering
+SMD Resomator/Filter Murata TPSKA, http://cdn-reichelt.de/documents/datenblatt/B400/SFECV-107.pdf, hand-soldering, 7.9x3.8mm^2 package, Alternate KiCad Library
+SMD SMT ceramic resonator filter filter hand-soldering
+0
+3
+3
+Crystal_AKL
+Resonator_muRata_CSTLSxxxG-3Pin_W8.0mm_H3.0mm
+Ceramic Resomator/Filter Murata CSTLSxxxG, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/timingdevice/ceralock/p17e.ashx, length*width=8.0x3.0mm^2 package, package length=8.0mm, package width=3.0mm, 3 pins, Alternate KiCad Library
+THT ceramic resonator filter CSTLSxxxG
+0
+3
+3
+Crystal_AKL
+Resonator_muRata_CSTLSxxxX-3Pin_W5.5mm_H3.0mm
+Ceramic Resomator/Filter Murata CSTLSxxxX, http://www.murata.com/~/media/webrenewal/support/library/catalog/products/timingdevice/ceralock/p17e.ashx, length*width=5.5x3.0mm^2 package, package length=5.5mm, package width=3.0mm, 3 pins, Alternate KiCad Library
+THT ceramic resonator filter CSTLSxxxX
+0
+3
+3
+Crystal_AKL
+Resonator_muRata_DSN6-3Pin_W7.0mm_H2.5mm
+Ceramic Resomator/Filter Murata DSN6, http://cdn-reichelt.de/documents/datenblatt/B400/DSN6NC51H.pdf, length*width=7.0x2.5mm^2 package, package length=7.0mm, package width=2.5mm, 3 pins, Alternate KiCad Library
+THT ceramic resonator filter DSN6
+0
+3
+3
+Crystal_AKL
+Resonator_muRata_DSS6-3Pin_W7.0mm_H2.5mm
+Ceramic Resomator/Filter Murata DSS6, http://cdn-reichelt.de/documents/datenblatt/B400/DSN6NC51H.pdf, length*width=7.0x2.5mm^2 package, package length=7.0mm, package width=2.5mm, 3 pins, Alternate KiCad Library
+THT ceramic resonator filter DSS6
+0
+3
+3
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -67769,6 +69022,699 @@ psemi csp 16
 Package_CSP
 pSemi_CSP-16_1.64x2.04mm_P0.4mm_Pad0.18mm
 pSemi CSP-16 1.64x2.04x0.285mm (http://www.psemi.com/pdf/datasheets/pe29101ds.pdf, http://www.psemi.com/pdf/app_notes/an77.pdf)
+psemi csp 16
+0
+16
+16
+Package_CSP_AKL
+Analog_LFCSP-8-1EP_3x3mm_P0.5mm_EP1.53x1.85mm
+LFCSP, exposed pad, Analog Devices (http://www.analog.com/media/en/technical-documentation/data-sheets/ADL5542.pdf), Alternate KiCAD Library
+LFCSP 8 0.5
+0
+12
+5
+Package_CSP_AKL
+LFCSP-8-1EP_3x2mm_P0.5mm_EP1.6x1.65mm
+LFCSP 8pin Pitch 0.5mm, http://www.analog.com/media/en/package-pcb-resources/package/57080735642908cp_8_4.pdf, Alternate KiCAD Library
+LFCSP 8pin thermal pad 3x2mm Pitch 0.5mm
+0
+9
+9
+Package_CSP_AKL
+LFCSP-8-1EP_3x3mm_P0.5mm_EP1.45x1.74mm
+LFCSP, 8 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-8/CP_8_13.pdf), Alternate KiCAD Library
+LFCSP DFN_QFN
+0
+13
+9
+Package_CSP_AKL
+LFCSP-8_2x2mm_P0.5mm
+LFCSP 8pin Pitch 0.5mm, http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_8_6.pdf, Alternate KiCAD Library
+LFCSP 8pin 2x2mm Pitch 0.5mm
+0
+8
+8
+Package_CSP_AKL
+LFCSP-16-1EP_3x3mm_P0.5mm_EP1.3x1.3mm
+LFCSP, 16 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-16/CP_16_21.pdf), Alternate KiCAD Library
+LFCSP NoLead
+0
+21
+17
+Package_CSP_AKL
+LFCSP-16-1EP_3x3mm_P0.5mm_EP1.3x1.3mm_ThermalVias
+LFCSP, 16 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-16/CP_16_21.pdf), Alternate KiCAD Library
+LFCSP NoLead
+0
+26
+17
+Package_CSP_AKL
+LFCSP-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm
+LFCSP, 16 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-16/CP_16_22.pdf), Alternate KiCAD Library
+LFCSP NoLead
+0
+21
+17
+Package_CSP_AKL
+LFCSP-16-1EP_3x3mm_P0.5mm_EP1.6x1.6mm_ThermalVias
+LFCSP, 16 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-16/CP_16_22.pdf), Alternate KiCAD Library
+LFCSP NoLead
+0
+26
+17
+Package_CSP_AKL
+LFCSP-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm
+LFCSP, 16 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/HMC7992.pdf), Alternate KiCAD Library
+LFCSP NoLead
+0
+21
+17
+Package_CSP_AKL
+LFCSP-16-1EP_3x3mm_P0.5mm_EP1.7x1.7mm_ThermalVias
+LFCSP, 16 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/HMC7992.pdf), Alternate KiCAD Library
+LFCSP NoLead
+0
+26
+17
+Package_CSP_AKL
+LFCSP-16-1EP_3x3mm_P0.5mm_EP1.854x1.854mm
+16-Lead Lead Frame Chip Scale Package, 3x3mm, 0.5mm pitch, 1.854mm thermal pad (CP-16-22, http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_16_22.pdf), Alternate KiCAD Library
+LFCSP 16 0.5
+0
+21
+17
+Package_CSP_AKL
+LFCSP-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm
+LFCSP, 16 pin, 4x4mm, 2.1mm sq pad (http://www.analog.com/media/en/technical-documentation/data-sheets/ADG633.pdf), Alternate KiCAD Library
+LFCSP 16 0.65
+0
+21
+17
+Package_CSP_AKL
+LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm
+LFCSP, 16 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-16/cp-16-40.pdf), Alternate KiCAD Library
+LFCSP NoLead
+0
+21
+17
+Package_CSP_AKL
+LFCSP-16-1EP_4x4mm_P0.65mm_EP2.4x2.4mm_ThermalVias
+LFCSP, 16 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-16/cp-16-40.pdf), Alternate KiCAD Library
+LFCSP NoLead
+0
+31
+17
+Package_CSP_AKL
+LFCSP-20-1EP_4x4mm_P0.5mm_EP2.1x2.1mm
+20-Lead Frame Chip Scale Package - 4x4x0.9 mm Body [LFCSP], (see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_20_6.pdf), Alternate KiCAD Library
+LFCSP 0.5
+0
+25
+21
+Package_CSP_AKL
+LFCSP-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm
+LFCSP, 20 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/AD7682_7689.pdf), Alternate KiCAD Library
+LFCSP DFN_QFN
+0
+25
+21
+Package_CSP_AKL
+LFCSP-20-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias
+LFCSP, 20 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/AD7682_7689.pdf), Alternate KiCAD Library
+LFCSP DFN_QFN
+0
+35
+21
+Package_CSP_AKL
+LFCSP-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm
+LFCSP, 20 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-20/CP_20_8.pdf), Alternate KiCAD Library
+LFCSP NoLead
+0
+25
+21
+Package_CSP_AKL
+LFCSP-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm_ThermalVias
+LFCSP, 20 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-20/CP_20_8.pdf), Alternate KiCAD Library
+LFCSP NoLead
+0
+35
+21
+Package_CSP_AKL
+LFCSP-24-1EP_4x4mm_P0.5mm_EP2.3x2.3mm
+LFCSP, 24 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_24_14.pdf), Alternate KiCAD Library
+LFCSP NoLead
+0
+29
+25
+Package_CSP_AKL
+LFCSP-24-1EP_4x4mm_P0.5mm_EP2.3x2.3mm_ThermalVias
+LFCSP, 24 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_24_14.pdf), Alternate KiCAD Library
+LFCSP NoLead
+0
+39
+25
+Package_CSP_AKL
+LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm
+LFCSP, 24 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_24_7.pdf), Alternate KiCAD Library
+LFCSP NoLead
+0
+29
+25
+Package_CSP_AKL
+LFCSP-24-1EP_4x4mm_P0.5mm_EP2.5x2.5mm_ThermalVias
+LFCSP, 24 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_24_7.pdf), Alternate KiCAD Library
+LFCSP NoLead
+0
+39
+25
+Package_CSP_AKL
+LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm
+LFCSP, 28 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-28/CP_28_10.pdf), Alternate KiCAD Library
+LFCSP NoLead
+0
+33
+29
+Package_CSP_AKL
+LFCSP-28-1EP_5x5mm_P0.5mm_EP3.14x3.14mm_ThermalVias
+LFCSP, 28 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-28/CP_28_10.pdf), Alternate KiCAD Library
+LFCSP NoLead
+0
+43
+29
+Package_CSP_AKL
+LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm
+LFCSP, 32 Pin (https://www.analog.com/media/en/package-pcb-resources/package/414143737956480539664569cp_32_2.pdf), Alternate KiCAD Library
+LFCSP NoLead
+0
+42
+33
+Package_CSP_AKL
+LFCSP-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm_ThermalVias
+LFCSP, 32 Pin (https://www.analog.com/media/en/package-pcb-resources/package/414143737956480539664569cp_32_2.pdf), Alternate KiCAD Library
+LFCSP NoLead
+0
+59
+33
+Package_CSP_AKL
+LFCSP-32-1EP_5x5mm_P0.5mm_EP3.25x3.25mm
+32-Lead Frame Chip Scale Package LFCSP (5mm x 5mm); (see http://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-32/CP_32_27.pdf, Alternate KiCAD Library
+LFCSP 0.5
+0
+37
+33
+Package_CSP_AKL
+LFCSP-48-1EP_7x7mm_P0.5mm_EP4.1x4.1mm
+LFCSP, 48 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_48_5.pdf), Alternate KiCAD Library
+LFCSP NoLead
+0
+58
+49
+Package_CSP_AKL
+LFCSP-48-1EP_7x7mm_P0.5mm_EP4.1x4.1mm_ThermalVias
+LFCSP, 48 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_48_5.pdf), Alternate KiCAD Library
+LFCSP NoLead
+0
+75
+49
+Package_CSP_AKL
+LFCSP-64-1EP_9x9mm_P0.5mm_EP5.21x5.21mm
+LFCSP, 64 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_64_7.pdf), Alternate KiCAD Library
+LFCSP NoLead
+0
+69
+65
+Package_CSP_AKL
+LFCSP-64-1EP_9x9mm_P0.5mm_EP5.21x5.21mm_ThermalVias
+LFCSP, 64 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp_64_7.pdf), Alternate KiCAD Library
+LFCSP NoLead
+0
+86
+65
+Package_CSP_AKL
+LFCSP-72-1EP_10x10mm_P0.5mm_EP5.3x5.3mm
+LFCSP, 72 Pin (http://www.analog.com/media/en/technical-documentation/data-sheets/ADAU1452_1451_1450.pdf), Alternate KiCAD Library
+LFCSP NoLead
+0
+82
+73
+Package_CSP_AKL
+LFCSP-72-1EP_10x10mm_P0.5mm_EP5.3x5.3mm_ThermalVias
+LFCSP, 72 Pin (http://www.analog.com/media/en/technical-documentation/data-sheets/ADAU1452_1451_1450.pdf), Alternate KiCAD Library
+LFCSP NoLead
+0
+99
+73
+Package_CSP_AKL
+LFCSP-72-1EP_10x10mm_P0.5mm_EP6.15x6.15mm
+72-Lead Frame Chip Scale Package - 10x10x0.9 mm Body [LFCSP]; (see https://www.intersil.com/content/dam/Intersil/documents/l72_/l72.10x10c.pdf), Alternate KiCAD Library
+LFCSP 0.5
+0
+77
+73
+Package_CSP_AKL
+LFCSP-VD-8-1EP_3x3mm_P0.5mm_EP1.89x1.6mm
+LFCSP VD, 8 pin, exposed pad, 4x4mm body, pitch 0.5mm (https://www.tme.eu/Document/6928e194772bf23c3fafecf86c19b356/AD8139ARDZ-Analog-Devices.pdf), Alternate KiCAD Library
+LFCSP 0.5
+0
+13
+9
+Package_CSP_AKL
+LFCSP-VQ-16_4x4mm_P0.65mm
+LFCSP VQ, 24 pin, exposed pad, 4x4mm body, pitch 0.5mm (http://www.analog.com/media/en/package-pcb-resources/package/56702234806764cp_24_3.pdf, http://www.analog.com/media/en/technical-documentation/data-sheets/ADL5801.pdf), Alternate KiCAD Library
+LFCSP 0.5
+0
+16
+16
+Package_CSP_AKL
+LFCSP-VQ-24-1EP_4x4mm_P0.5mm_EP2.642x2.642mm
+LFCSP VQ, 24 pin, exposed pad, 4x4mm body, pitch 0.5mm (http://www.analog.com/media/en/package-pcb-resources/package/56702234806764cp_24_3.pdf, http://www.analog.com/media/en/technical-documentation/data-sheets/ADL5801.pdf), Alternate KiCAD Library
+LFCSP 0.5
+0
+29
+25
+Package_CSP_AKL
+LFCSP-VQ-48-1EP_7x7mm_P0.5mm
+LFCSP VQ, 48 pin, exposed pad, 7x7mm body (http://www.analog.com/media/en/technical-documentation/data-sheets/AD7951.pdf, http://www.analog.com/en/design-center/packaging-quality-symbols-footprints/symbols-and-footprints/AD7951.html), Alternate KiCAD Library
+LFCSP 48
+0
+49
+49
+Package_CSP_AKL
+LFCSP-WD-8-1EP_3x3mm_P0.65mm_EP1.6x2.44mm
+LFCSP-WD, 8 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/CP_8_19.pdf), Alternate KiCAD Library
+LFCSP-WD NoLead
+0
+15
+9
+Package_CSP_AKL
+LFCSP-WD-8-1EP_3x3mm_P0.65mm_EP1.6x2.44mm_ThermalVias
+LFCSP-WD, 8 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/CP_8_19.pdf), Alternate KiCAD Library
+LFCSP-WD NoLead
+0
+22
+9
+Package_CSP_AKL
+LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm
+LFCSP-WD, 10 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-10/CP_10_9.pdf), Alternate KiCAD Library
+LFCSP-WD NoLead
+0
+17
+11
+Package_CSP_AKL
+LFCSP-WD-10-1EP_3x3mm_P0.5mm_EP1.64x2.38mm_ThermalVias
+LFCSP-WD, 10 Pin (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/lfcspcp/cp-10/CP_10_9.pdf), Alternate KiCAD Library
+LFCSP-WD NoLead
+0
+24
+11
+Package_CSP_AKL
+ST_WLCSP-25_Die425
+WLCSP-25, 5x5 raster, 2.097x2.493mm package, pitch 0.4mm; see section 7.6 of http://www.st.com/resource/en/datasheet/stm32l031f6.pdf, Alternate KiCAD Library
+BGA 25 0.4
+0
+25
+25
+Package_CSP_AKL
+ST_WLCSP-25_Die444
+WLCSP-25, 5x5 raster, 2.423x2.325mm package, pitch 0.4mm; see section 7.5 of http://www.st.com/resource/en/datasheet/stm32f031k6.pdf, Alternate KiCAD Library
+BGA 25 0.4
+0
+25
+25
+Package_CSP_AKL
+ST_WLCSP-25_Die457
+WLCSP-25, 5x5 raster, 2.133x2.070mm package, pitch 0.4mm; see section 7.3 of http://www.st.com/resource/en/datasheet/stm32l011k3.pdf, Alternate KiCAD Library
+BGA 25 0.4
+0
+25
+25
+Package_CSP_AKL
+ST_WLCSP-36_Die417
+WLCSP-36, 6x6 raster, 2.61x2.88mm package, pitch 0.4mm; see section 7.4 of http://www.st.com/resource/en/datasheet/stm32l052t8.pdf, Alternate KiCAD Library
+BGA 36 0.4
+0
+36
+36
+Package_CSP_AKL
+ST_WLCSP-36_Die440
+WLCSP-36, 6x6 raster, 2.605x2.703mm package, pitch 0.4mm; see section 7.5 of http://www.st.com/resource/en/datasheet/stm32f051t8.pdf, Alternate KiCAD Library
+BGA 36 0.4
+0
+36
+36
+Package_CSP_AKL
+ST_WLCSP-36_Die445
+WLCSP-36, 6x6 raster, 2.605x2.703mm package, pitch 0.4mm; see section 7.3 of http://www.st.com/resource/en/datasheet/stm32f042k6.pdf, Alternate KiCAD Library
+BGA 36 0.4
+0
+36
+36
+Package_CSP_AKL
+ST_WLCSP-36_Die458
+WLCSP-36, 6x6 raster, 2.553x2.579mm package, pitch 0.4mm; see section 7.1 of http://www.st.com/resource/en/datasheet/stm32f410t8.pdf, Alternate KiCAD Library
+BGA 36 0.4
+0
+36
+36
+Package_CSP_AKL
+ST_WLCSP-49_Die423
+WLCSP-49, 7x7 raster, 2.965x2.965mm package, pitch 0.4mm; see section 7.1 of http://www.st.com/resource/en/datasheet/stm32f401vc.pdf, Alternate KiCAD Library
+BGA 49 0.4
+0
+49
+49
+Package_CSP_AKL
+ST_WLCSP-49_Die431
+WLCSP-49, 7x7 raster, 2.999x3.185mm package, pitch 0.4mm; see section 7.1 of http://www.st.com/resource/en/datasheet/stm32f411vc.pdf, Alternate KiCAD Library
+BGA 49 0.4
+0
+49
+49
+Package_CSP_AKL
+ST_WLCSP-49_Die433
+WLCSP-49, 7x7 raster, 3.029x3.029mm package, pitch 0.4mm; see section 7.1.1 of http://www.st.com/resource/en/datasheet/stm32f401ce.pdf, Alternate KiCAD Library
+BGA 49 0.4
+0
+49
+49
+Package_CSP_AKL
+ST_WLCSP-49_Die435
+WLCSP-49, 7x7 raster, 3.141x3.127mm package, pitch 0.4mm; see section 7.6 of http://www.st.com/resource/en/datasheet/DM00257211.pdf, Alternate KiCAD Library
+BGA 49 0.4
+0
+49
+49
+Package_CSP_AKL
+ST_WLCSP-49_Die438
+WLCSP-49, 7x7 raster, 3.89x3.74mm package, pitch 0.5mm; see section 7.5 of http://www.st.com/resource/en/datasheet/stm32f303r8.pdf, Alternate KiCAD Library
+BGA 49 0.5
+0
+49
+49
+Package_CSP_AKL
+ST_WLCSP-49_Die439
+WLCSP-49, 7x7 raster, 3.417x3.151mm package, pitch 0.4mm; see section 7.1 of http://www.st.com/resource/en/datasheet/stm32f301r8.pdf, Alternate KiCAD Library
+BGA 49 0.4
+0
+49
+49
+Package_CSP_AKL
+ST_WLCSP-49_Die447
+WLCSP-49, 7x7 raster, 3.294x3.258mm package, pitch 0.4mm; see section 7.6 of http://www.st.com/resource/en/datasheet/stm32l072kz.pdf, Alternate KiCAD Library
+BGA 49 0.4
+0
+49
+49
+Package_CSP_AKL
+ST_WLCSP-49_Die448
+WLCSP-49, 7x7 raster, 3.277x3.109mm package, pitch 0.4mm; see section 7.4 of http://www.st.com/resource/en/datasheet/stm32f071v8.pdf, Alternate KiCAD Library
+BGA 49 0.4
+0
+49
+49
+Package_CSP_AKL
+ST_WLCSP-63_Die427
+WLCSP-63, 7x9 raster, 3.228x4.164mm package, pitch 0.4mm; see section 7.6 of http://www.st.com/resource/en/datasheet/stm32l151cc.pdf, Alternate KiCAD Library
+BGA 63 0.4
+0
+63
+63
+Package_CSP_AKL
+ST_WLCSP-64_Die414
+WLCSP-64, 8x8 raster, 4.466x4.395mm package, pitch 0.5mm; see section 6.3 of http://www.st.com/resource/en/datasheet/stm32f103ze.pdf, Alternate KiCAD Library
+BGA 64 0.5
+0
+64
+64
+Package_CSP_AKL
+ST_WLCSP-64_Die427
+WLCSP-64, 8x8 raster, 4.539x4.911mm package, pitch 0.4mm; see section 7.5 of http://www.st.com/resource/en/datasheet/stm32l152zc.pdf, Alternate KiCAD Library
+BGA 64 0.4
+0
+64
+64
+Package_CSP_AKL
+ST_WLCSP-64_Die435
+WLCSP-64, 8x8 raster, 3.141x3.127mm package, pitch 0.35mm; see section 7.5 of http://www.st.com/resource/en/datasheet/DM00257211.pdf, Alternate KiCAD Library
+BGA 64 0.35
+0
+64
+64
+Package_CSP_AKL
+ST_WLCSP-64_Die436
+WLCSP-64, 8x8 raster, 4.539x4.911mm package, pitch 0.4mm; see section 7.5 of http://www.st.com/resource/en/datasheet/stm32l152zd.pdf, Alternate KiCAD Library
+BGA 64 0.4
+0
+64
+64
+Package_CSP_AKL
+ST_WLCSP-64_Die441
+WLCSP-64, 8x8 raster, 3.623x3.651mm package, pitch 0.4mm; see section 7.1 of http://www.st.com/resource/en/datasheet/DM00213872.pdf, Alternate KiCAD Library
+BGA 64 0.4
+0
+64
+64
+Package_CSP_AKL
+ST_WLCSP-64_Die442
+WLCSP-64, 8x8 raster, 3.347x3.585mm package, pitch 0.4mm; see section 7.4 of http://www.st.com/resource/en/datasheet/stm32f091vb.pdf, Alternate KiCAD Library
+BGA 64 0.4
+0
+64
+64
+Package_CSP_AKL
+ST_WLCSP-64_Die462
+WLCSP-64, 8x8 raster, 3.357x3.657mm package, pitch 0.4mm; see section 7.5 of http://www.st.com/resource/en/datasheet/DM00340475.pdf, Alternate KiCAD Library
+BGA 64 0.4
+0
+64
+64
+Package_CSP_AKL
+ST_WLCSP-66_Die411
+WLCSP-66, 9x9 raster, 3.639x3.971mm package, pitch 0.4mm; see section 7.2 of http://www.st.com/resource/en/datasheet/stm32f207vg.pdf, Alternate KiCAD Library
+BGA 66 0.4
+0
+66
+66
+Package_CSP_AKL
+ST_WLCSP-66_Die432
+WLCSP-66, 8x9 raster, 3.767x4.229mm package, pitch 0.4mm; see section 7.2 of http://www.st.com/resource/en/datasheet/stm32f378vc.pdf, Alternate KiCAD Library
+BGA 66 0.4
+0
+66
+66
+Package_CSP_AKL
+ST_WLCSP-72_Die415
+WLCSP-72, 9x9 raster, 4.4084x3.7594mm package, pitch 0.4mm; see section 7.5 of http://www.st.com/resource/en/datasheet/stm32l476me.pdf, Alternate KiCAD Library
+BGA 72 0.4
+0
+72
+72
+Package_CSP_AKL
+ST_WLCSP-81_Die415
+WLCSP-81, 9x9 raster, 4.4084x3.7594mm package, pitch 0.4mm; see section 7.4 of http://www.st.com/resource/en/datasheet/stm32l476me.pdf, Alternate KiCAD Library
+BGA 81 0.4
+0
+81
+81
+Package_CSP_AKL
+ST_WLCSP-81_Die421
+WLCSP-81, 9x9 raster, 3.693x3.815mm package, pitch 0.4mm; see section 7.6 of http://www.st.com/resource/en/datasheet/stm32f446ze.pdf, Alternate KiCAD Library
+BGA 81 0.4
+0
+81
+81
+Package_CSP_AKL
+ST_WLCSP-81_Die463
+WLCSP-81, 9x9 raster, 4.039x3.951mm package, pitch 0.4mm; see section 7.1 of http://www.st.com/resource/en/datasheet/DM00282249.pdf, Alternate KiCAD Library
+BGA 81 0.4
+0
+81
+81
+Package_CSP_AKL
+ST_WLCSP-90_Die413
+WLCSP-90, 10x9 raster, 4.223x3.969mm package, pitch 0.4mm; see section 6.1 of http://www.st.com/resource/en/datasheet/stm32f405og.pdf, Alternate KiCAD Library
+BGA 90 0.4
+0
+90
+90
+Package_CSP_AKL
+ST_WLCSP-100_Die422
+WLCSP-100, 10x10 raster, 4.201x4.663mm package, pitch 0.4mm; see section 7.4 of http://www.st.com/resource/en/datasheet/stm32f302vc.pdf, Alternate KiCAD Library
+BGA 100 0.4
+0
+100
+100
+Package_CSP_AKL
+ST_WLCSP-100_Die446
+WLCSP-100, 10x10 raster, 4.775x5.041mm package, pitch 0.4mm; see section 7.5 of http://www.st.com/resource/en/datasheet/stm32f303zd.pdf, Alternate KiCAD Library
+BGA 100 0.4
+0
+100
+100
+Package_CSP_AKL
+ST_WLCSP-100_Die452
+WLCSP-100, 10x10 raster, 4.201x4.663mm package, pitch 0.4mm; see section 7.7 of http://www.st.com/resource/en/datasheet/DM00330506.pdf, Alternate KiCAD Library
+BGA 100 0.4
+0
+100
+100
+Package_CSP_AKL
+ST_WLCSP-100_Die461
+WLCSP-100, 10x10 raster, 4.618x4.142mm package, pitch 0.4mm; see section 7.5 of http://www.st.com/resource/en/datasheet/DM00284211.pdf, Alternate KiCAD Library
+BGA 100 0.4
+0
+100
+100
+Package_CSP_AKL
+ST_WLCSP-104_Die437
+WLCSP-104, 9x12 raster, 4.095x5.094mm package, pitch 0.4mm; see section 7.5 of http://www.st.com/resource/en/datasheet/stm32l152ze.pdf, Alternate KiCAD Library
+BGA 104 0.4
+0
+104
+104
+Package_CSP_AKL
+ST_WLCSP-143_Die419
+WLCSP-143, 11x13 raster, 4.521x5.547mm package, pitch 0.4mm; see section 7.2 of http://www.st.com/resource/en/datasheet/stm32f429ng.pdf, Alternate KiCAD Library
+BGA 143 0.4
+0
+143
+143
+Package_CSP_AKL
+ST_WLCSP-143_Die449
+WLCSP-143, 11x13 raster, 4.539x5.849mm package, pitch 0.4mm; see section 6.3 of http://www.st.com/resource/en/datasheet/stm32f746zg.pdf, Alternate KiCAD Library
+BGA 143 0.4
+0
+143
+143
+Package_CSP_AKL
+ST_WLCSP-144_Die470
+WLCSP-144, 12x12 raster, 5.24x5.24mm package, pitch 0.4mm; see section 7.4 of http://www.st.com/resource/en/datasheet/DM00366448.pdf, Alternate KiCAD Library
+BGA 144 0.4
+0
+144
+144
+Package_CSP_AKL
+ST_WLCSP-168_Die434
+WLCSP-168, 12x14 raster, 4.891x5.692mm package, pitch 0.4mm; see section 6.3 of http://www.st.com/resource/en/datasheet/stm32f469ni.pdf, Alternate KiCAD Library
+BGA 168 0.4
+0
+168
+168
+Package_CSP_AKL
+ST_WLCSP-180_Die451
+WLCSP-180, 13x14 raster, 5.537x6.095mm package, pitch 0.4mm; see section 6.6 of http://www.st.com/resource/en/datasheet/DM00273119.pdf, Alternate KiCAD Library
+BGA 180 0.4
+0
+180
+180
+Package_CSP_AKL
+WLCSP-5_1.33x0.9mm_P0.5mm
+5pin Pitch 0.5mm, See: https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/wlcspcb/cb_5_1.pdf, Alternate KiCAD Library
+5pin Pitch 0.5mm WLCSP CB-5-1
+0
+5
+5
+Package_CSP_AKL
+WLCSP-6_1.4x1.0mm_P0.4mm
+6pin Pitch 0.4mm, Alternate KiCAD Library
+6pin Pitch 0.4mm WLCSP
+0
+6
+6
+Package_CSP_AKL
+WLCSP-8_1.58x1.63x0.35mm_Layout3x5_P0.35x0.4mm_Ball0.25mm_Pad0.25mm_NSMD
+WLCSP/XFBGA 8-pin package, staggered pins, http://www.adestotech.com/wp-content/uploads/DS-AT25DF041B_040.pdf, Alternate KiCAD Library
+WLCSP WLCSP-8 XFBGA XFBGA-8  CSP BGA Chip-Scale Glass-Top
+0
+8
+8
+Package_CSP_AKL
+WLCSP-8_1.825x1.48mm_P0.5mm
+8pin Pitch 0.5mm, See: https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/wlcspcb/CB_8_1.pdf, Alternate KiCAD Library
+8pin Pitch 0.5mm WLCSP CB-8-1
+0
+8
+8
+Package_CSP_AKL
+WLCSP-12_1.56x1.56mm_P0.4mm
+WLCSP 12 1.56x1.56 https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BMM150-DS001-01.pdf, Alternate KiCAD Library
+BMM150 WLCSP
+0
+12
+12
+Package_CSP_AKL
+WLCSP-12_1.403x1.555mm_P0.4mm_Stagger
+WLCSP-12, 6x4 raster staggered array, 1.403x1.555mm package, pitch 0.4mm; http://ww1.microchip.com/downloads/en/devicedoc/atmel-8235-8-bit-avr-microcontroller-attiny20_datasheet.pdf#page=208, Alternate KiCAD Library
+CSP 12 0.2x0.346333
+0
+12
+12
+Package_CSP_AKL
+WLCSP-16_4x4_B2.17x2.32mm_P0.5mm
+WLCSP-16, http://www.nxp.com/documents/data_sheet/LPC1102_1104.pdf, http://www.nxp.com/assets/documents/data/en/application-notes/AN3846.pdf, Alternate KiCAD Library
+WLCSP-16 NXP
+0
+16
+16
+Package_CSP_AKL
+WLCSP-20_1.934x2.434mm_Layout4x5_P0.4mm
+WLCSP-20, 4x5 raster, 1.934x2.434mm package, pitch 0.4mm; see section 36.2.3 of http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-42363-SAM-D11_Datasheet.pdf, Alternate KiCAD Library
+BGA 20 0.4
+0
+20
+20
+Package_CSP_AKL
+WLCSP-20_1.994x1.94mm_Layout4x5_P0.4mm
+WLCSP-20, https://www.nxp.com/docs/en/package-information/98ASA00539D.pdf, Alternate KiCAD Library
+WLCSP-20
+0
+20
+20
+Package_CSP_AKL
+WLCSP-20_1.994x1.609mm_Layout5x4_P0.4mm
+WLCSP-20, https://www.nxp.com/docs/en/package-information/98ASA00676D.pdf, Alternate KiCAD Library
+WLCSP-20
+0
+20
+20
+Package_CSP_AKL
+WLCSP-36_2.82x2.67mm_Layout6x6_P0.4mm
+WLCSP-36, https://www.nxp.com/docs/en/package-information/98ASA00949D.pdf, Alternate KiCAD Library
+WLCSP-36
+0
+36
+36
+Package_CSP_AKL
+WLCSP-36_2.374x2.459mm_Layout6x6_P0.35mm
+WLCSP-36, https://www.nxp.com/docs/en/package-information/98ASA00604D.pdf, Alternate KiCAD Library
+WLCSP-36
+0
+36
+36
+Package_CSP_AKL
+WLCSP-56_3.170x3.444mm_Layout7x8_P0.4mm
+WLCSP-56, 7x8 raster, 3.170x3.444mm package, pitch 0.4mm; see section 48.2.4 of http://ww1.microchip.com/downloads/en/DeviceDoc/DS60001479B.pdf, Alternate KiCAD Library
+BGA 56 0.4
+0
+56
+56
+Package_CSP_AKL
+WLCSP-81_4.41x3.76mm_P0.4mm
+WLCSP-81, 9x9, 0.4mm Pitch, http://www.st.com/content/ccc/resource/technical/document/technical_note/92/30/3c/a1/4c/bb/43/6f/DM00103228.pdf/files/DM00103228.pdf/jcr:content/translations/en.DM00103228.pdf, Alternate KiCAD Library
+WLCSP ST
+0
+81
+81
+Package_CSP_AKL
+pSemi_CSP-16_1.64x2.04mm_P0.4mm
+pSemi CSP-16 1.64x2.04x0.285mm (http://www.psemi.com/pdf/datasheets/pe29101ds.pdf, http://www.psemi.com/pdf/app_notes/an77.pdf), Alternate KiCAD Library
+psemi csp 16
+0
+16
+16
+Package_CSP_AKL
+pSemi_CSP-16_1.64x2.04mm_P0.4mm_Pad0.18mm
+pSemi CSP-16 1.64x2.04x0.285mm (http://www.psemi.com/pdf/datasheets/pe29101ds.pdf, http://www.psemi.com/pdf/app_notes/an77.pdf), Alternate KiCAD Library
 psemi csp 16
 0
 16
@@ -92049,6 +93995,958 @@ varistor
 0
 2
 2
+marbastlib-choc
+LED_choc_6028R
+Add-on for regular choc-footprints with 6028 reverse mount LED
+kailh choc 6028 rearmount rear mount led rgb backlight
+0
+4
+4
+marbastlib-choc
+LED_choc_6028R-ROT
+Add-on for regular choc-footprints with 6028 reverse mount LED
+kailh choc 6028 rearmount rear mount led rgb backlight
+0
+4
+4
+marbastlib-choc
+SW_choc_v1_1.5u
+Footprint for Kailh Choc style switches
+
+0
+2
+2
+marbastlib-choc
+SW_choc_v1_1.25u
+Footprint for Kailh Choc style switches
+
+0
+2
+2
+marbastlib-choc
+SW_choc_v1_1.75u
+Footprint for Kailh Choc style switches
+
+0
+2
+2
+marbastlib-choc
+SW_choc_v1_1u
+Footprint for Kailh Choc style switches
+
+0
+2
+2
+marbastlib-choc
+SW_choc_v1_HS_1.5u
+Hotswap footprint for Kailh Choc style switches
+
+0
+6
+2
+marbastlib-choc
+SW_choc_v1_HS_1.25u
+Hotswap footprint for Kailh Choc style switches
+
+0
+6
+2
+marbastlib-choc
+SW_choc_v1_HS_1.75u
+Hotswap footprint for Kailh Choc style switches
+
+0
+6
+2
+marbastlib-choc
+SW_choc_v1_HS_1u
+Hotswap footprint for Kailh Choc style switches
+
+0
+6
+2
+marbastlib-mx
+LED_MX_3mm
+Add-on for regular MX-footprints with 3mm LED
+cherry MX 3mm led backlight
+0
+2
+2
+marbastlib-mx
+LED_MX_3mm-ROT
+Add-on for regular MX-footprints with 3mm LED
+cherry MX 3mm led backlight
+0
+2
+2
+marbastlib-mx
+LED_MX_6028R
+Add-on for regular MX-footprints with 6028 reverse mount LED
+cherry MX 6028 rearmount rear mount led rgb backlight
+0
+4
+4
+marbastlib-mx
+LED_MX_6028R-ROT
+Add-on for regular MX-footprints with 6028 reverse mount LED
+cherry MX 6028 rearmount rear mount led rgb backlight
+0
+4
+4
+marbastlib-mx
+STAB_MX_2.25u
+Footprint for Cherry Clip/Screw in type stabilizers, 2.25u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_2.75u
+Footprint for Cherry Clip/Screw in type stabilizers, 2.75u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_2u
+Footprint for Cherry Clip/Screw in type stabilizers, 2u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_3u
+Footprint for Cherry Clip/Screw in type stabilizers, 3u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_6.25u
+Footprint for Cherry Clip/Screw in type stabilizers, 6.25u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_6u
+Footprint for Cherry Clip/Screw in type stabilizers, 6u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_7u
+Footprint for Cherry Clip/Screw in type stabilizers, 7u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_8u
+Footprint for Cherry Clip/Screw in type stabilizers, 10u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_9u
+Footprint for Cherry Clip/Screw in type stabilizers, 10u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_10u
+Footprint for Cherry Clip/Screw in type stabilizers, 10u
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_ISO
+Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_ISO-ROT
+Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
+
+0
+0
+0
+marbastlib-mx
+STAB_MX_P_2.25u
+Footprint for Cherry Clip/Screw in type stabilizers, 2.25u, plated
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_2.75u
+Footprint for Cherry Clip/Screw in type stabilizers, 2.75u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_2u
+Footprint for Cherry Clip/Screw in type stabilizers, 2u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_3u
+Footprint for Cherry Clip/Screw in type stabilizers, 3u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_6.25u
+Footprint for Cherry Clip/Screw in type stabilizers, 6.25u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_6u
+Footprint for Cherry Clip/Screw in type stabilizers, 6u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_7u
+Footprint for Cherry Clip/Screw in type stabilizers, 7u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_8u
+Footprint for Cherry Clip/Screw in type stabilizers, 10u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_9u
+Footprint for Cherry Clip/Screw in type stabilizers, 10u
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_10u
+Footprint for Cherry Clip/Screw in type stabilizers, 10u
+
+0
+4
+0
+marbastlib-mx
+STAB_MX_P_ISO
+Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
+
+0
+2
+0
+marbastlib-mx
+STAB_MX_P_ISO-ROT
+Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
+
+0
+2
+0
+marbastlib-mx
+SW_MX_1.5u
+Footprint for Cherry MX style switches
+
+0
+2
+2
+marbastlib-mx
+SW_MX_1.25u
+Footprint for Cherry MX style switches
+
+0
+2
+2
+marbastlib-mx
+SW_MX_1.75u
+Footprint for Cherry MX style switches
+
+0
+2
+2
+marbastlib-mx
+SW_MX_1.75u_STP_1.5
+Footprint for Cherry MX style switches
+
+0
+2
+2
+marbastlib-mx
+SW_MX_1.75u_STP_1.25
+Footprint for Cherry MX style switches
+
+0
+2
+2
+marbastlib-mx
+SW_MX_1u
+Footprint for Cherry MX style switches
+cherry mx switch
+0
+2
+2
+marbastlib-mx
+SW_MX_HS_1.5u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+marbastlib-mx
+SW_MX_HS_1.25u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+marbastlib-mx
+SW_MX_HS_1.75u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+marbastlib-mx
+SW_MX_HS_1.75u_STP_1.5
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+marbastlib-mx
+SW_MX_HS_1.75u_STP_1.25
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+marbastlib-mx
+SW_MX_HS_1u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+marbastlib-mx
+SW_MX_HS_S_1u
+Footprint for Cherry MX style switches with Kailh hotswap socket
+
+0
+6
+2
+marbastlib-xp-choc
+LED_choc_1206R
+Add-on for regular choc-footprints with MHT151RGBCT 1206 reverse mount LED
+kailh choc 1206 rearmount rear mount led rgb backlight 
+0
+4
+4
+marbastlib-xp-choc
+LED_choc_1206R-ROT
+Add-on for regular choc-footprints with MHT151RGBCT 1206 reverse mount LED
+kailh choc 1206 rearmount rear mount led rgb backlight
+0
+4
+4
+marbastlib-xp-choc
+LED_choc_WS2812_2020
+Add-on for regular choc-footprints with WS2812_2020
+kailh choc WS2812 2020 rearmount rear mount led rgb backlight
+0
+4
+4
+marbastlib-xp-choc
+LED_choc_WS2812_2020-ROT
+Add-on for regular choc-footprints with WS2812 2020
+kailh choc WS2812 2020 rearmount rear mount led rgb backlight
+0
+4
+4
+marbastlib-xp-choc
+PLATE_choc
+Break-out tabs for switch and plate multi-purpose-PCBs (kailh choc footprints)
+kailh choc pcb plate break
+0
+0
+0
+marbastlib-xp-choc
+STAB_choc_2u
+Footprint for Kailh Choc style switches
+
+0
+0
+0
+marbastlib-xp-choc
+STAB_choc_6.25u
+Footprint for Kailh Choc style switches
+
+0
+0
+0
+marbastlib-xp-choc
+SW_choc_MxCombo_1u
+Combined footprint for Kailh Choc and Cherry MX style switches
+
+0
+4
+2
+marbastlib-xp-choc
+SW_choc_Reversible_1u
+Reversible dootprint for Kailh Choc style switches
+
+0
+3
+2
+marbastlib-xp-choc
+SW_choc_v1+v2_1.5u
+Combined footprint for Kailh Choc v1 and v2 style switches
+
+0
+3
+3
+marbastlib-xp-choc
+SW_choc_v1+v2_1.25u
+Combined footprint for Kailh Choc v1 and v2 style switches
+
+0
+3
+3
+marbastlib-xp-choc
+SW_choc_v1+v2_1.75u
+Combined footprint for Kailh Choc v1 and v2 style switches
+
+0
+3
+3
+marbastlib-xp-choc
+SW_choc_v1+v2_1u
+Combined footprint for Kailh Choc v1 and v2 style switches
+
+0
+3
+3
+marbastlib-xp-choc
+SW_choc_v2_1.5u
+Footprint for Kailh Choc v2 style switches
+
+0
+3
+3
+marbastlib-xp-choc
+SW_choc_v2_1.25u
+Footprint for Kailh Choc v2 style switches
+
+0
+3
+3
+marbastlib-xp-choc
+SW_choc_v2_1.75u
+Footprint for Kailh Choc v2 style switches
+
+0
+3
+3
+marbastlib-xp-choc
+SW_choc_v2_1u
+Footprint for Kailh Choc v2 style switches
+
+0
+3
+3
+marbastlib-xp-choc
+SW_choc_v2_HS_1.5u
+Hotswap footprint for Kailh Choc v2 style switches
+
+0
+7
+3
+marbastlib-xp-choc
+SW_choc_v2_HS_1.25u
+Hotswap footprint for Kailh Choc v2 style switches
+
+0
+7
+3
+marbastlib-xp-choc
+SW_choc_v2_HS_1.75u
+Hotswap footprint for Kailh Choc v2 style switches
+
+0
+7
+3
+marbastlib-xp-choc
+SW_choc_v2_HS_1u
+Hotswap footprint for Kailh Choc v2 style switches
+
+0
+7
+3
+marbastlib-xp-mx
+LED_MX_1206R
+Add-on for regular MX-footprints with MHT151RGBCT 1206 reverse mount LED
+cherry MX 1206 rearmount rear mount led rgb backlight
+0
+4
+4
+marbastlib-xp-mx
+LED_MX_1206R-ROT
+Add-on for regular MX-footprints with MHT151RGBCT 1206 reverse mount LED
+cherry MX 1206 rearmount rear mount led rgb backlight
+0
+4
+4
+marbastlib-xp-mx
+LED_MX_WS2812_2020
+Add-on for regular MX-footprints with WS2812_2020
+cherry MX WS2812 2020 rearmount rear mount led rgb backlight
+0
+4
+4
+marbastlib-xp-mx
+LED_MX_WS2812_2020-ROT
+Add-on for regular MX-footprints with WS2812_2020
+cherry MX WS2812 2020 rearmount rear mount led rgb backlight
+0
+4
+4
+marbastlib-xp-mx
+PLATE_MX
+Break-out tabs for switch and plate multi-purpose-PCBs cherry MX footprints)
+cherry mx pcb plate break
+0
+0
+0
+marbastlib-xp-mx
+SW_MX_Reversible_1u
+Reversible footprint for Cherry MX style switches
+cherry mx switch
+0
+4
+2
+marbastlib-xp-mx
+SW_MX_ULP_1u
+Footprint for Cherry MX Ultra Low Profile switches
+Cherry MX ULP
+0
+7
+3
+marbastlib-xp-mx
+SW_MX_ULP_1u_handsolder
+Footprint for Cherry MX Ultra Low Profile switches
+Cherry MX ULP HS
+0
+7
+3
+marbastlib-xp-promicroish
+Elite-C_AC
+Footprint for Elite-C controllers, castellated pads only
+
+0
+30
+30
+marbastlib-xp-promicroish
+Elite-C_ACH
+Footprint for Elite-C controllers, through hole and castellated pads
+
+0
+59
+30
+marbastlib-xp-promicroish
+Elite-C_AH_Reversible
+Footprint for Elite-C controllers, through hole pads only, USB pointing away from PCB
+
+0
+30
+30
+marbastlib-xp-promicroish
+Elite-C_AH_USBdn
+Footprint for Elite-C controllers, through hole pads only, USB facing PCB
+
+0
+30
+30
+marbastlib-xp-promicroish
+Elite-C_AH_USBup
+Footprint for Elite-C controllers, through hole pads only, USB pointing away from PCB
+
+0
+30
+30
+marbastlib-xp-promicroish
+Elite-C_C
+Footprint for Elite-C controllers (pro-micro-pins only), castellated pads only
+
+0
+25
+25
+marbastlib-xp-promicroish
+Elite-C_CH
+Footprint for Elite-C controllers (pro-micro-pins only), castellated and through hole pads
+
+0
+49
+25
+marbastlib-xp-promicroish
+Helios_AC
+Footprint for 0xCB Helios controllers, USB pointing away from PCB
+
+0
+34
+33
+marbastlib-xp-promicroish
+Helios_ACH
+Footprint for 0xCB Helios controllers, USB pointing away from PCB
+
+0
+65
+33
+marbastlib-xp-promicroish
+Helios_AH_Reversible
+Footprint for 0xCB Helios controllers, USB pointing away from PCB
+
+0
+34
+33
+marbastlib-xp-promicroish
+Helios_AH_USBdn
+Footprint for 0xCB Helios controllers, USB facing PCB
+
+0
+34
+33
+marbastlib-xp-promicroish
+Helios_AH_USBup
+Footprint for 0xCB Helios controllers, USB pointing away from PCB
+
+0
+34
+33
+marbastlib-xp-promicroish
+Liatris_AH_Reversible
+Footprint for Splitkb Liatris controllers, through hole pads only
+
+0
+29
+29
+marbastlib-xp-promicroish
+Liatris_AH_USBdn
+Footprint for Splitkb Liatris controllers, through hole pads only
+
+0
+29
+29
+marbastlib-xp-promicroish
+Liatris_AH_USBup
+Footprint for Splitkb Liatris controllers, through hole pads only
+
+0
+29
+29
+marbastlib-xp-promicroish
+Liatris_H_USBdn
+Footprint for Splitkb Liatris controllers (pro-micro-pins only), through hole pads only
+
+0
+24
+24
+marbastlib-xp-promicroish
+Liatris_H_USBup
+Footprint for Splitkb Liatris controllers (pro-micro-pins only), through hole pads only
+
+0
+24
+24
+marbastlib-xp-promicroish
+Pluto_AH_Reversible
+Footprint for 0xCB Pluto controllers, Reversible
+
+0
+33
+33
+marbastlib-xp-promicroish
+Pluto_AH_USBdn
+Footprint for 0xCB Pluto controllers, USB facing PCB
+
+0
+33
+33
+marbastlib-xp-promicroish
+Pluto_AH_USBup
+Footprint for 0xCB Pluto controllers, USB pointing away from PCB
+
+0
+33
+33
+marbastlib-xp-promicroish
+ProMicro_Reversible
+Footprint for Arduino Pro Micro and compatible boards, Reversible with 2 staggered footprints
+
+0
+48
+24
+marbastlib-xp-promicroish
+ProMicro_Reversible_Single
+Footprint for Arduino Pro Micro and compatible boards, Reversible with single footprint
+
+0
+24
+24
+marbastlib-xp-promicroish
+ProMicro_USBdn
+Footprint for Arduino Pro Micro and compatible boards, USB facing PCB
+
+0
+24
+24
+marbastlib-xp-promicroish
+ProMicro_USBup
+Footprint for Arduino Pro Micro and compatible boards, USB pointing away from PCB
+
+0
+24
+24
+marbastlib-xp-promicroish
+nice_nano_AH_Reversible
+Footprint for nice!nano (nRF52850 pro-micro compatible controller), Reversible
+
+0
+29
+29
+marbastlib-xp-promicroish
+nice_nano_AH_USBdn
+Footprint for nice!nano (nRF52850 pro-micro compatible controller), USB facing PCB
+
+0
+29
+29
+marbastlib-xp-promicroish
+nice_nano_AH_USBup
+Footprint for nice!nano (nRF52850 pro-micro compatible controller), USB pointing away from PCB
+
+0
+29
+29
+marbastlib-xp-promicroish
+nice_nano_H_USBdn
+Footprint for nice!nano (nRF52850 pro-micro compatible controller), pro-micro compatible pads only, USB facing PCB
+
+0
+24
+24
+marbastlib-xp-promicroish
+nice_nano_H_USBup
+Footprint for nice!nano (nRF52850 pro-micro compatible controller), pro-micro compatible pads only, USB pointing away from PCB
+
+0
+24
+24
+marbastlib-xp-various
+ANT_2.4_IFA_1
+Inverted F BLE antenna designed following cypress' guide: https://www.cypress.com/file/136236/download
+PCB antenna IFA inverted F bluetooth 2.4 GHz
+0
+51
+2
+marbastlib-xp-various
+ANT_2.4_IFA_2
+Inverted F BLE antenna designed following cypress' guide: https://www.cypress.com/file/136236/download
+PCB antenna IFA inverted F bluetooth 2.4 GHz
+0
+51
+2
+marbastlib-xp-various
+CON_MJ-4PP-9
+TRRS Jack
+TRRS jack 3.5mm headphone connector
+0
+4
+4
+marbastlib-xp-various
+CON_MJ-4PP-9_Reversible
+Reversible TRRS Jack
+TRRS jack 3.5mm headphone connector
+0
+8
+4
+marbastlib-xp-various
+LED_1206R
+rear-mount SMD MHT151RGBCT 1206 RGB LED
+LED RGB 1206 rear mount reverse
+0
+4
+4
+marbastlib-xp-various
+LED_WS2812_2020_rearmount
+2020 SMD adressable RGB LED with integrated controller
+LED RGB NeoPixel
+0
+4
+4
+marbastlib-xp-various
+MAX77751
+3A 1S LiXx battery charging IC with USB (DP/DP + CC) current negotiation and power path
+LiIon LiPo battery charger management usb power path switch-mode step-down buck
+0
+24
+24
+marbastlib-xp-various
+PNT_RKJXU1210006
+
+
+0
+3
+1
+marbastlib-xp-various
+PNT_psp1000
+Footprint for a PSP-1000 joystick
+psp joystick analog
+0
+6
+5
+marbastlib-xp-various
+STM32WB5MMG
+Bluetooth capable ARM Microcontroller
+stm32 arm wireless bluetooth low energy ble zigbee
+0
+86
+86
+marbastlib-xp-various
+nRF52840_holyiot_18010_HS
+Module containing a nRF52840 and most passives and antenna
+holyiot 18010 bluetooth low energy 
+0
+55
+55
+marbastlib-xp-various
+nRF52840_holyiot_18010_HS_all
+Module containing a nRF52840 and most passives and antenna, with a cutout for hand soldering of the bottom IO
+holyiot 18010 bluetooth low energy 
+0
+55
+55
+marbastlib-xp-various
+nRF52840_moko_mk08_HS
+
+
+0
+60
+58
+mcu
+holyiot-18010
+
+
+0
+55
+55
+mcu
+holyiot-18010-no-underside
+
+
+0
+37
+37
+mcu
+ms88sf3
+
+
+0
+64
+64
+mcu
+rp2040-zero-smd
+
+
+0
+23
+23
+mcu
+rp2040-zero-smd-pads
+
+
+0
+33
+33
+mcu
+rp2040-zero-smd-pads-cutout
+
+
+0
+33
+33
+mcu
+rp2040-zero-tht
+
+
+0
+23
+23
+mcu
+rp2040-zero-tht-pads
+
+
+0
+33
+33
+mcu
+rp2040-zero-tht-pads-cutout
+
+
+0
+33
+33
+mcu
+xiao-ble-smd
+
+
+0
+22
+22
+mcu
+xiao-ble-smd-cutout
+
+
+0
+22
+22
+mcu
+xiao-ble-tht
+
+
+0
+22
+22
+mcu
+xiao-smd
+
+
+0
+18
+18
+mcu
+xiao-tht
+
+
+0
+18
+18
 miketronic_fplib
 Pimoroni_PIM374_128x128
 Adafruit SSD1306 OLED 1.3 inch 128x64 I2C & SPI https://learn.adafruit.com/monochrome-oled-breakouts/downloads
@@ -92224,3 +95122,38 @@ breakaway-mousebites
 0
 0
 0
+switch
+EC10E
+
+
+0
+5
+4
+switch
+EVQWGD001
+
+
+0
+6
+6
+switch
+SKRHA-boss
+
+
+0
+8
+6
+switch
+SKRHA-no-boss
+
+
+0
+8
+6
+switch
+switch-MSK-12C02-smd
+
+
+0
+7
+3
