@@ -1,4 +1,4 @@
-22845583715182849
+22852330191950646
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -60920,6 +60920,13 @@ KailhChoc-1U
 0
 4
 4
+Kailh_Choc
+MB_KailhChoc-1U
+
+
+0
+2
+2
 Keebio-Parts
 3_Pin_Jumper
 
@@ -94381,6 +94388,13 @@ kailh choc WS2812 2020 rearmount rear mount led rgb backlight
 4
 4
 marbastlib-xp-choc
+MB_SW_choc_v2_HS_1u
+Hotswap footprint for Kailh Choc v2 style switches
+
+0
+7
+3
+marbastlib-xp-choc
 PLATE_choc
 Break-out tabs for switch and plate multi-purpose-PCBs (kailh choc footprints)
 kailh choc pcb plate break
@@ -94947,6 +94961,20 @@ xiao-tht
 0
 18
 18
+miketronic_fplib
+MB_KailhChoc-1U
+
+
+0
+2
+2
+miketronic_fplib
+MB_SW_choc_v2_HS_1u
+Hotswap footprint for Kailh Choc v2 style switches
+
+0
+7
+3
 miketronic_fplib
 Pimoroni_PIM374_128x128
 Adafruit SSD1306 OLED 1.3 inch 128x64 I2C & SPI https://learn.adafruit.com/monochrome-oled-breakouts/downloads
