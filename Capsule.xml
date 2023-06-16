@@ -1,1729 +1,978 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<export version="D">
+<export version="E">
   <design>
-    <source>/kicad/.local/bin/kle2netlist</source>
-    <date>06/08/2023 09:23 PM</date>
-    <tool>SKiDL (1.1.0)</tool>
+    <source>C:\Users\mikeb\OneDrive\Documents\GitHub\capsule\Capsule.kicad_sch</source>
+    <date>6/15/2023 2:29:09 PM</date>
+    <tool>Eeschema 7.0.2</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Capsule.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
   </design>
   <components>
-    <comp ref="SW1">
-      <value>SW_Push</value>
-      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
-      <fields>
-        (field (name F0) SW)
-        (field (name Reference) SW)
-        (field (name F1) SW_Push)
-        (field (name Value) SW_Push)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "switch normally-open pushbutton push-button")
-        (field (name ki_keywords) "switch normally-open pushbutton push-button")
-        (field (name F5) "Push button switch, generic, two pins")
-        (field (name ki_description) "Push button switch, generic, two pins")
-      </fields>
-      <libsource lib="Switch" part="SW_Push"/>
+    <comp ref="Connector1">
+      <value>MB_i2c_header</value>
+      <footprint>miketronic_fplib:MB_I2C_Breakout_reverse</footprint>
+      <libsource lib="MB_i2c_header" part="MB_i2c_header" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b29a6eb5-bcd2-4e27-bea7-1dd1ca027439</tstamps>
     </comp>
     <comp ref="D1">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-323F</footprint>
-      <fields>
-        (field (name F0) D)
-        (field (name Reference) D)
-        (field (name F1) D)
-        (field (name Value) D)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) diode)
-        (field (name ki_keywords) diode)
-        (field (name F5) Diode)
-        (field (name ki_description) Diode)
-        (field (name F6) "TO-???* *_Diode_* *SingleDiode* D_*")
-        (field (name ki_fp_filters) "TO-???* *_Diode_* *SingleDiode* D_*")
-      </fields>
-      <libsource lib="Device" part="D"/>
-    </comp>
-    <comp ref="SW2">
-      <value>SW_Push</value>
-      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
-      <fields>
-        (field (name F0) SW)
-        (field (name Reference) SW)
-        (field (name F1) SW_Push)
-        (field (name Value) SW_Push)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "switch normally-open pushbutton push-button")
-        (field (name ki_keywords) "switch normally-open pushbutton push-button")
-        (field (name F5) "Push button switch, generic, two pins")
-        (field (name ki_description) "Push button switch, generic, two pins")
-      </fields>
-      <libsource lib="Switch" part="SW_Push"/>
+      <footprint>miketronic_fplib:MB_D_SOD-123_1PAD</footprint>
+      <libsource lib="hazel" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3f5e307-14a1-4676-b1da-32427959fdd6</tstamps>
     </comp>
     <comp ref="D2">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-323F</footprint>
-      <fields>
-        (field (name F0) D)
-        (field (name Reference) D)
-        (field (name F1) D)
-        (field (name Value) D)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) diode)
-        (field (name ki_keywords) diode)
-        (field (name F5) Diode)
-        (field (name ki_description) Diode)
-        (field (name F6) "TO-???* *_Diode_* *SingleDiode* D_*")
-        (field (name ki_fp_filters) "TO-???* *_Diode_* *SingleDiode* D_*")
-      </fields>
-      <libsource lib="Device" part="D"/>
-    </comp>
-    <comp ref="SW3">
-      <value>SW_Push</value>
-      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
-      <fields>
-        (field (name F0) SW)
-        (field (name Reference) SW)
-        (field (name F1) SW_Push)
-        (field (name Value) SW_Push)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "switch normally-open pushbutton push-button")
-        (field (name ki_keywords) "switch normally-open pushbutton push-button")
-        (field (name F5) "Push button switch, generic, two pins")
-        (field (name ki_description) "Push button switch, generic, two pins")
-      </fields>
-      <libsource lib="Switch" part="SW_Push"/>
+      <footprint>miketronic_fplib:MB_D_SOD-123_1PAD</footprint>
+      <libsource lib="hazel" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d19892b6-f437-43ef-a2cf-df1fc84b506b</tstamps>
     </comp>
     <comp ref="D3">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-323F</footprint>
-      <fields>
-        (field (name F0) D)
-        (field (name Reference) D)
-        (field (name F1) D)
-        (field (name Value) D)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) diode)
-        (field (name ki_keywords) diode)
-        (field (name F5) Diode)
-        (field (name ki_description) Diode)
-        (field (name F6) "TO-???* *_Diode_* *SingleDiode* D_*")
-        (field (name ki_fp_filters) "TO-???* *_Diode_* *SingleDiode* D_*")
-      </fields>
-      <libsource lib="Device" part="D"/>
-    </comp>
-    <comp ref="SW4">
-      <value>SW_Push</value>
-      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
-      <fields>
-        (field (name F0) SW)
-        (field (name Reference) SW)
-        (field (name F1) SW_Push)
-        (field (name Value) SW_Push)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "switch normally-open pushbutton push-button")
-        (field (name ki_keywords) "switch normally-open pushbutton push-button")
-        (field (name F5) "Push button switch, generic, two pins")
-        (field (name ki_description) "Push button switch, generic, two pins")
-      </fields>
-      <libsource lib="Switch" part="SW_Push"/>
+      <footprint>miketronic_fplib:MB_D_SOD-123_1PAD</footprint>
+      <libsource lib="hazel" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07913108-7621-4293-af99-27855fdc125b</tstamps>
     </comp>
     <comp ref="D4">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-323F</footprint>
-      <fields>
-        (field (name F0) D)
-        (field (name Reference) D)
-        (field (name F1) D)
-        (field (name Value) D)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) diode)
-        (field (name ki_keywords) diode)
-        (field (name F5) Diode)
-        (field (name ki_description) Diode)
-        (field (name F6) "TO-???* *_Diode_* *SingleDiode* D_*")
-        (field (name ki_fp_filters) "TO-???* *_Diode_* *SingleDiode* D_*")
-      </fields>
-      <libsource lib="Device" part="D"/>
-    </comp>
-    <comp ref="SW5">
-      <value>SW_Push</value>
-      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
-      <fields>
-        (field (name F0) SW)
-        (field (name Reference) SW)
-        (field (name F1) SW_Push)
-        (field (name Value) SW_Push)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "switch normally-open pushbutton push-button")
-        (field (name ki_keywords) "switch normally-open pushbutton push-button")
-        (field (name F5) "Push button switch, generic, two pins")
-        (field (name ki_description) "Push button switch, generic, two pins")
-      </fields>
-      <libsource lib="Switch" part="SW_Push"/>
+      <footprint>miketronic_fplib:MB_D_SOD-123_1PAD</footprint>
+      <libsource lib="hazel" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ab0454a-8ae5-4013-b5ea-45aac76aba79</tstamps>
     </comp>
     <comp ref="D5">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-323F</footprint>
-      <fields>
-        (field (name F0) D)
-        (field (name Reference) D)
-        (field (name F1) D)
-        (field (name Value) D)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) diode)
-        (field (name ki_keywords) diode)
-        (field (name F5) Diode)
-        (field (name ki_description) Diode)
-        (field (name F6) "TO-???* *_Diode_* *SingleDiode* D_*")
-        (field (name ki_fp_filters) "TO-???* *_Diode_* *SingleDiode* D_*")
-      </fields>
-      <libsource lib="Device" part="D"/>
-    </comp>
-    <comp ref="SW6">
-      <value>SW_Push</value>
-      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
-      <fields>
-        (field (name F0) SW)
-        (field (name Reference) SW)
-        (field (name F1) SW_Push)
-        (field (name Value) SW_Push)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "switch normally-open pushbutton push-button")
-        (field (name ki_keywords) "switch normally-open pushbutton push-button")
-        (field (name F5) "Push button switch, generic, two pins")
-        (field (name ki_description) "Push button switch, generic, two pins")
-      </fields>
-      <libsource lib="Switch" part="SW_Push"/>
+      <footprint>miketronic_fplib:MB_D_SOD-123_1PAD</footprint>
+      <libsource lib="hazel" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>279e96e6-3421-4d17-acf7-7f1f5dcd03cb</tstamps>
     </comp>
     <comp ref="D6">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-323F</footprint>
-      <fields>
-        (field (name F0) D)
-        (field (name Reference) D)
-        (field (name F1) D)
-        (field (name Value) D)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) diode)
-        (field (name ki_keywords) diode)
-        (field (name F5) Diode)
-        (field (name ki_description) Diode)
-        (field (name F6) "TO-???* *_Diode_* *SingleDiode* D_*")
-        (field (name ki_fp_filters) "TO-???* *_Diode_* *SingleDiode* D_*")
-      </fields>
-      <libsource lib="Device" part="D"/>
-    </comp>
-    <comp ref="SW7">
-      <value>SW_Push</value>
-      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
-      <fields>
-        (field (name F0) SW)
-        (field (name Reference) SW)
-        (field (name F1) SW_Push)
-        (field (name Value) SW_Push)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "switch normally-open pushbutton push-button")
-        (field (name ki_keywords) "switch normally-open pushbutton push-button")
-        (field (name F5) "Push button switch, generic, two pins")
-        (field (name ki_description) "Push button switch, generic, two pins")
-      </fields>
-      <libsource lib="Switch" part="SW_Push"/>
+      <footprint>miketronic_fplib:MB_D_SOD-123_1PAD</footprint>
+      <libsource lib="hazel" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb083586-35dc-4096-8508-4588d551bf72</tstamps>
     </comp>
     <comp ref="D7">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-323F</footprint>
-      <fields>
-        (field (name F0) D)
-        (field (name Reference) D)
-        (field (name F1) D)
-        (field (name Value) D)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) diode)
-        (field (name ki_keywords) diode)
-        (field (name F5) Diode)
-        (field (name ki_description) Diode)
-        (field (name F6) "TO-???* *_Diode_* *SingleDiode* D_*")
-        (field (name ki_fp_filters) "TO-???* *_Diode_* *SingleDiode* D_*")
-      </fields>
-      <libsource lib="Device" part="D"/>
-    </comp>
-    <comp ref="SW8">
-      <value>SW_Push</value>
-      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
-      <fields>
-        (field (name F0) SW)
-        (field (name Reference) SW)
-        (field (name F1) SW_Push)
-        (field (name Value) SW_Push)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "switch normally-open pushbutton push-button")
-        (field (name ki_keywords) "switch normally-open pushbutton push-button")
-        (field (name F5) "Push button switch, generic, two pins")
-        (field (name ki_description) "Push button switch, generic, two pins")
-      </fields>
-      <libsource lib="Switch" part="SW_Push"/>
+      <footprint>miketronic_fplib:MB_D_SOD-123_1PAD</footprint>
+      <libsource lib="hazel" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4db2cf05-08f4-45b0-ae4d-18df6a11e0a6</tstamps>
     </comp>
     <comp ref="D8">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-323F</footprint>
-      <fields>
-        (field (name F0) D)
-        (field (name Reference) D)
-        (field (name F1) D)
-        (field (name Value) D)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) diode)
-        (field (name ki_keywords) diode)
-        (field (name F5) Diode)
-        (field (name ki_description) Diode)
-        (field (name F6) "TO-???* *_Diode_* *SingleDiode* D_*")
-        (field (name ki_fp_filters) "TO-???* *_Diode_* *SingleDiode* D_*")
-      </fields>
-      <libsource lib="Device" part="D"/>
-    </comp>
-    <comp ref="SW9">
-      <value>SW_Push</value>
-      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
-      <fields>
-        (field (name F0) SW)
-        (field (name Reference) SW)
-        (field (name F1) SW_Push)
-        (field (name Value) SW_Push)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "switch normally-open pushbutton push-button")
-        (field (name ki_keywords) "switch normally-open pushbutton push-button")
-        (field (name F5) "Push button switch, generic, two pins")
-        (field (name ki_description) "Push button switch, generic, two pins")
-      </fields>
-      <libsource lib="Switch" part="SW_Push"/>
+      <footprint>miketronic_fplib:MB_D_SOD-123_1PAD</footprint>
+      <libsource lib="hazel" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f4c84f76-5d3f-47ac-b0fc-bb30cab3c77d</tstamps>
     </comp>
     <comp ref="D9">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-323F</footprint>
-      <fields>
-        (field (name F0) D)
-        (field (name Reference) D)
-        (field (name F1) D)
-        (field (name Value) D)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) diode)
-        (field (name ki_keywords) diode)
-        (field (name F5) Diode)
-        (field (name ki_description) Diode)
-        (field (name F6) "TO-???* *_Diode_* *SingleDiode* D_*")
-        (field (name ki_fp_filters) "TO-???* *_Diode_* *SingleDiode* D_*")
-      </fields>
-      <libsource lib="Device" part="D"/>
-    </comp>
-    <comp ref="SW10">
-      <value>SW_Push</value>
-      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
-      <fields>
-        (field (name F0) SW)
-        (field (name Reference) SW)
-        (field (name F1) SW_Push)
-        (field (name Value) SW_Push)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "switch normally-open pushbutton push-button")
-        (field (name ki_keywords) "switch normally-open pushbutton push-button")
-        (field (name F5) "Push button switch, generic, two pins")
-        (field (name ki_description) "Push button switch, generic, two pins")
-      </fields>
-      <libsource lib="Switch" part="SW_Push"/>
+      <footprint>miketronic_fplib:MB_D_SOD-123_1PAD</footprint>
+      <libsource lib="hazel" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82f04e41-d147-40d7-afe8-c7975ffb9804</tstamps>
     </comp>
     <comp ref="D10">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-323F</footprint>
-      <fields>
-        (field (name F0) D)
-        (field (name Reference) D)
-        (field (name F1) D)
-        (field (name Value) D)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) diode)
-        (field (name ki_keywords) diode)
-        (field (name F5) Diode)
-        (field (name ki_description) Diode)
-        (field (name F6) "TO-???* *_Diode_* *SingleDiode* D_*")
-        (field (name ki_fp_filters) "TO-???* *_Diode_* *SingleDiode* D_*")
-      </fields>
-      <libsource lib="Device" part="D"/>
-    </comp>
-    <comp ref="SW11">
-      <value>SW_Push</value>
-      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
-      <fields>
-        (field (name F0) SW)
-        (field (name Reference) SW)
-        (field (name F1) SW_Push)
-        (field (name Value) SW_Push)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "switch normally-open pushbutton push-button")
-        (field (name ki_keywords) "switch normally-open pushbutton push-button")
-        (field (name F5) "Push button switch, generic, two pins")
-        (field (name ki_description) "Push button switch, generic, two pins")
-      </fields>
-      <libsource lib="Switch" part="SW_Push"/>
+      <footprint>miketronic_fplib:MB_D_SOD-123_1PAD</footprint>
+      <libsource lib="hazel" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cb62939a-760c-4eb9-83b0-3b4bf99bc8fa</tstamps>
     </comp>
     <comp ref="D11">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-323F</footprint>
-      <fields>
-        (field (name F0) D)
-        (field (name Reference) D)
-        (field (name F1) D)
-        (field (name Value) D)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) diode)
-        (field (name ki_keywords) diode)
-        (field (name F5) Diode)
-        (field (name ki_description) Diode)
-        (field (name F6) "TO-???* *_Diode_* *SingleDiode* D_*")
-        (field (name ki_fp_filters) "TO-???* *_Diode_* *SingleDiode* D_*")
-      </fields>
-      <libsource lib="Device" part="D"/>
-    </comp>
-    <comp ref="SW12">
-      <value>SW_Push</value>
-      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
-      <fields>
-        (field (name F0) SW)
-        (field (name Reference) SW)
-        (field (name F1) SW_Push)
-        (field (name Value) SW_Push)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "switch normally-open pushbutton push-button")
-        (field (name ki_keywords) "switch normally-open pushbutton push-button")
-        (field (name F5) "Push button switch, generic, two pins")
-        (field (name ki_description) "Push button switch, generic, two pins")
-      </fields>
-      <libsource lib="Switch" part="SW_Push"/>
+      <footprint>miketronic_fplib:MB_D_SOD-123_1PAD</footprint>
+      <libsource lib="hazel" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ca8e343-d59e-4153-baf2-460d62707d89</tstamps>
     </comp>
     <comp ref="D12">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-323F</footprint>
-      <fields>
-        (field (name F0) D)
-        (field (name Reference) D)
-        (field (name F1) D)
-        (field (name Value) D)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) diode)
-        (field (name ki_keywords) diode)
-        (field (name F5) Diode)
-        (field (name ki_description) Diode)
-        (field (name F6) "TO-???* *_Diode_* *SingleDiode* D_*")
-        (field (name ki_fp_filters) "TO-???* *_Diode_* *SingleDiode* D_*")
-      </fields>
-      <libsource lib="Device" part="D"/>
-    </comp>
-    <comp ref="SW13">
-      <value>SW_Push</value>
-      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
-      <fields>
-        (field (name F0) SW)
-        (field (name Reference) SW)
-        (field (name F1) SW_Push)
-        (field (name Value) SW_Push)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "switch normally-open pushbutton push-button")
-        (field (name ki_keywords) "switch normally-open pushbutton push-button")
-        (field (name F5) "Push button switch, generic, two pins")
-        (field (name ki_description) "Push button switch, generic, two pins")
-      </fields>
-      <libsource lib="Switch" part="SW_Push"/>
+      <footprint>miketronic_fplib:MB_D_SOD-123_1PAD</footprint>
+      <libsource lib="hazel" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ebb0833-1abe-4422-96fd-d794df0f64d7</tstamps>
     </comp>
     <comp ref="D13">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-323F</footprint>
-      <fields>
-        (field (name F0) D)
-        (field (name Reference) D)
-        (field (name F1) D)
-        (field (name Value) D)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) diode)
-        (field (name ki_keywords) diode)
-        (field (name F5) Diode)
-        (field (name ki_description) Diode)
-        (field (name F6) "TO-???* *_Diode_* *SingleDiode* D_*")
-        (field (name ki_fp_filters) "TO-???* *_Diode_* *SingleDiode* D_*")
-      </fields>
-      <libsource lib="Device" part="D"/>
-    </comp>
-    <comp ref="SW14">
-      <value>SW_Push</value>
-      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
-      <fields>
-        (field (name F0) SW)
-        (field (name Reference) SW)
-        (field (name F1) SW_Push)
-        (field (name Value) SW_Push)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "switch normally-open pushbutton push-button")
-        (field (name ki_keywords) "switch normally-open pushbutton push-button")
-        (field (name F5) "Push button switch, generic, two pins")
-        (field (name ki_description) "Push button switch, generic, two pins")
-      </fields>
-      <libsource lib="Switch" part="SW_Push"/>
+      <footprint>miketronic_fplib:MB_D_SOD-123_1PAD</footprint>
+      <libsource lib="hazel" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4546acc4-5bb1-43be-8b22-0a31ea3f8e5b</tstamps>
     </comp>
     <comp ref="D14">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-323F</footprint>
-      <fields>
-        (field (name F0) D)
-        (field (name Reference) D)
-        (field (name F1) D)
-        (field (name Value) D)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) diode)
-        (field (name ki_keywords) diode)
-        (field (name F5) Diode)
-        (field (name ki_description) Diode)
-        (field (name F6) "TO-???* *_Diode_* *SingleDiode* D_*")
-        (field (name ki_fp_filters) "TO-???* *_Diode_* *SingleDiode* D_*")
-      </fields>
-      <libsource lib="Device" part="D"/>
-    </comp>
-    <comp ref="SW15">
-      <value>SW_Push</value>
-      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
-      <fields>
-        (field (name F0) SW)
-        (field (name Reference) SW)
-        (field (name F1) SW_Push)
-        (field (name Value) SW_Push)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "switch normally-open pushbutton push-button")
-        (field (name ki_keywords) "switch normally-open pushbutton push-button")
-        (field (name F5) "Push button switch, generic, two pins")
-        (field (name ki_description) "Push button switch, generic, two pins")
-      </fields>
-      <libsource lib="Switch" part="SW_Push"/>
+      <footprint>miketronic_fplib:MB_D_SOD-123_1PAD</footprint>
+      <libsource lib="hazel" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8d5efeec-dd94-45a9-9036-4d388d0abf38</tstamps>
     </comp>
     <comp ref="D15">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-323F</footprint>
-      <fields>
-        (field (name F0) D)
-        (field (name Reference) D)
-        (field (name F1) D)
-        (field (name Value) D)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) diode)
-        (field (name ki_keywords) diode)
-        (field (name F5) Diode)
-        (field (name ki_description) Diode)
-        (field (name F6) "TO-???* *_Diode_* *SingleDiode* D_*")
-        (field (name ki_fp_filters) "TO-???* *_Diode_* *SingleDiode* D_*")
-      </fields>
-      <libsource lib="Device" part="D"/>
-    </comp>
-    <comp ref="SW16">
-      <value>SW_Push</value>
-      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
-      <fields>
-        (field (name F0) SW)
-        (field (name Reference) SW)
-        (field (name F1) SW_Push)
-        (field (name Value) SW_Push)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "switch normally-open pushbutton push-button")
-        (field (name ki_keywords) "switch normally-open pushbutton push-button")
-        (field (name F5) "Push button switch, generic, two pins")
-        (field (name ki_description) "Push button switch, generic, two pins")
-      </fields>
-      <libsource lib="Switch" part="SW_Push"/>
+      <footprint>miketronic_fplib:MB_D_SOD-123_1PAD</footprint>
+      <libsource lib="hazel" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>52d1b499-d21f-4fb0-98cf-b4ae387c22db</tstamps>
     </comp>
     <comp ref="D16">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-323F</footprint>
-      <fields>
-        (field (name F0) D)
-        (field (name Reference) D)
-        (field (name F1) D)
-        (field (name Value) D)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) diode)
-        (field (name ki_keywords) diode)
-        (field (name F5) Diode)
-        (field (name ki_description) Diode)
-        (field (name F6) "TO-???* *_Diode_* *SingleDiode* D_*")
-        (field (name ki_fp_filters) "TO-???* *_Diode_* *SingleDiode* D_*")
-      </fields>
-      <libsource lib="Device" part="D"/>
-    </comp>
-    <comp ref="SW17">
-      <value>SW_Push</value>
-      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
-      <fields>
-        (field (name F0) SW)
-        (field (name Reference) SW)
-        (field (name F1) SW_Push)
-        (field (name Value) SW_Push)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "switch normally-open pushbutton push-button")
-        (field (name ki_keywords) "switch normally-open pushbutton push-button")
-        (field (name F5) "Push button switch, generic, two pins")
-        (field (name ki_description) "Push button switch, generic, two pins")
-      </fields>
-      <libsource lib="Switch" part="SW_Push"/>
+      <footprint>miketronic_fplib:MB_D_SOD-123_1PAD</footprint>
+      <libsource lib="hazel" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7daeb76-25e4-46df-a673-c119b3f393bc</tstamps>
     </comp>
     <comp ref="D17">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-323F</footprint>
-      <fields>
-        (field (name F0) D)
-        (field (name Reference) D)
-        (field (name F1) D)
-        (field (name Value) D)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) diode)
-        (field (name ki_keywords) diode)
-        (field (name F5) Diode)
-        (field (name ki_description) Diode)
-        (field (name F6) "TO-???* *_Diode_* *SingleDiode* D_*")
-        (field (name ki_fp_filters) "TO-???* *_Diode_* *SingleDiode* D_*")
-      </fields>
-      <libsource lib="Device" part="D"/>
-    </comp>
-    <comp ref="SW18">
-      <value>SW_Push</value>
-      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
-      <fields>
-        (field (name F0) SW)
-        (field (name Reference) SW)
-        (field (name F1) SW_Push)
-        (field (name Value) SW_Push)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "switch normally-open pushbutton push-button")
-        (field (name ki_keywords) "switch normally-open pushbutton push-button")
-        (field (name F5) "Push button switch, generic, two pins")
-        (field (name ki_description) "Push button switch, generic, two pins")
-      </fields>
-      <libsource lib="Switch" part="SW_Push"/>
+      <footprint>miketronic_fplib:MB_D_SOD-123_1PAD</footprint>
+      <libsource lib="hazel" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b3d81d07-b67d-400a-95c7-3ead257ee03c</tstamps>
     </comp>
     <comp ref="D18">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-323F</footprint>
-      <fields>
-        (field (name F0) D)
-        (field (name Reference) D)
-        (field (name F1) D)
-        (field (name Value) D)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) diode)
-        (field (name ki_keywords) diode)
-        (field (name F5) Diode)
-        (field (name ki_description) Diode)
-        (field (name F6) "TO-???* *_Diode_* *SingleDiode* D_*")
-        (field (name ki_fp_filters) "TO-???* *_Diode_* *SingleDiode* D_*")
-      </fields>
-      <libsource lib="Device" part="D"/>
-    </comp>
-    <comp ref="SW19">
-      <value>SW_Push</value>
-      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
-      <fields>
-        (field (name F0) SW)
-        (field (name Reference) SW)
-        (field (name F1) SW_Push)
-        (field (name Value) SW_Push)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "switch normally-open pushbutton push-button")
-        (field (name ki_keywords) "switch normally-open pushbutton push-button")
-        (field (name F5) "Push button switch, generic, two pins")
-        (field (name ki_description) "Push button switch, generic, two pins")
-      </fields>
-      <libsource lib="Switch" part="SW_Push"/>
+      <footprint>miketronic_fplib:MB_D_SOD-123_1PAD</footprint>
+      <libsource lib="hazel" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>41bfcd30-72bd-4314-9076-0f0a3c573f71</tstamps>
     </comp>
     <comp ref="D19">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-323F</footprint>
-      <fields>
-        (field (name F0) D)
-        (field (name Reference) D)
-        (field (name F1) D)
-        (field (name Value) D)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) diode)
-        (field (name ki_keywords) diode)
-        (field (name F5) Diode)
-        (field (name ki_description) Diode)
-        (field (name F6) "TO-???* *_Diode_* *SingleDiode* D_*")
-        (field (name ki_fp_filters) "TO-???* *_Diode_* *SingleDiode* D_*")
-      </fields>
-      <libsource lib="Device" part="D"/>
-    </comp>
-    <comp ref="SW20">
-      <value>SW_Push</value>
-      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
-      <fields>
-        (field (name F0) SW)
-        (field (name Reference) SW)
-        (field (name F1) SW_Push)
-        (field (name Value) SW_Push)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "switch normally-open pushbutton push-button")
-        (field (name ki_keywords) "switch normally-open pushbutton push-button")
-        (field (name F5) "Push button switch, generic, two pins")
-        (field (name ki_description) "Push button switch, generic, two pins")
-      </fields>
-      <libsource lib="Switch" part="SW_Push"/>
+      <footprint>miketronic_fplib:MB_D_SOD-123_1PAD</footprint>
+      <libsource lib="hazel" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e115361d-358c-4d24-b628-c1f6ba1ad4c1</tstamps>
     </comp>
     <comp ref="D20">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-323F</footprint>
-      <fields>
-        (field (name F0) D)
-        (field (name Reference) D)
-        (field (name F1) D)
-        (field (name Value) D)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) diode)
-        (field (name ki_keywords) diode)
-        (field (name F5) Diode)
-        (field (name ki_description) Diode)
-        (field (name F6) "TO-???* *_Diode_* *SingleDiode* D_*")
-        (field (name ki_fp_filters) "TO-???* *_Diode_* *SingleDiode* D_*")
-      </fields>
-      <libsource lib="Device" part="D"/>
-    </comp>
-    <comp ref="SW21">
-      <value>SW_Push</value>
-      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
-      <fields>
-        (field (name F0) SW)
-        (field (name Reference) SW)
-        (field (name F1) SW_Push)
-        (field (name Value) SW_Push)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "switch normally-open pushbutton push-button")
-        (field (name ki_keywords) "switch normally-open pushbutton push-button")
-        (field (name F5) "Push button switch, generic, two pins")
-        (field (name ki_description) "Push button switch, generic, two pins")
-      </fields>
-      <libsource lib="Switch" part="SW_Push"/>
+      <footprint>miketronic_fplib:MB_D_SOD-123_1PAD</footprint>
+      <libsource lib="hazel" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a0c4dba0-62f7-44cc-b0d0-aa7cd7a8c1b4</tstamps>
     </comp>
     <comp ref="D21">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-323F</footprint>
-      <fields>
-        (field (name F0) D)
-        (field (name Reference) D)
-        (field (name F1) D)
-        (field (name Value) D)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) diode)
-        (field (name ki_keywords) diode)
-        (field (name F5) Diode)
-        (field (name ki_description) Diode)
-        (field (name F6) "TO-???* *_Diode_* *SingleDiode* D_*")
-        (field (name ki_fp_filters) "TO-???* *_Diode_* *SingleDiode* D_*")
-      </fields>
-      <libsource lib="Device" part="D"/>
-    </comp>
-    <comp ref="SW22">
-      <value>SW_Push</value>
-      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
-      <fields>
-        (field (name F0) SW)
-        (field (name Reference) SW)
-        (field (name F1) SW_Push)
-        (field (name Value) SW_Push)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "switch normally-open pushbutton push-button")
-        (field (name ki_keywords) "switch normally-open pushbutton push-button")
-        (field (name F5) "Push button switch, generic, two pins")
-        (field (name ki_description) "Push button switch, generic, two pins")
-      </fields>
-      <libsource lib="Switch" part="SW_Push"/>
+      <footprint>miketronic_fplib:MB_D_SOD-123_1PAD</footprint>
+      <libsource lib="hazel" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8606ebdb-ab75-45bf-be0a-06b05697a20e</tstamps>
     </comp>
     <comp ref="D22">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-323F</footprint>
-      <fields>
-        (field (name F0) D)
-        (field (name Reference) D)
-        (field (name F1) D)
-        (field (name Value) D)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) diode)
-        (field (name ki_keywords) diode)
-        (field (name F5) Diode)
-        (field (name ki_description) Diode)
-        (field (name F6) "TO-???* *_Diode_* *SingleDiode* D_*")
-        (field (name ki_fp_filters) "TO-???* *_Diode_* *SingleDiode* D_*")
-      </fields>
-      <libsource lib="Device" part="D"/>
-    </comp>
-    <comp ref="SW23">
-      <value>SW_Push</value>
-      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
-      <fields>
-        (field (name F0) SW)
-        (field (name Reference) SW)
-        (field (name F1) SW_Push)
-        (field (name Value) SW_Push)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "switch normally-open pushbutton push-button")
-        (field (name ki_keywords) "switch normally-open pushbutton push-button")
-        (field (name F5) "Push button switch, generic, two pins")
-        (field (name ki_description) "Push button switch, generic, two pins")
-      </fields>
-      <libsource lib="Switch" part="SW_Push"/>
+      <footprint>miketronic_fplib:MB_D_SOD-123_1PAD</footprint>
+      <libsource lib="hazel" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1c6bb9ac-e2f9-4a03-9633-730fca6c764c</tstamps>
     </comp>
     <comp ref="D23">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-323F</footprint>
-      <fields>
-        (field (name F0) D)
-        (field (name Reference) D)
-        (field (name F1) D)
-        (field (name Value) D)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) diode)
-        (field (name ki_keywords) diode)
-        (field (name F5) Diode)
-        (field (name ki_description) Diode)
-        (field (name F6) "TO-???* *_Diode_* *SingleDiode* D_*")
-        (field (name ki_fp_filters) "TO-???* *_Diode_* *SingleDiode* D_*")
-      </fields>
-      <libsource lib="Device" part="D"/>
-    </comp>
-    <comp ref="SW24">
-      <value>SW_Push</value>
-      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
-      <fields>
-        (field (name F0) SW)
-        (field (name Reference) SW)
-        (field (name F1) SW_Push)
-        (field (name Value) SW_Push)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "switch normally-open pushbutton push-button")
-        (field (name ki_keywords) "switch normally-open pushbutton push-button")
-        (field (name F5) "Push button switch, generic, two pins")
-        (field (name ki_description) "Push button switch, generic, two pins")
-      </fields>
-      <libsource lib="Switch" part="SW_Push"/>
+      <footprint>miketronic_fplib:MB_D_SOD-123_1PAD</footprint>
+      <libsource lib="hazel" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7b98765e-b388-4307-ad94-dfdccc2938cb</tstamps>
     </comp>
     <comp ref="D24">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-323F</footprint>
-      <fields>
-        (field (name F0) D)
-        (field (name Reference) D)
-        (field (name F1) D)
-        (field (name Value) D)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) diode)
-        (field (name ki_keywords) diode)
-        (field (name F5) Diode)
-        (field (name ki_description) Diode)
-        (field (name F6) "TO-???* *_Diode_* *SingleDiode* D_*")
-        (field (name ki_fp_filters) "TO-???* *_Diode_* *SingleDiode* D_*")
-      </fields>
-      <libsource lib="Device" part="D"/>
-    </comp>
-    <comp ref="SW25">
-      <value>SW_Push</value>
-      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
-      <fields>
-        (field (name F0) SW)
-        (field (name Reference) SW)
-        (field (name F1) SW_Push)
-        (field (name Value) SW_Push)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "switch normally-open pushbutton push-button")
-        (field (name ki_keywords) "switch normally-open pushbutton push-button")
-        (field (name F5) "Push button switch, generic, two pins")
-        (field (name ki_description) "Push button switch, generic, two pins")
-      </fields>
-      <libsource lib="Switch" part="SW_Push"/>
+      <footprint>miketronic_fplib:MB_D_SOD-123_1PAD</footprint>
+      <libsource lib="hazel" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7c65de4-b096-419c-9173-14dc41935f75</tstamps>
     </comp>
     <comp ref="D25">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-323F</footprint>
-      <fields>
-        (field (name F0) D)
-        (field (name Reference) D)
-        (field (name F1) D)
-        (field (name Value) D)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) diode)
-        (field (name ki_keywords) diode)
-        (field (name F5) Diode)
-        (field (name ki_description) Diode)
-        (field (name F6) "TO-???* *_Diode_* *SingleDiode* D_*")
-        (field (name ki_fp_filters) "TO-???* *_Diode_* *SingleDiode* D_*")
-      </fields>
-      <libsource lib="Device" part="D"/>
-    </comp>
-    <comp ref="SW26">
-      <value>SW_Push</value>
-      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
-      <fields>
-        (field (name F0) SW)
-        (field (name Reference) SW)
-        (field (name F1) SW_Push)
-        (field (name Value) SW_Push)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "switch normally-open pushbutton push-button")
-        (field (name ki_keywords) "switch normally-open pushbutton push-button")
-        (field (name F5) "Push button switch, generic, two pins")
-        (field (name ki_description) "Push button switch, generic, two pins")
-      </fields>
-      <libsource lib="Switch" part="SW_Push"/>
+      <footprint>miketronic_fplib:MB_D_SOD-123_1PAD</footprint>
+      <libsource lib="hazel" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>016679f5-b89e-4fba-b129-71894cbe84a5</tstamps>
     </comp>
     <comp ref="D26">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-323F</footprint>
-      <fields>
-        (field (name F0) D)
-        (field (name Reference) D)
-        (field (name F1) D)
-        (field (name Value) D)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) diode)
-        (field (name ki_keywords) diode)
-        (field (name F5) Diode)
-        (field (name ki_description) Diode)
-        (field (name F6) "TO-???* *_Diode_* *SingleDiode* D_*")
-        (field (name ki_fp_filters) "TO-???* *_Diode_* *SingleDiode* D_*")
-      </fields>
-      <libsource lib="Device" part="D"/>
-    </comp>
-    <comp ref="SW27">
-      <value>SW_Push</value>
-      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
-      <fields>
-        (field (name F0) SW)
-        (field (name Reference) SW)
-        (field (name F1) SW_Push)
-        (field (name Value) SW_Push)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "switch normally-open pushbutton push-button")
-        (field (name ki_keywords) "switch normally-open pushbutton push-button")
-        (field (name F5) "Push button switch, generic, two pins")
-        (field (name ki_description) "Push button switch, generic, two pins")
-      </fields>
-      <libsource lib="Switch" part="SW_Push"/>
+      <footprint>miketronic_fplib:MB_D_SOD-123_1PAD</footprint>
+      <libsource lib="hazel" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a2a8f8c6-7e44-4a74-b806-fe1aba47bcd1</tstamps>
     </comp>
     <comp ref="D27">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-323F</footprint>
-      <fields>
-        (field (name F0) D)
-        (field (name Reference) D)
-        (field (name F1) D)
-        (field (name Value) D)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) diode)
-        (field (name ki_keywords) diode)
-        (field (name F5) Diode)
-        (field (name ki_description) Diode)
-        (field (name F6) "TO-???* *_Diode_* *SingleDiode* D_*")
-        (field (name ki_fp_filters) "TO-???* *_Diode_* *SingleDiode* D_*")
-      </fields>
-      <libsource lib="Device" part="D"/>
-    </comp>
-    <comp ref="SW28">
-      <value>SW_Push</value>
-      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
-      <fields>
-        (field (name F0) SW)
-        (field (name Reference) SW)
-        (field (name F1) SW_Push)
-        (field (name Value) SW_Push)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "switch normally-open pushbutton push-button")
-        (field (name ki_keywords) "switch normally-open pushbutton push-button")
-        (field (name F5) "Push button switch, generic, two pins")
-        (field (name ki_description) "Push button switch, generic, two pins")
-      </fields>
-      <libsource lib="Switch" part="SW_Push"/>
+      <footprint>miketronic_fplib:MB_D_SOD-123_1PAD</footprint>
+      <libsource lib="hazel" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ee182c2a-2dee-4e53-bd91-99a021d400c9</tstamps>
     </comp>
     <comp ref="D28">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-323F</footprint>
-      <fields>
-        (field (name F0) D)
-        (field (name Reference) D)
-        (field (name F1) D)
-        (field (name Value) D)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) diode)
-        (field (name ki_keywords) diode)
-        (field (name F5) Diode)
-        (field (name ki_description) Diode)
-        (field (name F6) "TO-???* *_Diode_* *SingleDiode* D_*")
-        (field (name ki_fp_filters) "TO-???* *_Diode_* *SingleDiode* D_*")
-      </fields>
-      <libsource lib="Device" part="D"/>
-    </comp>
-    <comp ref="SW29">
-      <value>SW_Push</value>
-      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
-      <fields>
-        (field (name F0) SW)
-        (field (name Reference) SW)
-        (field (name F1) SW_Push)
-        (field (name Value) SW_Push)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "switch normally-open pushbutton push-button")
-        (field (name ki_keywords) "switch normally-open pushbutton push-button")
-        (field (name F5) "Push button switch, generic, two pins")
-        (field (name ki_description) "Push button switch, generic, two pins")
-      </fields>
-      <libsource lib="Switch" part="SW_Push"/>
+      <footprint>miketronic_fplib:MB_D_SOD-123_1PAD</footprint>
+      <libsource lib="hazel" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3f56ded0-d7fc-4e47-b412-9d9acab10136</tstamps>
     </comp>
     <comp ref="D29">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-323F</footprint>
-      <fields>
-        (field (name F0) D)
-        (field (name Reference) D)
-        (field (name F1) D)
-        (field (name Value) D)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) diode)
-        (field (name ki_keywords) diode)
-        (field (name F5) Diode)
-        (field (name ki_description) Diode)
-        (field (name F6) "TO-???* *_Diode_* *SingleDiode* D_*")
-        (field (name ki_fp_filters) "TO-???* *_Diode_* *SingleDiode* D_*")
-      </fields>
-      <libsource lib="Device" part="D"/>
-    </comp>
-    <comp ref="SW30">
-      <value>SW_Push</value>
-      <footprint>Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u</footprint>
-      <fields>
-        (field (name F0) SW)
-        (field (name Reference) SW)
-        (field (name F1) SW_Push)
-        (field (name Value) SW_Push)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "switch normally-open pushbutton push-button")
-        (field (name ki_keywords) "switch normally-open pushbutton push-button")
-        (field (name F5) "Push button switch, generic, two pins")
-        (field (name ki_description) "Push button switch, generic, two pins")
-      </fields>
-      <libsource lib="Switch" part="SW_Push"/>
+      <footprint>miketronic_fplib:MB_D_SOD-123_1PAD</footprint>
+      <libsource lib="hazel" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d866e252-e15c-48bf-a29c-88e1ad667f41</tstamps>
     </comp>
     <comp ref="D30">
       <value>D</value>
-      <footprint>Diode_SMD:D_SOD-323F</footprint>
-      <fields>
-        (field (name F0) D)
-        (field (name Reference) D)
-        (field (name F1) D)
-        (field (name Value) D)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) diode)
-        (field (name ki_keywords) diode)
-        (field (name F5) Diode)
-        (field (name ki_description) Diode)
-        (field (name F6) "TO-???* *_Diode_* *SingleDiode* D_*")
-        (field (name ki_fp_filters) "TO-???* *_Diode_* *SingleDiode* D_*")
-      </fields>
-      <libsource lib="Device" part="D"/>
+      <footprint>miketronic_fplib:MB_D_SOD-123_1PAD</footprint>
+      <libsource lib="hazel" part="D" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dcde6a33-8097-4f3e-8541-8115cdba969c</tstamps>
+    </comp>
+    <comp ref="LED01">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>377c7579-a41d-4978-8d2d-b299e46c9033</tstamps>
+    </comp>
+    <comp ref="LED02">
+      <value>WS2812B</value>
+      <footprint>LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</footprint>
+      <datasheet>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</datasheet>
+      <libsource lib="LED" part="WS2812B" description="RGB LED with integrated controller"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <property name="ki_description" value="RGB LED with integrated controller"/>
+      <property name="ki_keywords" value="RGB LED NeoPixel addressable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e81c76b0-897d-41c5-8b08-1a8b4cba52d5</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW</value>
+      <footprint>miketronic_fplib:MB_KailhChoc-1U_17mm</footprint>
+      <libsource lib="hazel" part="SW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c83b5a17-afa5-401c-a2d8-c953d3623ca2</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>SW</value>
+      <footprint>miketronic_fplib:MB_KailhChoc-1U_17mm</footprint>
+      <libsource lib="hazel" part="SW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bafb0cba-1d17-42ba-a53e-6fb9e299521f</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>SW</value>
+      <footprint>miketronic_fplib:MB_KailhChoc-1U_17mm</footprint>
+      <libsource lib="hazel" part="SW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f28fc738-5545-42e7-be03-33f3a11ce551</tstamps>
+    </comp>
+    <comp ref="SW4">
+      <value>SW</value>
+      <footprint>miketronic_fplib:MB_KailhChoc-1U_17mm</footprint>
+      <libsource lib="hazel" part="SW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>350be4f2-dbff-419f-933d-315dccd35b15</tstamps>
+    </comp>
+    <comp ref="SW5">
+      <value>SW</value>
+      <footprint>miketronic_fplib:MB_KailhChoc-1U_17mm</footprint>
+      <libsource lib="hazel" part="SW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ac6dbef-71c6-4b3a-932f-f3c962c151f5</tstamps>
+    </comp>
+    <comp ref="SW6">
+      <value>SW</value>
+      <footprint>miketronic_fplib:MB_KailhChoc-1U_17mm</footprint>
+      <libsource lib="hazel" part="SW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6be81b0d-67fa-4d1a-80b7-69d51da1177c</tstamps>
+    </comp>
+    <comp ref="SW7">
+      <value>SW</value>
+      <footprint>miketronic_fplib:MB_KailhChoc-1U_17mm</footprint>
+      <libsource lib="hazel" part="SW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f201053-c421-4e89-977c-3268a031414b</tstamps>
+    </comp>
+    <comp ref="SW8">
+      <value>SW</value>
+      <footprint>miketronic_fplib:MB_KailhChoc-1U_17mm</footprint>
+      <libsource lib="hazel" part="SW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>87c22bb5-a62f-43d5-8d52-ec4729b44368</tstamps>
+    </comp>
+    <comp ref="SW9">
+      <value>SW</value>
+      <footprint>miketronic_fplib:MB_KailhChoc-1U_17mm</footprint>
+      <libsource lib="hazel" part="SW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19b4a12a-1ea0-44af-9ba1-95653cfaa763</tstamps>
+    </comp>
+    <comp ref="SW10">
+      <value>SW</value>
+      <footprint>miketronic_fplib:MB_KailhChoc-1U_17mm</footprint>
+      <libsource lib="hazel" part="SW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>77365cf3-2fc2-4a7d-8602-e69b6a47fb66</tstamps>
+    </comp>
+    <comp ref="SW11">
+      <value>SW</value>
+      <footprint>miketronic_fplib:MB_KailhChoc-1U_17mm</footprint>
+      <libsource lib="hazel" part="SW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a53f6685-d56c-4f23-9e32-cd3dbde7d5a4</tstamps>
+    </comp>
+    <comp ref="SW12">
+      <value>SW</value>
+      <footprint>miketronic_fplib:MB_KailhChoc-1U_17mm</footprint>
+      <libsource lib="hazel" part="SW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0d213448-2152-4fe9-b498-1388637644c6</tstamps>
+    </comp>
+    <comp ref="SW13">
+      <value>SW</value>
+      <footprint>miketronic_fplib:MB_KailhChoc-1U_17mm</footprint>
+      <libsource lib="hazel" part="SW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5ee02529-f89d-4a84-9313-ab2ad3835055</tstamps>
+    </comp>
+    <comp ref="SW14">
+      <value>SW</value>
+      <footprint>miketronic_fplib:MB_KailhChoc-1U_17mm</footprint>
+      <libsource lib="hazel" part="SW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0aae2ee3-510e-4005-a1cc-cb8983192877</tstamps>
+    </comp>
+    <comp ref="SW15">
+      <value>SW</value>
+      <footprint>miketronic_fplib:MB_KailhChoc-1U_17mm</footprint>
+      <libsource lib="hazel" part="SW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8bb92645-3ed3-4116-b805-1239fb355d3b</tstamps>
+    </comp>
+    <comp ref="SW16">
+      <value>SW</value>
+      <footprint>miketronic_fplib:MB_KailhChoc-1U_17mm</footprint>
+      <libsource lib="hazel" part="SW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f812d95c-6b5d-4f52-a942-d4abff52c510</tstamps>
+    </comp>
+    <comp ref="SW17">
+      <value>SW</value>
+      <footprint>miketronic_fplib:MB_KailhChoc-1U_17mm</footprint>
+      <libsource lib="hazel" part="SW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0b3f67df-45b7-4d74-97c6-584d5a7cb9b5</tstamps>
+    </comp>
+    <comp ref="SW18">
+      <value>SW</value>
+      <footprint>miketronic_fplib:MB_KailhChoc-1U_17mm</footprint>
+      <libsource lib="hazel" part="SW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>30324d81-0b5d-4fe1-b22c-c849b8bbb7b8</tstamps>
+    </comp>
+    <comp ref="SW19">
+      <value>SW</value>
+      <footprint>miketronic_fplib:MB_KailhChoc-1U_17mm</footprint>
+      <libsource lib="hazel" part="SW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aea799e5-a74d-49ab-87fc-8e9845b3ab06</tstamps>
+    </comp>
+    <comp ref="SW20">
+      <value>SW</value>
+      <footprint>miketronic_fplib:MB_KailhChoc-1U_17mm</footprint>
+      <libsource lib="hazel" part="SW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89a06acb-12c2-4408-8b97-44cc96ef7fb6</tstamps>
+    </comp>
+    <comp ref="SW21">
+      <value>SW</value>
+      <footprint>miketronic_fplib:MB_KailhChoc-1U_17mm</footprint>
+      <libsource lib="hazel" part="SW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19a45caf-4b9f-4080-940b-e565d10c811f</tstamps>
+    </comp>
+    <comp ref="SW22">
+      <value>SW</value>
+      <footprint>miketronic_fplib:MB_KailhChoc-1U_17mm</footprint>
+      <libsource lib="hazel" part="SW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>44242be2-d3f5-46bb-bcbe-9f9a161d396a</tstamps>
+    </comp>
+    <comp ref="SW23">
+      <value>SW</value>
+      <footprint>miketronic_fplib:MB_KailhChoc-1U_17mm</footprint>
+      <libsource lib="hazel" part="SW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0784b284-627f-46a9-a0d4-5fcbc633a8d6</tstamps>
+    </comp>
+    <comp ref="SW24">
+      <value>SW</value>
+      <footprint>miketronic_fplib:MB_KailhChoc-1U_17mm</footprint>
+      <libsource lib="hazel" part="SW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>adba8dbc-67a0-48d2-8edb-088b8b334bce</tstamps>
+    </comp>
+    <comp ref="SW25">
+      <value>SW</value>
+      <footprint>miketronic_fplib:MB_KailhChoc-1U_17mm</footprint>
+      <libsource lib="hazel" part="SW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>de0830e2-208c-4b87-996a-71903f377999</tstamps>
+    </comp>
+    <comp ref="SW26">
+      <value>SW</value>
+      <footprint>miketronic_fplib:MB_KailhChoc-1U_17mm</footprint>
+      <libsource lib="hazel" part="SW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dca2c4a5-f16e-4cec-ab9a-ed86d3570438</tstamps>
+    </comp>
+    <comp ref="SW27">
+      <value>SW</value>
+      <footprint>miketronic_fplib:MB_KailhChoc-1U_17mm</footprint>
+      <libsource lib="hazel" part="SW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>41e22597-bdd7-4632-874a-f13969e11539</tstamps>
+    </comp>
+    <comp ref="SW28">
+      <value>SW</value>
+      <footprint>miketronic_fplib:MB_KailhChoc-1U_17mm</footprint>
+      <libsource lib="hazel" part="SW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>549234ea-e9df-4dc0-87b2-69d6f31af265</tstamps>
+    </comp>
+    <comp ref="SW29">
+      <value>SW</value>
+      <footprint>miketronic_fplib:MB_KailhChoc-1U_17mm</footprint>
+      <libsource lib="hazel" part="SW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4a75f581-7e09-467c-8c17-a88d2bc84b5a</tstamps>
+    </comp>
+    <comp ref="SW30">
+      <value>SW</value>
+      <footprint>miketronic_fplib:MB_KailhChoc-1U_17mm</footprint>
+      <libsource lib="hazel" part="SW" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6eab7146-0765-4cef-9c26-aa2c3e8ac802</tstamps>
     </comp>
     <comp ref="U1">
-      <value>ATmega32U4-A</value>
-      <footprint>Package_QFP:TQFP-44_10x10mm_P0.8mm</footprint>
-      <fields>
-        (field (name F0) U)
-        (field (name Reference) U)
-        (field (name F1) ATmega32U4-A)
-        (field (name Value) ATmega32U4-A)
-        (field (name F2) Package_QFP:TQFP-44_10x10mm_P0.8mm)
-        (field (name Footprint) Package_QFP:TQFP-44_10x10mm_P0.8mm)
-        (field (name F3) http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf)
-        (field (name Datasheet) http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf)
-        (field (name F4) "AVR 8bit Microcontroller MegaAVR USB")
-        (field (name ki_keywords) "AVR 8bit Microcontroller MegaAVR USB")
-        (field (name F5) "16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44")
-        (field (name ki_description) "16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44")
-        (field (name F6) TQFP*10x10mm*P0.8mm*)
-        (field (name ki_fp_filters) TQFP*10x10mm*P0.8mm*)
-      </fields>
-      <libsource lib="MCU_Microchip_ATmega" part="ATmega32U4-A"/>
-    </comp>
-    <comp ref="Y1">
-      <value>Crystal_GND24</value>
-      <footprint>Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm</footprint>
-      <fields>
-        (field (name F0) Y)
-        (field (name Reference) Y)
-        (field (name F1) Crystal_GND24)
-        (field (name Value) Crystal_GND24)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "quartz ceramic resonator oscillator")
-        (field (name ki_keywords) "quartz ceramic resonator oscillator")
-        (field (name F5) "Four pin crystal, GND on pins 2 and 4")
-        (field (name ki_description) "Four pin crystal, GND on pins 2 and 4")
-        (field (name F6) Crystal*)
-        (field (name ki_fp_filters) Crystal*)
-      </fields>
-      <libsource lib="Device" part="Crystal_GND24"/>
-    </comp>
-    <comp ref="C1">
-      <value>22p</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        (field (name F0) C)
-        (field (name Reference) C)
-        (field (name F1) C)
-        (field (name Value) C)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "cap capacitor")
-        (field (name ki_keywords) "cap capacitor")
-        (field (name F5) "Unpolarized capacitor")
-        (field (name ki_description) "Unpolarized capacitor")
-        (field (name F6) C_*)
-        (field (name ki_fp_filters) C_*)
-      </fields>
-      <libsource lib="Device" part="C"/>
-    </comp>
-    <comp ref="C2">
-      <value>22p</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        (field (name F0) C)
-        (field (name Reference) C)
-        (field (name F1) C)
-        (field (name Value) C)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "cap capacitor")
-        (field (name ki_keywords) "cap capacitor")
-        (field (name F5) "Unpolarized capacitor")
-        (field (name ki_description) "Unpolarized capacitor")
-        (field (name F6) C_*)
-        (field (name ki_fp_filters) C_*)
-      </fields>
-      <libsource lib="Device" part="C"/>
-    </comp>
-    <comp ref="C3">
-      <value>0.1u</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        (field (name F0) C)
-        (field (name Reference) C)
-        (field (name F1) C)
-        (field (name Value) C)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "cap capacitor")
-        (field (name ki_keywords) "cap capacitor")
-        (field (name F5) "Unpolarized capacitor")
-        (field (name ki_description) "Unpolarized capacitor")
-        (field (name F6) C_*)
-        (field (name ki_fp_filters) C_*)
-      </fields>
-      <libsource lib="Device" part="C"/>
-    </comp>
-    <comp ref="C4">
-      <value>0.1u</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        (field (name F0) C)
-        (field (name Reference) C)
-        (field (name F1) C)
-        (field (name Value) C)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "cap capacitor")
-        (field (name ki_keywords) "cap capacitor")
-        (field (name F5) "Unpolarized capacitor")
-        (field (name ki_description) "Unpolarized capacitor")
-        (field (name F6) C_*)
-        (field (name ki_fp_filters) C_*)
-      </fields>
-      <libsource lib="Device" part="C"/>
-    </comp>
-    <comp ref="C5">
-      <value>0.1u</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        (field (name F0) C)
-        (field (name Reference) C)
-        (field (name F1) C)
-        (field (name Value) C)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "cap capacitor")
-        (field (name ki_keywords) "cap capacitor")
-        (field (name F5) "Unpolarized capacitor")
-        (field (name ki_description) "Unpolarized capacitor")
-        (field (name F6) C_*)
-        (field (name ki_fp_filters) C_*)
-      </fields>
-      <libsource lib="Device" part="C"/>
-    </comp>
-    <comp ref="C6">
-      <value>0.1u</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        (field (name F0) C)
-        (field (name Reference) C)
-        (field (name F1) C)
-        (field (name Value) C)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "cap capacitor")
-        (field (name ki_keywords) "cap capacitor")
-        (field (name F5) "Unpolarized capacitor")
-        (field (name ki_description) "Unpolarized capacitor")
-        (field (name F6) C_*)
-        (field (name ki_fp_filters) C_*)
-      </fields>
-      <libsource lib="Device" part="C"/>
-    </comp>
-    <comp ref="C7">
-      <value>4.7u</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        (field (name F0) C)
-        (field (name Reference) C)
-        (field (name F1) C)
-        (field (name Value) C)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "cap capacitor")
-        (field (name ki_keywords) "cap capacitor")
-        (field (name F5) "Unpolarized capacitor")
-        (field (name ki_description) "Unpolarized capacitor")
-        (field (name F6) C_*)
-        (field (name ki_fp_filters) C_*)
-      </fields>
-      <libsource lib="Device" part="C"/>
-    </comp>
-    <comp ref="C8">
-      <value>1u</value>
-      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
-      <fields>
-        (field (name F0) C)
-        (field (name Reference) C)
-        (field (name F1) C)
-        (field (name Value) C)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "cap capacitor")
-        (field (name ki_keywords) "cap capacitor")
-        (field (name F5) "Unpolarized capacitor")
-        (field (name ki_description) "Unpolarized capacitor")
-        (field (name F6) C_*)
-        (field (name ki_fp_filters) C_*)
-      </fields>
-      <libsource lib="Device" part="C"/>
-    </comp>
-    <comp ref="J1">
-      <value>USB_C_Receptacle_USB2.0</value>
-      <footprint>Connector_USB:USB_C_Receptacle_XKB_U262-16XN-4BVC11</footprint>
-      <fields>
-        (field (name F0) J)
-        (field (name Reference) J)
-        (field (name F1) USB_C_Receptacle_USB2.0)
-        (field (name Value) USB_C_Receptacle_USB2.0)
-        (field (name F3) https://www.usb.org/sites/default/files/documents/usb_type-c.zip)
-        (field (name Datasheet) https://www.usb.org/sites/default/files/documents/usb_type-c.zip)
-        (field (name F4) "usb universal serial bus type-C USB2.0")
-        (field (name ki_keywords) "usb universal serial bus type-C USB2.0")
-        (field (name F5) "USB 2.0-only Type-C Receptacle connector")
-        (field (name ki_description) "USB 2.0-only Type-C Receptacle connector")
-        (field (name F6) USB*C*Receptacle*)
-        (field (name ki_fp_filters) USB*C*Receptacle*)
-      </fields>
-      <libsource lib="Connector" part="USB_C_Receptacle_USB2.0"/>
-    </comp>
-    <comp ref="U2">
-      <value>TPD2S017</value>
-      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
-      <fields>
-        (field (name F0) U)
-        (field (name Reference) U)
-        (field (name F1) TPD2S017)
-        (field (name Value) TPD2S017)
-        (field (name F2) Package_TO_SOT_SMD:SOT-23-6)
-        (field (name Footprint) Package_TO_SOT_SMD:SOT-23-6)
-        (field (name F3) http://www.ti.com/lit/ds/symlink/tpd2s017.pdf)
-        (field (name Datasheet) http://www.ti.com/lit/ds/symlink/tpd2s017.pdf)
-        (field (name F4) "ESD protection")
-        (field (name ki_keywords) "ESD protection")
-        (field (name F5) "2-Channel Ultra-Low Clamp Voltage ESD Solution With Series-Resistor Isolation, SOT-23")
-        (field (name ki_description) "2-Channel Ultra-Low Clamp Voltage ESD Solution With Series-Resistor Isolation, SOT-23")
-        (field (name F6) SOT?23*)
-        (field (name ki_fp_filters) SOT?23*)
-      </fields>
-      <libsource lib="Power_Protection" part="TPD2S017"/>
-    </comp>
-    <comp ref="R1">
-      <value>22</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <fields>
-        (field (name F0) R)
-        (field (name Reference) R)
-        (field (name F1) R)
-        (field (name Value) R)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "R res resistor")
-        (field (name ki_keywords) "R res resistor")
-        (field (name F5) Resistor)
-        (field (name ki_description) Resistor)
-        (field (name F6) R_*)
-        (field (name ki_fp_filters) R_*)
-      </fields>
-      <libsource lib="Device" part="R"/>
-    </comp>
-    <comp ref="R2">
-      <value>22</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <fields>
-        (field (name F0) R)
-        (field (name Reference) R)
-        (field (name F1) R)
-        (field (name Value) R)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "R res resistor")
-        (field (name ki_keywords) "R res resistor")
-        (field (name F5) Resistor)
-        (field (name ki_description) Resistor)
-        (field (name F6) R_*)
-        (field (name ki_fp_filters) R_*)
-      </fields>
-      <libsource lib="Device" part="R"/>
-    </comp>
-    <comp ref="R3">
-      <value>10k</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <fields>
-        (field (name F0) R)
-        (field (name Reference) R)
-        (field (name F1) R)
-        (field (name Value) R)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "R res resistor")
-        (field (name ki_keywords) "R res resistor")
-        (field (name F5) Resistor)
-        (field (name ki_description) Resistor)
-        (field (name F6) R_*)
-        (field (name ki_fp_filters) R_*)
-      </fields>
-      <libsource lib="Device" part="R"/>
-    </comp>
-    <comp ref="R4">
-      <value>10k</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
-      <fields>
-        (field (name F0) R)
-        (field (name Reference) R)
-        (field (name F1) R)
-        (field (name Value) R)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "R res resistor")
-        (field (name ki_keywords) "R res resistor")
-        (field (name F5) Resistor)
-        (field (name ki_description) Resistor)
-        (field (name F6) R_*)
-        (field (name ki_fp_filters) R_*)
-      </fields>
-      <libsource lib="Device" part="R"/>
-    </comp>
-    <comp ref="RST">
-      <value>SW_SPST</value>
-      <footprint>Button_Switch_SMD:SW_SPST_TL3342</footprint>
-      <fields>
-        (field (name F0) SW)
-        (field (name Reference) SW)
-        (field (name F1) SW_SPST)
-        (field (name Value) SW_SPST)
-        (field (name F3) ~)
-        (field (name Datasheet) ~)
-        (field (name F4) "switch lever")
-        (field (name ki_keywords) "switch lever")
-        (field (name F5) "Single Pole Single Throw (SPST) switch")
-        (field (name ki_description) "Single Pole Single Throw (SPST) switch")
-      </fields>
-      <libsource lib="Switch" part="SW_SPST"/>
+      <value>rp2040-zero</value>
+      <footprint>miketronic_fplib:MB_rp2040-zero-tht</footprint>
+      <libsource lib="mcu" part="rp2040-zero" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Capsule.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b51c9597-ea08-4d54-9bff-9d18b75b1489</tstamps>
     </comp>
   </components>
+  <libparts>
+    <libpart lib="LED" part="WS2812B">
+      <description>RGB LED with integrated controller</description>
+      <docs>https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</docs>
+      <footprints>
+        <fp>LED*WS2812*PLCC*5.0x5.0mm*P3.2mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">WS2812B</field>
+        <field name="Footprint">LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm</field>
+        <field name="Datasheet">https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VDD" type="power_in"/>
+        <pin num="2" name="DOUT" type="output"/>
+        <pin num="3" name="VSS" type="power_in"/>
+        <pin num="4" name="DIN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MB_i2c_header" part="MB_i2c_header">
+      <fields>
+        <field name="Reference">Connector</field>
+        <field name="Value">MB_i2c_header</field>
+        <field name="Footprint">Connector_i2c_header</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="0" type="no_connect"/>
+        <pin num="3" name="SCL" type="input"/>
+        <pin num="4" name="SDA" type="input"/>
+        <pin num="5" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="hazel" part="D">
+      <fields>
+        <field name="Reference">D4</field>
+        <field name="Value">D</field>
+        <field name="Footprint">0-jasonhazel-footprints:D_SOD-123</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="hazel" part="SW">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="bidirectional"/>
+        <pin num="2" name="" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="mcu" part="rp2040-zero">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">rp2040-zero</field>
+      </fields>
+      <pins>
+        <pin num="1" name="0" type="bidirectional"/>
+        <pin num="2" name="1" type="bidirectional"/>
+        <pin num="3" name="2" type="bidirectional"/>
+        <pin num="4" name="3" type="bidirectional"/>
+        <pin num="5" name="4" type="bidirectional"/>
+        <pin num="6" name="5" type="bidirectional"/>
+        <pin num="7" name="6" type="bidirectional"/>
+        <pin num="8" name="7" type="bidirectional"/>
+        <pin num="9" name="8" type="bidirectional"/>
+        <pin num="10" name="9" type="bidirectional"/>
+        <pin num="11" name="10" type="bidirectional"/>
+        <pin num="12" name="11" type="bidirectional"/>
+        <pin num="13" name="12" type="bidirectional"/>
+        <pin num="14" name="13" type="bidirectional"/>
+        <pin num="15" name="14" type="bidirectional"/>
+        <pin num="16" name="15" type="bidirectional"/>
+        <pin num="17" name="26" type="bidirectional"/>
+        <pin num="18" name="27" type="bidirectional"/>
+        <pin num="19" name="28" type="bidirectional"/>
+        <pin num="20" name="29" type="bidirectional"/>
+        <pin num="21" name="3V3" type="power_out"/>
+        <pin num="22" name="GND" type="power_out"/>
+        <pin num="23" name="5V" type="power_out"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="LED">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/LED.kicad_sym</uri>
+    </library>
+    <library logical="MB_i2c_header">
+      <uri>C:\Users\mikeb\OneDrive\Documents\GitHub\capsule/MB_i2c_header.kicad_sym</uri>
+    </library>
+    <library logical="mcu">
+      <uri>C:\Users\mikeb\OneDrive\Documents\GitHub\capsule/kleeb/mcu.kicad_sym</uri>
+    </library>
+  </libraries>
   <nets>
-    <net code="0" name="ROW0">
-      <node ref="D8" pin="1"/>
-      <node ref="D9" pin="1"/>
-      <node ref="D1" pin="1"/>
-      <node ref="D3" pin="1"/>
-      <node ref="D4" pin="1"/>
-      <node ref="D5" pin="1"/>
-      <node ref="D6" pin="1"/>
-      <node ref="D10" pin="1"/>
-      <node ref="U1" pin="8"/>
-      <node ref="D2" pin="1"/>
-      <node ref="D7" pin="1"/>
-    </net>
     <net code="1" name="COL0">
-      <node ref="SW21" pin="1"/>
-      <node ref="SW1" pin="1"/>
-      <node ref="U1" pin="11"/>
-      <node ref="SW11" pin="1"/>
+      <node ref="SW1" pin="2" pintype="bidirectional"/>
+      <node ref="SW11" pin="2" pintype="bidirectional"/>
+      <node ref="SW21" pin="2" pintype="bidirectional"/>
+      <node ref="U1" pin="4" pinfunction="3" pintype="bidirectional"/>
     </net>
-    <net code="2" name="N$1">
-      <node ref="SW1" pin="2"/>
-      <node ref="D1" pin="2"/>
+    <net code="2" name="COL1">
+      <node ref="SW12" pin="2" pintype="bidirectional"/>
+      <node ref="SW2" pin="2" pintype="bidirectional"/>
+      <node ref="SW22" pin="2" pintype="bidirectional"/>
+      <node ref="U1" pin="5" pinfunction="4" pintype="bidirectional"/>
     </net>
-    <net code="3" name="COL1">
-      <node ref="SW12" pin="1"/>
-      <node ref="U1" pin="28"/>
-      <node ref="SW2" pin="1"/>
-      <node ref="SW22" pin="1"/>
+    <net code="3" name="COL2">
+      <node ref="SW13" pin="2" pintype="bidirectional"/>
+      <node ref="SW23" pin="2" pintype="bidirectional"/>
+      <node ref="SW3" pin="2" pintype="bidirectional"/>
+      <node ref="U1" pin="6" pinfunction="5" pintype="bidirectional"/>
     </net>
-    <net code="4" name="N$2">
-      <node ref="D2" pin="2"/>
-      <node ref="SW2" pin="2"/>
+    <net code="4" name="COL3">
+      <node ref="SW14" pin="2" pintype="bidirectional"/>
+      <node ref="SW24" pin="2" pintype="bidirectional"/>
+      <node ref="SW4" pin="2" pintype="bidirectional"/>
+      <node ref="U1" pin="7" pinfunction="6" pintype="bidirectional"/>
     </net>
-    <net code="5" name="COL2">
-      <node ref="U1" pin="29"/>
-      <node ref="SW3" pin="1"/>
-      <node ref="SW23" pin="1"/>
-      <node ref="SW13" pin="1"/>
+    <net code="5" name="COL4">
+      <node ref="SW15" pin="2" pintype="bidirectional"/>
+      <node ref="SW25" pin="2" pintype="bidirectional"/>
+      <node ref="SW5" pin="2" pintype="bidirectional"/>
+      <node ref="U1" pin="8" pinfunction="7" pintype="bidirectional"/>
     </net>
-    <net code="6" name="N$3">
-      <node ref="D3" pin="2"/>
-      <node ref="SW3" pin="2"/>
+    <net code="6" name="COL5">
+      <node ref="SW16" pin="2" pintype="bidirectional"/>
+      <node ref="SW26" pin="2" pintype="bidirectional"/>
+      <node ref="SW6" pin="2" pintype="bidirectional"/>
+      <node ref="U1" pin="14" pinfunction="13" pintype="bidirectional"/>
     </net>
-    <net code="7" name="COL3">
-      <node ref="U1" pin="30"/>
-      <node ref="SW4" pin="1"/>
-      <node ref="SW14" pin="1"/>
-      <node ref="SW24" pin="1"/>
+    <net code="7" name="COL6">
+      <node ref="SW17" pin="2" pintype="bidirectional"/>
+      <node ref="SW27" pin="2" pintype="bidirectional"/>
+      <node ref="SW7" pin="2" pintype="bidirectional"/>
+      <node ref="U1" pin="15" pinfunction="14" pintype="bidirectional"/>
     </net>
-    <net code="8" name="N$4">
-      <node ref="D4" pin="2"/>
-      <node ref="SW4" pin="2"/>
+    <net code="8" name="COL7">
+      <node ref="SW18" pin="2" pintype="bidirectional"/>
+      <node ref="SW28" pin="2" pintype="bidirectional"/>
+      <node ref="SW8" pin="2" pintype="bidirectional"/>
+      <node ref="U1" pin="17" pinfunction="26" pintype="bidirectional"/>
     </net>
-    <net code="9" name="COL4">
-      <node ref="U1" pin="12"/>
-      <node ref="SW15" pin="1"/>
-      <node ref="SW5" pin="1"/>
-      <node ref="SW25" pin="1"/>
+    <net code="9" name="COL8">
+      <node ref="SW19" pin="2" pintype="bidirectional"/>
+      <node ref="SW29" pin="2" pintype="bidirectional"/>
+      <node ref="SW9" pin="2" pintype="bidirectional"/>
+      <node ref="U1" pin="18" pinfunction="27" pintype="bidirectional"/>
     </net>
-    <net code="10" name="N$5">
-      <node ref="SW5" pin="2"/>
-      <node ref="D5" pin="2"/>
+    <net code="10" name="COL9">
+      <node ref="SW10" pin="2" pintype="bidirectional"/>
+      <node ref="SW20" pin="2" pintype="bidirectional"/>
+      <node ref="SW30" pin="2" pintype="bidirectional"/>
+      <node ref="U1" pin="19" pinfunction="28" pintype="bidirectional"/>
     </net>
-    <net code="11" name="COL7">
-      <node ref="SW6" pin="1"/>
-      <node ref="SW26" pin="1"/>
-      <node ref="U1" pin="31"/>
-      <node ref="SW16" pin="1"/>
+    <net code="11" name="GND">
+      <node ref="Connector1" pin="1" pinfunction="GND" pintype="power_in"/>
+      <node ref="LED01" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LED02" pin="3" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U1" pin="22" pinfunction="GND" pintype="power_out"/>
     </net>
-    <net code="12" name="N$6">
-      <node ref="SW6" pin="2"/>
-      <node ref="D6" pin="2"/>
+    <net code="12" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pintype="output"/>
+      <node ref="SW1" pin="1" pintype="bidirectional"/>
     </net>
-    <net code="13" name="COL8">
-      <node ref="SW7" pin="1"/>
-      <node ref="SW27" pin="1"/>
-      <node ref="SW17" pin="1"/>
-      <node ref="U1" pin="32"/>
+    <net code="13" name="Net-(D2-Pad2)">
+      <node ref="D2" pin="2" pintype="output"/>
+      <node ref="SW2" pin="1" pintype="bidirectional"/>
     </net>
-    <net code="14" name="N$7">
-      <node ref="SW7" pin="2"/>
-      <node ref="D7" pin="2"/>
+    <net code="14" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pintype="output"/>
+      <node ref="SW3" pin="1" pintype="bidirectional"/>
     </net>
-    <net code="15" name="COL9">
-      <node ref="SW18" pin="1"/>
-      <node ref="U1" pin="18"/>
-      <node ref="SW28" pin="1"/>
-      <node ref="SW8" pin="1"/>
+    <net code="15" name="Net-(D4-Pad2)">
+      <node ref="D4" pin="2" pintype="output"/>
+      <node ref="SW4" pin="1" pintype="bidirectional"/>
     </net>
-    <net code="16" name="N$8">
-      <node ref="D8" pin="2"/>
-      <node ref="SW8" pin="2"/>
+    <net code="16" name="Net-(D5-Pad2)">
+      <node ref="D5" pin="2" pintype="output"/>
+      <node ref="SW5" pin="1" pintype="bidirectional"/>
     </net>
-    <net code="17" name="COL10">
-      <node ref="SW19" pin="1"/>
-      <node ref="SW29" pin="1"/>
-      <node ref="U1" pin="19"/>
-      <node ref="SW9" pin="1"/>
+    <net code="17" name="Net-(D6-Pad2)">
+      <node ref="D6" pin="2" pintype="output"/>
+      <node ref="SW6" pin="1" pintype="bidirectional"/>
     </net>
-    <net code="18" name="N$9">
-      <node ref="SW9" pin="2"/>
-      <node ref="D9" pin="2"/>
+    <net code="18" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2" pintype="output"/>
+      <node ref="SW7" pin="1" pintype="bidirectional"/>
     </net>
-    <net code="19" name="COL11">
-      <node ref="SW30" pin="1"/>
-      <node ref="U1" pin="20"/>
-      <node ref="SW20" pin="1"/>
-      <node ref="SW10" pin="1"/>
+    <net code="19" name="Net-(D8-Pad2)">
+      <node ref="D8" pin="2" pintype="output"/>
+      <node ref="SW8" pin="1" pintype="bidirectional"/>
     </net>
-    <net code="20" name="N$10">
-      <node ref="SW10" pin="2"/>
-      <node ref="D10" pin="2"/>
+    <net code="20" name="Net-(D9-Pad2)">
+      <node ref="D9" pin="2" pintype="output"/>
+      <node ref="SW9" pin="1" pintype="bidirectional"/>
     </net>
-    <net code="21" name="ROW1">
-      <node ref="D19" pin="1"/>
-      <node ref="D20" pin="1"/>
-      <node ref="D13" pin="1"/>
-      <node ref="D15" pin="1"/>
-      <node ref="D14" pin="1"/>
-      <node ref="D16" pin="1"/>
-      <node ref="D11" pin="1"/>
-      <node ref="D17" pin="1"/>
-      <node ref="D12" pin="1"/>
-      <node ref="D18" pin="1"/>
-      <node ref="U1" pin="9"/>
+    <net code="21" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2" pintype="output"/>
+      <node ref="SW10" pin="1" pintype="bidirectional"/>
     </net>
-    <net code="22" name="N$11">
-      <node ref="D11" pin="2"/>
-      <node ref="SW11" pin="2"/>
+    <net code="22" name="Net-(D11-Pad2)">
+      <node ref="D11" pin="2" pintype="output"/>
+      <node ref="SW11" pin="1" pintype="bidirectional"/>
     </net>
-    <net code="23" name="N$12">
-      <node ref="D12" pin="2"/>
-      <node ref="SW12" pin="2"/>
+    <net code="23" name="Net-(D12-Pad2)">
+      <node ref="D12" pin="2" pintype="output"/>
+      <node ref="SW12" pin="1" pintype="bidirectional"/>
     </net>
-    <net code="24" name="N$13">
-      <node ref="SW13" pin="2"/>
-      <node ref="D13" pin="2"/>
+    <net code="24" name="Net-(D13-Pad2)">
+      <node ref="D13" pin="2" pintype="output"/>
+      <node ref="SW13" pin="1" pintype="bidirectional"/>
     </net>
-    <net code="25" name="N$14">
-      <node ref="SW14" pin="2"/>
-      <node ref="D14" pin="2"/>
+    <net code="25" name="Net-(D14-Pad2)">
+      <node ref="D14" pin="2" pintype="output"/>
+      <node ref="SW14" pin="1" pintype="bidirectional"/>
     </net>
-    <net code="26" name="N$15">
-      <node ref="SW15" pin="2"/>
-      <node ref="D15" pin="2"/>
+    <net code="26" name="Net-(D15-Pad2)">
+      <node ref="D15" pin="2" pintype="output"/>
+      <node ref="SW15" pin="1" pintype="bidirectional"/>
     </net>
-    <net code="27" name="N$16">
-      <node ref="D16" pin="2"/>
-      <node ref="SW16" pin="2"/>
+    <net code="27" name="Net-(D16-Pad2)">
+      <node ref="D16" pin="2" pintype="output"/>
+      <node ref="SW16" pin="1" pintype="bidirectional"/>
     </net>
-    <net code="28" name="N$17">
-      <node ref="SW17" pin="2"/>
-      <node ref="D17" pin="2"/>
+    <net code="28" name="Net-(D17-Pad2)">
+      <node ref="D17" pin="2" pintype="output"/>
+      <node ref="SW17" pin="1" pintype="bidirectional"/>
     </net>
-    <net code="29" name="N$18">
-      <node ref="D18" pin="2"/>
-      <node ref="SW18" pin="2"/>
+    <net code="29" name="Net-(D18-Pad2)">
+      <node ref="D18" pin="2" pintype="output"/>
+      <node ref="SW18" pin="1" pintype="bidirectional"/>
     </net>
-    <net code="30" name="N$19">
-      <node ref="SW19" pin="2"/>
-      <node ref="D19" pin="2"/>
+    <net code="30" name="Net-(D19-Pad2)">
+      <node ref="D19" pin="2" pintype="output"/>
+      <node ref="SW19" pin="1" pintype="bidirectional"/>
     </net>
-    <net code="31" name="N$20">
-      <node ref="SW20" pin="2"/>
-      <node ref="D20" pin="2"/>
+    <net code="31" name="Net-(D20-Pad2)">
+      <node ref="D20" pin="2" pintype="output"/>
+      <node ref="SW20" pin="1" pintype="bidirectional"/>
     </net>
-    <net code="32" name="ROW2">
-      <node ref="D29" pin="1"/>
-      <node ref="D28" pin="1"/>
-      <node ref="D26" pin="1"/>
-      <node ref="D30" pin="1"/>
-      <node ref="D27" pin="1"/>
-      <node ref="D24" pin="1"/>
-      <node ref="D23" pin="1"/>
-      <node ref="D22" pin="1"/>
-      <node ref="D21" pin="1"/>
-      <node ref="D25" pin="1"/>
-      <node ref="U1" pin="10"/>
+    <net code="32" name="Net-(D21-Pad2)">
+      <node ref="D21" pin="2" pintype="output"/>
+      <node ref="SW21" pin="1" pintype="bidirectional"/>
     </net>
-    <net code="33" name="N$21">
-      <node ref="D21" pin="2"/>
-      <node ref="SW21" pin="2"/>
+    <net code="33" name="Net-(D22-Pad2)">
+      <node ref="D22" pin="2" pintype="output"/>
+      <node ref="SW22" pin="1" pintype="bidirectional"/>
     </net>
-    <net code="34" name="N$22">
-      <node ref="D22" pin="2"/>
-      <node ref="SW22" pin="2"/>
+    <net code="34" name="Net-(D23-Pad2)">
+      <node ref="D23" pin="2" pintype="output"/>
+      <node ref="SW23" pin="1" pintype="bidirectional"/>
     </net>
-    <net code="35" name="N$23">
-      <node ref="SW23" pin="2"/>
-      <node ref="D23" pin="2"/>
+    <net code="35" name="Net-(D24-Pad2)">
+      <node ref="D24" pin="2" pintype="output"/>
+      <node ref="SW24" pin="1" pintype="bidirectional"/>
     </net>
-    <net code="36" name="N$24">
-      <node ref="SW24" pin="2"/>
-      <node ref="D24" pin="2"/>
+    <net code="36" name="Net-(D25-Pad2)">
+      <node ref="D25" pin="2" pintype="output"/>
+      <node ref="SW25" pin="1" pintype="bidirectional"/>
     </net>
-    <net code="37" name="N$25">
-      <node ref="D25" pin="2"/>
-      <node ref="SW25" pin="2"/>
+    <net code="37" name="Net-(D26-Pad2)">
+      <node ref="D26" pin="2" pintype="output"/>
+      <node ref="SW26" pin="1" pintype="bidirectional"/>
     </net>
-    <net code="38" name="N$26">
-      <node ref="SW26" pin="2"/>
-      <node ref="D26" pin="2"/>
+    <net code="38" name="Net-(D27-Pad2)">
+      <node ref="D27" pin="2" pintype="output"/>
+      <node ref="SW27" pin="1" pintype="bidirectional"/>
     </net>
-    <net code="39" name="N$27">
-      <node ref="SW27" pin="2"/>
-      <node ref="D27" pin="2"/>
+    <net code="39" name="Net-(D28-Pad2)">
+      <node ref="D28" pin="2" pintype="output"/>
+      <node ref="SW28" pin="1" pintype="bidirectional"/>
     </net>
-    <net code="40" name="N$28">
-      <node ref="D28" pin="2"/>
-      <node ref="SW28" pin="2"/>
+    <net code="40" name="Net-(D29-Pad2)">
+      <node ref="D29" pin="2" pintype="output"/>
+      <node ref="SW29" pin="1" pintype="bidirectional"/>
     </net>
-    <net code="41" name="N$29">
-      <node ref="D29" pin="2"/>
-      <node ref="SW29" pin="2"/>
+    <net code="41" name="Net-(D30-Pad2)">
+      <node ref="D30" pin="2" pintype="output"/>
+      <node ref="SW30" pin="1" pintype="bidirectional"/>
     </net>
-    <net code="42" name="N$30">
-      <node ref="SW30" pin="2"/>
-      <node ref="D30" pin="2"/>
+    <net code="42" name="Net-(LED01-DOUT)">
+      <node ref="LED01" pin="2" pinfunction="DOUT" pintype="output"/>
+      <node ref="LED02" pin="4" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="43" name="VCC">
-      <node ref="U1" pin="34"/>
-      <node ref="J1" pin="B4"/>
-      <node ref="U1" pin="2"/>
-      <node ref="U2" pin="5"/>
-      <node ref="C6" pin="1"/>
-      <node ref="J1" pin="A9"/>
-      <node ref="U1" pin="7"/>
-      <node ref="J1" pin="A4"/>
-      <node ref="C3" pin="1"/>
-      <node ref="C5" pin="1"/>
-      <node ref="U1" pin="44"/>
-      <node ref="U1" pin="14"/>
-      <node ref="J1" pin="B9"/>
-      <node ref="C4" pin="1"/>
-      <node ref="U1" pin="24"/>
-      <node ref="C7" pin="1"/>
-      <node ref="R4" pin="2"/>
+    <net code="43" name="RGB">
+      <node ref="LED01" pin="4" pinfunction="DIN" pintype="input"/>
+      <node ref="U1" pin="10" pinfunction="9" pintype="bidirectional"/>
     </net>
-    <net code="44" name="GND">
-      <node ref="Y1" pin="4"/>
-      <node ref="C6" pin="2"/>
-      <node ref="U1" pin="43"/>
-      <node ref="C1" pin="2"/>
-      <node ref="C7" pin="2"/>
-      <node ref="U1" pin="15"/>
-      <node ref="J1" pin="S1"/>
-      <node ref="C2" pin="2"/>
-      <node ref="C8" pin="2"/>
-      <node ref="J1" pin="B12"/>
-      <node ref="R3" pin="2"/>
-      <node ref="U1" pin="35"/>
-      <node ref="Y1" pin="2"/>
-      <node ref="C3" pin="2"/>
-      <node ref="J1" pin="B1"/>
-      <node ref="U1" pin="23"/>
-      <node ref="RST" pin="1"/>
-      <node ref="U1" pin="5"/>
-      <node ref="C4" pin="2"/>
-      <node ref="U2" pin="2"/>
-      <node ref="J1" pin="A1"/>
-      <node ref="C5" pin="2"/>
-      <node ref="J1" pin="A12"/>
+    <net code="44" name="ROW0">
+      <node ref="D1" pin="1" pintype="input"/>
+      <node ref="D2" pin="1" pintype="input"/>
+      <node ref="D3" pin="1" pintype="input"/>
+      <node ref="D4" pin="1" pintype="input"/>
+      <node ref="D5" pin="1" pintype="input"/>
+      <node ref="U1" pin="1" pinfunction="0" pintype="bidirectional"/>
     </net>
-    <net code="45" name="mcu/XTAL1">
-      <node ref="Y1" pin="1"/>
-      <node ref="U1" pin="17"/>
-      <node ref="C1" pin="1"/>
+    <net code="45" name="ROW1">
+      <node ref="D11" pin="1" pintype="input"/>
+      <node ref="D12" pin="1" pintype="input"/>
+      <node ref="D13" pin="1" pintype="input"/>
+      <node ref="D14" pin="1" pintype="input"/>
+      <node ref="D15" pin="1" pintype="input"/>
+      <node ref="U1" pin="2" pinfunction="1" pintype="bidirectional"/>
     </net>
-    <net code="46" name="mcu/XTAL2">
-      <node ref="U1" pin="16"/>
-      <node ref="Y1" pin="3"/>
-      <node ref="C2" pin="1"/>
+    <net code="46" name="ROW2">
+      <node ref="D21" pin="1" pintype="input"/>
+      <node ref="D22" pin="1" pintype="input"/>
+      <node ref="D23" pin="1" pintype="input"/>
+      <node ref="D24" pin="1" pintype="input"/>
+      <node ref="D25" pin="1" pintype="input"/>
+      <node ref="U1" pin="3" pinfunction="2" pintype="bidirectional"/>
     </net>
-    <net code="47" name="mcu/UCAP">
-      <node ref="U1" pin="6"/>
-      <node ref="C8" pin="1"/>
+    <net code="47" name="ROW3">
+      <node ref="D10" pin="1" pintype="input"/>
+      <node ref="D6" pin="1" pintype="input"/>
+      <node ref="D7" pin="1" pintype="input"/>
+      <node ref="D8" pin="1" pintype="input"/>
+      <node ref="D9" pin="1" pintype="input"/>
+      <node ref="U1" pin="20" pinfunction="29" pintype="bidirectional"/>
     </net>
-    <net code="48" name="usb/D-">
-      <node ref="J1" pin="A7"/>
-      <node ref="U2" pin="3"/>
-      <node ref="J1" pin="B7"/>
+    <net code="48" name="ROW4">
+      <node ref="D16" pin="1" pintype="input"/>
+      <node ref="D17" pin="1" pintype="input"/>
+      <node ref="D18" pin="1" pintype="input"/>
+      <node ref="D19" pin="1" pintype="input"/>
+      <node ref="D20" pin="1" pintype="input"/>
+      <node ref="U1" pin="16" pinfunction="15" pintype="bidirectional"/>
     </net>
-    <net code="49" name="usb/D+">
-      <node ref="J1" pin="B6"/>
-      <node ref="J1" pin="A6"/>
-      <node ref="U2" pin="4"/>
+    <net code="49" name="ROW5">
+      <node ref="D26" pin="1" pintype="input"/>
+      <node ref="D27" pin="1" pintype="input"/>
+      <node ref="D28" pin="1" pintype="input"/>
+      <node ref="D29" pin="1" pintype="input"/>
+      <node ref="D30" pin="1" pintype="input"/>
+      <node ref="U1" pin="13" pinfunction="12" pintype="bidirectional"/>
     </net>
-    <net code="50" name="u2/D-">
-      <node ref="R1" pin="2"/>
-      <node ref="U2" pin="1"/>
+    <net code="50" name="SCL">
+      <node ref="Connector1" pin="3" pinfunction="SCL" pintype="input"/>
+      <node ref="U1" pin="12" pinfunction="11" pintype="bidirectional"/>
     </net>
-    <net code="51" name="u2/D+">
-      <node ref="R2" pin="2"/>
-      <node ref="U2" pin="6"/>
+    <net code="51" name="SDA">
+      <node ref="Connector1" pin="4" pinfunction="SDA" pintype="input"/>
+      <node ref="U1" pin="11" pinfunction="10" pintype="bidirectional"/>
     </net>
-    <net code="52" name="mcu/D-">
-      <node ref="U1" pin="3"/>
-      <node ref="R1" pin="1"/>
+    <net code="52" name="VCC">
+      <node ref="Connector1" pin="5" pinfunction="VCC" pintype="power_in"/>
+      <node ref="LED01" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="LED02" pin="1" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U1" pin="23" pinfunction="5V" pintype="power_out"/>
     </net>
-    <net code="53" name="mcu/D+">
-      <node ref="U1" pin="4"/>
-      <node ref="R2" pin="1"/>
+    <net code="53" name="unconnected-(Connector1-0-Pad2)">
+      <node ref="Connector1" pin="2" pinfunction="0" pintype="no_connect"/>
     </net>
-    <net code="54" name="mcu/~{HWB}/PE2">
-      <node ref="R3" pin="1"/>
-      <node ref="U1" pin="33"/>
+    <net code="54" name="unconnected-(LED02-DOUT-Pad2)">
+      <node ref="LED02" pin="2" pinfunction="DOUT" pintype="output+no_connect"/>
     </net>
-    <net code="55" name="mcu/~{RESET}">
-      <node ref="U1" pin="13"/>
-      <node ref="R4" pin="1"/>
-      <node ref="RST" pin="2"/>
+    <net code="55" name="unconnected-(U1-3V3-Pad21)">
+      <node ref="U1" pin="21" pinfunction="3V3" pintype="power_out+no_connect"/>
+    </net>
+    <net code="56" name="unconnected-(U1-8-Pad9)">
+      <node ref="U1" pin="9" pinfunction="8" pintype="bidirectional"/>
     </net>
   </nets>
 </export>

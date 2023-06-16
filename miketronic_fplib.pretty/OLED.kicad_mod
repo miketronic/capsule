@@ -1,0 +1,140 @@
+(footprint "OLED" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (descr "Adafruit SSD1306 OLED 1.3 inch 128x64 I2C & SPI https://learn.adafruit.com/monochrome-oled-breakouts/downloads")
+  (tags "Adafruit SSD1306 OLED 1.3 inch 128x64 I2C & SPI ")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 8.89 -5) (layer "F.SilkS")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 0a3b023f-55ab-4a6b-a657-b0e03830810d)
+  )
+  (fp_text value "OLED" (at 8.89 30) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 267208ec-ad8e-4bf3-9186-e432c3110d8f)
+  )
+  (fp_text user "${REFERENCE}" (at 11.727 17.257) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 20696fbb-bd11-45e0-af33-1e6a99395317)
+  )
+  (fp_text user "${REFERENCE}" (at 10.278 17.507) (layer "F.Fab")
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 909d0a2f-7d95-408c-9994-4d14209ad986)
+  )
+  (fp_line (start -5.2 -3) (end 22.8 -3)
+    (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp d1affd0a-5378-4ee6-a55a-e2d2e4feca68))
+  (fp_line (start -5.2 39) (end -5.2 -3)
+    (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp aaea1db5-7a09-47b5-a2c5-dbfd02a1b44b))
+  (fp_line (start -1.325 3.625) (end -1.325 23.625)
+    (stroke (width 0.1) (type solid)) (layer "F.SilkS") (tstamp 3328558f-7100-4867-a31b-4c392e63627d))
+  (fp_line (start -1.325 3.625) (end 19.851 3.625)
+    (stroke (width 0.1) (type solid)) (layer "F.SilkS") (tstamp 5eb4f6eb-e022-4bbe-b56e-6f4df0e65259))
+  (fp_line (start -1.325 23.625) (end 19.851 23.625)
+    (stroke (width 0.1) (type solid)) (layer "F.SilkS") (tstamp 31976617-7b12-4a1a-b1d7-8cb3ecf67429))
+  (fp_line (start 19.851 3.625) (end 19.851 23.625)
+    (stroke (width 0.1) (type solid)) (layer "F.SilkS") (tstamp 4d4f84fc-37ae-4cef-b95b-c321d78a3d0f))
+  (fp_line (start 22.8 -3) (end 22.8 39)
+    (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp f7e216d3-e4cb-4c6f-b553-33a4af5683ec))
+  (fp_line (start 22.8 39) (end -5.2 39)
+    (stroke (width 0.1) (type default)) (layer "F.SilkS") (tstamp 190492c2-2f99-4f6b-97df-c189fe68bebd))
+  (fp_line (start -6.08 -3.1) (end -6.08 38.9)
+    (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp a340cd7f-57ff-4460-93db-c96b70cfec9f))
+  (fp_line (start -6.08 -3.1) (end 23.7 -3.1)
+    (stroke (width 0.05) (type default)) (layer "F.CrtYd") (tstamp 7c58cbb9-c8dd-4bad-9ea3-20a06497d867))
+  (fp_line (start -6.08 38.9) (end 23.7 38.9)
+    (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp c5b9f00d-bafb-44c1-8f19-25542788f19f))
+  (fp_line (start 23.7 -3.1) (end 23.7 38.9)
+    (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp c7dd9a9f-a67b-4e3b-9137-235723dcdc48))
+  (fp_line (start 26.67 0) (end -8.89 0)
+    (stroke (width 0.05) (type solid)) (layer "F.CrtYd") (tstamp ed0b6ae8-0ef1-4a27-8887-3310866e2b7a))
+  (fp_line (start -4.9 -3) (end -4.9 39)
+    (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp c0ea8705-5339-44b0-a29f-a8499817713b))
+  (fp_line (start -4.9 -3) (end 23.1 -3)
+    (stroke (width 0.1) (type default)) (layer "F.Fab") (tstamp 05a808c9-2269-4cfe-b61a-c5e9c807b343))
+  (fp_line (start -4.9 39) (end 23.1 39)
+    (stroke (width 0.1) (type default)) (layer "F.Fab") (tstamp ea6fdcd0-8fbb-428f-a3d1-3cc5da6f41ac))
+  (fp_line (start -2.751 2.525) (end -2.751 22.525)
+    (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 017c1591-925a-416f-bba1-20da88e59d07))
+  (fp_line (start -2.751 2.525) (end 18.425 2.525)
+    (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 628fe6e1-17f9-40ba-9e10-103f71eb5f89))
+  (fp_line (start -2.751 22.525) (end 18.425 22.525)
+    (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 65d4dc7b-45be-474a-9224-dda9de8883f5))
+  (fp_line (start -0.78 -3.048) (end 0 -2.268)
+    (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp c3a03086-3647-49aa-ac3f-e6fe19818d19))
+  (fp_line (start 0 -2.268) (end 0.78 -3.048)
+    (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp ce281c7c-5230-48cb-9691-7d08fa868e89))
+  (fp_line (start 18.425 2.525) (end 18.425 22.525)
+    (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 9dd3fbbf-17c1-4ef7-920b-dc1661bed908))
+  (fp_line (start 23.1 -3) (end 23.1 39)
+    (stroke (width 0.1) (type default)) (layer "F.Fab") (tstamp 959cf564-5b2e-4c48-8774-2577c3a13cb7))
+  (fp_line (start 26.416 0) (end -8.636 0)
+    (stroke (width 0.1) (type solid)) (layer "F.Fab") (tstamp 96d4e135-8f42-48b5-901a-f262db9ab0cc))
+  (pad "" np_thru_hole circle (at -5.588 0) (size 2.7 2.7) (drill 2.7) (layers "*.Cu" "*.Mask") (tstamp ba4fbe2c-fa64-4ba7-a163-64dcb8cb9fdc))
+  (pad "" np_thru_hole circle (at -5.588 29.464) (size 2.7 2.7) (drill 2.7) (layers "*.Cu" "*.Mask") (tstamp 3d5c5bf4-ccd2-4891-a019-90edc95ee2e8))
+  (pad "" np_thru_hole circle (at 23.368 0) (size 2.7 2.7) (drill 2.7) (layers "*.Cu" "*.Mask") (tstamp 0f6b286f-ab34-4a81-b40b-6418edb9677b))
+  (pad "" np_thru_hole circle (at 23.368 29.464) (size 2.7 2.7) (drill 2.7) (layers "*.Cu" "*.Mask") (tstamp bcd79c34-27c6-4995-92d2-f6ef6dac8c08))
+  (pad "1" thru_hole rect (at 0 0) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 3f0db373-7dc1-4cf8-9ff5-cd61f6075949))
+  (pad "2" thru_hole circle (at 2.54 0) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 28f0b803-96a4-4ab9-8b12-342a00847d2f))
+  (pad "3" thru_hole circle (at 5.08 0) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 7786772d-b5f0-4ac1-9f44-e881e6fad47d))
+  (pad "4" thru_hole circle (at 7.62 0) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp f1a46180-6188-47ba-b0a1-5dfb12209332))
+  (pad "5" thru_hole circle (at 10.16 0) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 18c0635a-a6a3-43e6-8b4e-f225af6e3cd0))
+  (pad "6" thru_hole circle (at 12.7 0) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp e370eb7b-7d71-4f17-8adc-2b48c1a58a72))
+  (pad "7" thru_hole circle (at 15.24 0) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp f0028d0f-dcb0-49e6-af15-a2f392538e3d))
+  (pad "8" thru_hole circle (at 17.78 0) (size 1.7 1.7) (drill 1) (layers "*.Cu" "*.Mask") (tstamp 5cb3c167-6c27-4c39-9beb-d495d3c17f02))
+  (group "" (id 0b0d90eb-3339-45d1-b9a7-140aadc65f56)
+    (members
+      190492c2-2f99-4f6b-97df-c189fe68bebd
+      aaea1db5-7a09-47b5-a2c5-dbfd02a1b44b
+      d1affd0a-5378-4ee6-a55a-e2d2e4feca68
+      f7e216d3-e4cb-4c6f-b553-33a4af5683ec
+    )
+  )
+  (group "" (id 22e1cae1-e750-4573-9be1-608a7a1b6416)
+    (members
+      31976617-7b12-4a1a-b1d7-8cb3ecf67429
+      3328558f-7100-4867-a31b-4c392e63627d
+      4d4f84fc-37ae-4cef-b95b-c321d78a3d0f
+      5eb4f6eb-e022-4bbe-b56e-6f4df0e65259
+    )
+  )
+  (group "" (id 3a2af011-f412-41af-b22d-56cf6c6eb4f4)
+    (members
+      0b0d90eb-3339-45d1-b9a7-140aadc65f56
+      12664292-60cd-46a5-976e-449c35e2099f
+      7c58cbb9-c8dd-4bad-9ea3-20a06497d867
+      8b2ee676-5a4f-471b-9fa2-cfa60817f295
+    )
+  )
+  (group "" (id 12664292-60cd-46a5-976e-449c35e2099f)
+    (members
+      a340cd7f-57ff-4460-93db-c96b70cfec9f
+      c5b9f00d-bafb-44c1-8f19-25542788f19f
+      c7dd9a9f-a67b-4e3b-9137-235723dcdc48
+    )
+  )
+  (group "" (id 1c4a98ec-28b0-4b17-b41e-bb09954d447a)
+    (members
+      909d0a2f-7d95-408c-9994-4d14209ad986
+    )
+  )
+  (group "" (id 46db8506-dfeb-441a-a148-b0f4b97acd8e)
+    (members
+      017c1591-925a-416f-bba1-20da88e59d07
+      20696fbb-bd11-45e0-af33-1e6a99395317
+      628fe6e1-17f9-40ba-9e10-103f71eb5f89
+      65d4dc7b-45be-474a-9224-dda9de8883f5
+      9dd3fbbf-17c1-4ef7-920b-dc1661bed908
+    )
+  )
+  (group "" (id 8b2ee676-5a4f-471b-9fa2-cfa60817f295)
+    (members
+      05a808c9-2269-4cfe-b61a-c5e9c807b343
+      959cf564-5b2e-4c48-8774-2577c3a13cb7
+      c0ea8705-5339-44b0-a29f-a8499817713b
+      ea6fdcd0-8fbb-428f-a3d1-3cc5da6f41ac
+    )
+  )
+  (model "${KICAD6_3DMODEL_DIR}/Display.3dshapes/Adafruit_SSD1306.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)
