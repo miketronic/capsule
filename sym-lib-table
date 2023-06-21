@@ -15,4 +15,7 @@
   (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/symbols/marbastlib-mx.kicad_sym")(options "")(descr ""))
   (lib (name "marbastlib-promicroish")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/symbols/marbastlib-promicroish.kicad_sym")(options "")(descr ""))
   (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/symbols/marbastlib-various.kicad_sym")(options "")(descr ""))
+  (lib (name "keyboard_parts")(type "Legacy")(uri "${KIPRJMOD}/kicad_lib_tmk-master/keyboard_parts.lib")(options "")(descr ""))
+  (lib (name "mkl27z256vfm4")(type "Legacy")(uri "${KIPRJMOD}/kicad_lib_tmk-master/mkl27z256vfm4.lib")(options "")(descr ""))
+  (lib (name "aek67-rescue")(type "KiCad")(uri "${KIPRJMOD}/aek67-rescue.kicad_sym")(options "")(descr ""))
 )
